@@ -18,4 +18,3 @@ Other great sources of chords+lyrics content:
 -   [Ultimate-Guitar.com](https://www.ultimate-guitar.com/)
 -   [MuseScore.org](https://musescore.org)
 
-## Content
