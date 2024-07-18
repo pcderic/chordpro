@@ -1,0 +1,112 @@
+{title: Three Little Birds}
+{artist: Bob Marley}
+{key: A}
+{duration: 180}
+{tempo: 76}
+
+{textfont: courier}
+{chordfont: courier}
+
+
+{c: INTRO}
+(snare) [A](organ [A]riff)  [A]       [A]
+
+
+{c: CHORUS}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right, singin'
+{textcolor}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right
+{textcolor}
+
+
+{c: VERSE 1}
+
+Rise up this [A]mornin', smile with the [E]risin' sun,
+
+Three little [D]birds pitch by my [D]doorstep
+
+Singin' [A]sweet songs of melodies [E]pure and true, sayin'
+
+[D]This is my message to [A]you, singin'
+
+
+{c: CHORUS}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right, singin'
+{textcolor}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all r[A]ight
+{textcolor}
+
+
+{c: VERSE 2}
+
+Rise up this [A]mornin', smile with the [E]risin' sun,
+
+Three little [D]birds pitch by my [D]doorstep
+
+Singin' [A]sweet songs of melodies [E]pure and true, sayin'
+
+[D]This is my message to [A]you, singin'
+
+
+{c: OUTRO}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right, singin'
+{textcolor}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right, sing with us everybody!
+{textcolor}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be all [A]right, louder!
+{textcolor}
+
+{textcolor: cyan}
+Don't [A]worry about a [A]thing,
+{textcolor}
+
+{textcolor: red}
+(ending below, slow down)
+{textcolor}
+
+{textcolor: cyan}
+'Cause [D]every little thing gonna be aaaaaaall [A]right (END)
+{textcolor}
+

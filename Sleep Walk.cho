@@ -1,0 +1,41 @@
+{title: Sleep Walk}
+{artist: Santo & Johnny}
+{key: C}
+{duration: 143}
+{tempo: 95}
+
+{textfont: courier}
+{chordfont: courier}
+
+
+{c: INTRO}
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [F]  [G7]
+
+
+{c: THEME 1}
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [F]  [G7]
+
+
+{c: THEME 2}
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [G7]
+[C]  [F]  [C]  [C7]
+
+
+{c: BRIDGE}
+[F]  [F]  [Fm]  [Fm]  [C]  [C]  [C]  [C7]
+[F]  [F]  [Fm]  [Fm]  [G7] [Bb] [G7] [G7]
+
+
+{c: OUTRO}
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [G7]
+[C]  [Am]   [Fm]   [(NC)]
+[(NC)] [(NC)] [(NC)] [C] [(Abm)] [C6]
+
+#[C6add9]       [Fm7b5]      [Fmaj7]
