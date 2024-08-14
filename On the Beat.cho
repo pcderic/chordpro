@@ -5,79 +5,128 @@
 {tempo: 120}
 
 {c: INTRO}
+{textcolor: darkred}
 [Emaj7/G#](piano)  [F#6]  [Emaj7/G#] [F#6]
+
 [Emaj7/G#](sax)    [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#](+bass)  [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#](+guitar)[F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](bass synth)[F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](bass synth) [F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
+{textcolor}
+
 
 {c: VERSE 1}
+#(0:50)
 [Emaj7/G#]How's about your company this [F#6]evening? [Emaj7/G#]Oh, would you say that you are [F#6]free?
+
 [Emaj7/G#]Take you out somewhere really [F#6]special. [Emaj7/G#]Oh, won't you come along with [F#6]me?
+
 [Emaj7/G#]From what I've heard them say, the [F#6]music that they play. [Emaj7/G#]Is nothing like you ever heard [F#6]before
+
 [Emaj7/G#]Once you get through dancing, you can't [F#6]stop your feet. [Emaj7/G#]'Cause the rhythm keeps in time, what you [F#6]say now?
 
+
 {c: CHORUS}
+#(1:22)
 [Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. [Emaj7/G#]I'm a-beggin' you now, it's where we both [F#6]could be
+
 [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. [Emaj7/G#]Are you ready or not? It's only up the [F#6]street
+
 [Emaj7/G#]Everybody's dancing, and everybody's on the [F#6]beat
 
+
 {c: VERSE 2}
+#(1:46)
 [Emaj7/G#]Say that you accept this [F#6]invitation. [Emaj7/G#]Oh, won't you say you'll come [F#6]along?
+
 [Emaj7/G#]Music can give lovers inspira[F#6]tion. [Emaj7/G#]It's just the place where we be[F#6]long
+
 [Emaj7/G#]Nobody has a care when there's [F#6]music in the air. [Emaj7/G#]It's nothing like you ever seen be[F#6]fore
+
 [Emaj7/G#]People dancing all night [F#6]long. [Emaj7/G#]Won't you say you got the time, wanna [F#6]go there
 
+
 {c: CHORUS}
-[Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. [Emaj7/G#]I'm a-beggin' you now, it's where we both [F#6]could be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
+#(2:18)
+[Emaj7/G#]Are you ready or not, it's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+[Emaj7/G#]Are you ready or not, it's where we both [F#6]could be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
 
 {c: BRIDGE}
-[E]What [F#]you [G#]say, [B]you and I should go to[F#sus2]gether
-[E]What [F#]you [G#]say, [B]it's for everyone to [F#]see
-[E]What [F#]you [G#]say, [B]do you want to come a[F#sus2]long with [Gmaj7]me?[(NC)]
+#(2:34)
+[E]What [(F#)]you [(G#)]say, [B]you and I should go to[(F#sus2)]gether. [E]What [(F#)]you [(G#)]say, [B]it's for everyone to [(F#)]see.
+
+[E]What [(F#)]you [(G#)]say, [B]do you want to come a[(F#sus2)]long with [Gmaj7]me?[(NC)]
+
 
 {c: BREAK}
-[Emaj7/G#](sax)    [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]Huh!
-[Emaj7/G#](+guitar)[F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#](synth)  [F#6]  [Emaj7/G#] [F#6]
-[Emaj7/G#](synth)  [F#6]  [Emaj7/G#] [F#6]
+{textcolor: darkred}
+#(2:49)
+(SL128: [Emaj7/G#]sax)    [F#6]  [Emaj7/G#] [F#6]
 
+[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]Huh!
+
+[Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
+
+#(3:22)
+[Emaj7/G#](synth lead)[F#6]  [Emaj7/G#] [F#6]
+
+[Emaj7/G#](synth lead)[F#6]  [Emaj7/G#] [F#6]
+
+#(3:38) (bass synth...)
+{textcolor}
 [Emaj7/G#]Are you ready or not? [F#6]  [Emaj7/G#] [F#6]
+
 [Emaj7/G#]I'm a-beggin' you now. [F#6]  [Emaj7/G#] [F#6]
+
 [Emaj7/G#]Are you ready or not? It's only up the street. [F#6]  [Emaj7/G#] [F#6]
+
 [Emaj7/G#]I'm a-beggin' you now, it's where we both could be. [F#6]  [Emaj7/G#] [F#6]
 
+
 {c: VERSE}
-[Emaj7/G#]How's about your company this [F#6]evening?
-[Emaj7/G#]Oh, would you say that you are [F#6]free?
-[Emaj7/G#]Take you out somewhere really [F#6]special
-[Emaj7/G#]Oh, won't you come along with [F#6]me?
-[Emaj7/G#]From what I've heard them say, the [F#6]music that they play
-[Emaj7/G#]Is nothing like you ever heard [F#6]before
-[Emaj7/G#]Once you get through dancing, you can't [F#6]stop your feet
-[Emaj7/G#]'Cause the rhythm keeps in time, what you [F#6]say now?
+#(4:10)
+[Emaj7/G#]How's about your company this [F#6]evening? [Emaj7/G#]Oh, would you say that you are [F#6]free?
+
+[Emaj7/G#]Take you out somewhere really [F#6]special. [Emaj7/G#]Oh, won't you come along with [F#6]me?
+
+[Emaj7/G#]From what I've heard them say, the [F#6]music that they play [Emaj7/G#]is nothing like you ever heard [F#6]before.
+
+[Emaj7/G#]Once you get through dancing, you can't [F#6]stop your feet [Emaj7/G#]'cause the rhythm keeps in time, what you [F#6]say now?
+
 
 {c: CHORUS}
-[Emaj7/G#]Are you ready or not? It's only up the [F#6]street
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
-[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
-[Emaj7/G#]Are you ready or not? It's only up the [F#6]street
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
-[Emaj7/G#]Are you ready or not? It's only up the [F#6]street
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
-[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
+#(4:42)
+[Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
 
-{c: BREAK} 
+[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+[Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+[Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+
+{c: BREAK}
+{textcolor: darkred}
+#(5:22)
 [Emaj7/G#](clarinet)[F#6]  [Emaj7/G#] [F#6]
+
 [Emaj7/G#](clarinet)[F#6]  [Emaj7/G#] [F#6]
+{textcolor}
+
 
 {c: CHORUS}
-[Emaj7/G#]Are you ready or not? It's only up the [F#6]street
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat
-[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be
-[Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. (END)
+(5:38)
+[Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
+
+[Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. (END)
