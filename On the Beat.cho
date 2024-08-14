@@ -68,10 +68,11 @@
 {c: BREAK}
 {textcolor: darkred}
 #(2:49)
-(SL128: [Emaj7/G#]sax)    [F#6]  [Emaj7/G#] [F#6]
+[Emaj7/G#](sax)    [F#6]  [Emaj7/G#] [F#6]
 
-[Emaj7/G#]         [F#6]  [Emaj7/G#] [F#6]Huh!
-
+{textcolor}
+[Emaj7/G#]         [F#6]  [Emaj7/G#]                                       [F#6]Huh!
+{textcolor: darkred}
 [Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
 
 [Emaj7/G#](guitar)[F#6]  [Emaj7/G#] [F#6]
@@ -126,7 +127,7 @@
 
 
 {c: CHORUS}
-(5:38)
+#(5:38)
 [Emaj7/G#]Are you ready or not? It's only up the [F#6]street. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat.
 
 [Emaj7/G#]I'm a-beggin' you now, it's where we both could [F#6]be. [Emaj7/G#]Everybody's dancing, and [F#6]everybody's on the beat. (END)
