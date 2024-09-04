@@ -6,53 +6,75 @@
 
 {c: Intro}
 {textcolor: darkred}
-[Dbmaj7](piano) [(C7)]  [Fm7] [(Ebm7)] [(Ab7)]   [Dbmaj7] [(C7)] [Fm7]
+[Dbmaj7](piano [C7]intro) [|] [Fm7] [Ebm7] [Ab7] [|] [Dbmaj7] [C7] [|] [Fm7]
 
-[Dbmaj7](piano) [(C7)]  [Fm7] [(Ebm7)] [(Ab7)]   [Dbmaj7] [(C7)] [Fm7]
+[Dbmaj7](chords [C7]with [|] [Fm7]alt. [Ebm7]note) [Ab7] [|] [Dbmaj7] [C7] [|][Fm7]
 {textcolor}
 
+
 {c: Verse 1}
-[Dbmaj7] I see the c[C7]rystal raindrops [Fm7]fall and the [Ebm7]beauty [Ab7]of it [Dbmaj7]all is when the [C7]sun comes shining [Fm7]through.
+{textcolor: darkred}
+(higher chord inversions)
+{textcolor}
+[Dbmaj7] I see the [C7]crystal raindrops [Fm7]fall and the [Ebm7]beauty [Ab7]of it [Dbmaj7]all is when the [C7]sun comes shining [Fm7]through.
 
 [Dbmaj7] To make those [C7]rainbows in my [Fm7]mind when I [Ebm7]think of [Ab7]you some[Dbmaj7]time and I wanna [C7]spend some time with [Fm7]you.
 
+
 {c: Chorus}
+{textcolor: darkred}
+(lower chords)
+{textcolor}
 Just the [Dbmaj7]two of us, [C7]we can [Fm7]make it [Em7]if we [Ebm7]try. [Ab7]Just the [Dbmaj7]two of us  [C7] (Just the [Fm7]two of us).
 
 Just the [Dbmaj7]two of us, [C7]building [Fm7]castles in[Em7] the [Ebm7]sky. [Ab7]Just the [Dbmaj7]two of us, [C7]you and [Fm7]I.
 
-{c: Verse 2}
-We look for love, no time for tears, wasted waters's all that is and it don't make no flowers grow
 
-Good things might come to those who wait. Not to those who wait too late, we got to go for all we know.
+{c: Verse 2}
+[Dbmaj7] We look for [C7]love, no time for [Fm7]tears, wasted [Ebm7]waters's [Ab7]all that [Dbmaj7]is and it [C7]don't make no flowers [Fm7]grow
+
+[Dbmaj7] Good things might [C7]come to those who [Fm7]wait. Not to [Ebm7]those who [Ab7]wait too [Dbmaj7]late, we got to [C7]go for all we [Fm7]know.
+
 
 {c: Chorus}
 Just the [Dbmaj7]two of us, [C7] we can [Fm7]make it [Em7]if we [Ebm7]try. [Ab7]Just the [Dbmaj7]two of us [C7] (Just the [Fm7]two of us).
 
 Just the [Dbmaj7]two of us, [C7]building [Fm7]castles in[Em7] the [Ebm7]sky. [Ab7]Just the [Dbmaj7]two of us, [C7]you and [Fm7]I.
 
-{c: Bridge}
-[Dbmaj7] [(C7sus4)] [(C7)] [Bmaj7] [(Bb7sus4)] [(Bb7)]  [Amaj7] [(Ab7sus4)] [(Ab7)] [Dbmaj7]
 
-[Dbmaj7] [(C7sus4)] [(C7)] [Bmaj7] [(Bb7sus4)] [(Bb7)]  [Amaj7] [(Ab7sus4)] [(Ab7)] [Dbmaj7]
+{c: Bridge}
 {textcolor: darkred}
-(extra 2 beats)
+#[Dbmaj7](Db-F-Ab-C) [C7sus4](C-F-G-Bb) [C7](C-E-G-Bb) [|]  [Bmaj7](B-Eb-Gb-Bb) [Bb7sus4](Bb-Eb-F-Ab) [Bb7](Bb-D-F-Ab) 
+#[Amaj7](A-Db-E-Gb-Ab) [Ab7sus4](Ab-Db-Eb-Gb) [Ab7](Ab-C-Eb-Gb) [|] [Dbmaj7](Db-F Ab) [Absus2/Gb](Gb Ab-Bb-Eb)
+#
+[Dbmaj7](sax) [C7sus4] [C7] [|] [Bmaj7] [Bb7sus4] [Bb7] [|] [Amaj7] [Ab7sus4] [Ab7] [|] [Dbmaj7] [Absus2/Gb]
+
+[Dbmaj7](sax) [C7sus4] [C7] [|] [Bmaj7] [Bb7sus4] [Bb7] [|] [Amaj7] [Ab7sus4] [Ab7] [|] [Dbmaj7] [Absus2/Gb]
+(+2 beats)
 {textcolor}
 
+
 {c: Interlude}
-[Dbmaj7] [C7] [Fm7] [Ebm7] [Ab7] [Dbmaj7] [C7]  [Fm7]
+{textcolor: darkred}
+[Dbmaj7](piano [C7]intro) [Fm7] [Ebm7] [Ab7] [Dbmaj7] [C7]  [Fm7]
+{textcolor}
+
 
 {c: Verse 3}
-I hear the crystal raindrops fall, on the window down the hall and it becomes the morning dew.
+[Dbmaj7] I hear the [C7]crystal raindrops [Fm7]fall, on the [Ebm7]window [Ab7]down the [Dbmaj7]hall and it [C7]becomes the morning [Fm7]dew.
 
-Darling, when the morning comes and I see the morning sun. I want to be the one with you.
+[Dbmaj7] Darling, when the [C7]morning [Fm7]comes and I [Ebm7]see the [Ab7]morning [Dbmaj7]sun. [C7]I want to be the one with [Fm7]you.
+
 
 {c: Chorus}
 Just the [Dbmaj7]two of us,[C7] we can [Fm7]make it [Em7]if we [Ebm7]try. [Ab7]Just the [Dbmaj7]two of us. [C7] (Just the [Fm7]two of us).
 
-Just the [Dbmaj7]two of us, [C7]building [Fm7]castles in[Em7] the sky.[Ebm7] [Ab7]Just the [Dbmaj7]two of us, [C7] you and [Fm7]I.
+Just the [Dbmaj7]two of us, [C7]building [Fm7]castles [Em7]real high.[Ebm7] [Ab7]Just the [Dbmaj7]two of us, [C7] you and [Fm7]I.
+
 
 {c: Outro}
+(just the [Dbmaj7]two of us)[C7] [Fm7] [Em7] [Ebm7] [Ab7] [Dbmaj7] [C7] [Fm7]
 
+(just the [Dbmaj7]two of us)[C7] [Fm7] [Em7] [Ebm7] [Ab7] [Dbmaj7] [C7] [Fm7]
 
-(repeat Chorus until fade)
+(just the [Dbmaj7]two of us)[C7] [Fm7] [Em7] [Ebm7] [Ab7] [Dbmaj7] [C7] [Fm7]
