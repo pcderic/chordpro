@@ -5,150 +5,71 @@
 {duration: 177}
 {tempo: 148}
 
+Preset: CK61:11-7,KK2:UA022
 
 {c: INTRO}
-
-[G](Bass)   [G]       [G]       [G]  
-
-[G](+drums)      [G]      [G]      [G]  
-
-[G](+organ)      [G]     [G]     [G]  
-
-{textcolor: yellow}
+[G](Bass)   [G]       [G]       [G]
+[G](+drums)      [G]      [G]      [G]
+[G](+organ)      [G]     [G]     [G]
 [G]        [G]       [G]       [G]     Hey!
-
-[G](+piano) [G]  
-
+[G](+piano) [G]
 
 {c: VERSE 1}
-
 Well, my [G]temperature is rising, [G]got my feet on the floor
-
 [G]Crazy people rocking cause [G]they want to go more
-
 [G]Let me in baby, I don't [G]know what you got
-
 [G]But you better take it easy [G]cause this place is hot
 
-
 {c: PRE-CHORUS}
-
 And I'm[G] so glad you made[A#]  it,[C] so glad you made[D#]  it
 
-
 {c: CHORUS}
-
 [G]You got to [C/G]gimme some lovin'
-{textcolor: yellow}
 (gimme gimme some loving)
-{textcolor}
-
-[G] Gimme some [C/G]lovin'
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
+[G] Gimme some [C/G]lovin' (gimme gimme some loving)
 [G] Gimme some [C/G]lovin' everyday
-{textcolor: yellow}
-           everyday
-{textcolor}
-
 
 {c: BRIDGE}
-
-[G](bass+drums)  [G]      [G]  
-
-[G](+organ)      [G]     [G]     [G]  
-
+[G](bass+drums)  [G]      [G]
+[G](+organ)      [G]     [G]     [G]
 [G]        [G]       [G]       [G]     Hey!
-
-[G](+piano) [G]  
-
+[G](+piano) [G]
 
 {c: VERSE 2}
-
 Well, I feel[G] so good, [G]everything's getting high
-
 [G]You better take it easy [G]cause the place is on fire
-
 [G]Been a hard day and I [G]had no work to do
-
 [G]Wait a minute baby, let it [G]happen to you
 
-
 {c: PRE-CHORUS}
-
 And I'm[G] so glad you made[A#]  it,[C] so glad you made[D#]  it
 
-
 {c: CHORUS}
-
-You got to[G] gimme some [C/G]lovin'
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
-[G] Gimme some [C/G]lovin'
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
+You got to[G] gimme some [C/G]lovin' (gimme gimme some loving)
+[G] Gimme some [C/G]lovin' (gimme gimme some loving)
 [G] Gimme some [C/G]lovin' everyday
-{textcolor: yellow}
-           everyday
-{textcolor}
-
 
 {c: BRIDGE}
-{textcolor}
-
 [G](bass+[G]drums)
-
-[G](+organ)[G]       [G]      [G]  
-
+[G](+organ)[G]       [G]      [G]
 [G]        [G]       [G]       [G]     Hey!
-
-[G](+piano) [G]  
-
+[G](+piano) [G]
 
 {c: VERSE 3}
-
 Well, I feel[G] so good, every[G]thing's getting high
-
 [G]You better take it easy cause the [G]place is on fire
-
 [G]Been a hard day nothing [G]went too good
-
 [G]Now I'm gonna relax, buddy [G]everybody should and I'm
 
-
 {c: PRE-CHORUS}
-
 [G] so glad you made[A#]  it, hey hey[C] so glad you made[D#]  it
 
-
 {c: CHORUS}
-
-You got to[G] gimme some [C/G]lovin'
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
-[G] Gimme some [C/G]lovin'  ooh ooh
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
-   [G]   [C/G]Hey hey [G]every night! [C/G]    
-{textcolor: yellow}
-(gimme gimme some loving)
-{textcolor}
-
+You got to[G] gimme some [C/G]lovin'(gimme gimme some loving)
+[G] Gimme some [C/G]lovin'  ooh ooh (gimme gimme some loving)
+[G]   [C/G]Hey hey [G]every night! [C/G] (gimme gimme some loving)
 
 {c: OUTRO}
-
 [G](octaved [G]bass + drums only)
-
 [G](octaved [G]bass + drums only)
-
 [G](end)

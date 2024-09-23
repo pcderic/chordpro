@@ -4,6 +4,11 @@
 {duration: 205}
 {tempo: 100}
 
+OrigKey: Eb
+NewKey: E
+
+Preset: CK61:12-4, KK2:Combi-UA-XXX
+
 {c: Intro}
 [Ebm7](drums [Ab7/Eb]only)     [Ebm7]        [Ab7/Eb](. . . Ab Bb Db Eb)
 [Ebm7](clavi)  [Ab7/Eb]        [Ebm7]      [Ab7/Eb]
