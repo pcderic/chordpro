@@ -1,8 +1,9 @@
 {title: Mustang Sally}
-{artist: The Commitments}
+{st: Commitments}
 {key: C}
 {duration: 241}
 {tempo: 115}
+{x_sbp_tags: oote}
 
 {c: INTRO}
 (Guitar + Bass + Drums)

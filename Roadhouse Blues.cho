@@ -1,0 +1,61 @@
+{fontsize:20.1}
+{title: Roadhouse Blues}
+{st: Doors}
+{musicpath:Roadhouse Blues.MP3}
+{key: Em}
+{duration: 4:05}
+{tempo: 120}
+{midi: CC0.0@2, CC32.0@2, PC0@2, CC0.63@1, CC32.0@1, PC0@1}
+(CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{c: Intro}
+[Em7](guitar [Em7]riff) [Em7](bass [Em7]in) 
+[Em7]({soh}piano fast rep.{eoh} x5 [Em7]x7 \  [Em7]\  [Em7]\  /)
+[Em7]{soh}(comp [Em7]at [Em7]higher [Em7]oct...){eoh}
+
+{c: Verse 1}
+Oh, keep your [Em7]eyes on the road, your [Em7]hands upon the [Em7]wheel [Em7]
+Keep your [Em7]eyes on the road, your [Em7]hands upon the [Em7]{soh}(P){eoh}wheel.[Em7]Yeah, 
+we're [Em7]goin' to the Roadhouse, [Em7]gonna have a real[Em7] good time.[Em7]
+
+{c: Pre-Verse}
+[Em7]{soh}(comp  [Em7]at [Em7]lower [Em7]oct.){eoh}
+
+{c: Verse 2}
+Yeah, the [Em7]back of the Roadhouse, they [Em7]got some bunga[Em7]lows [Em7]
+Yeah, the [Em7]back of the Roadhouse, they [Em7]got some bunga[Em7]{soh}(P){eoh}lows [Em7]
+And [Em7]that's for the people who [Em7]like to go down [Em7]slow [Em7]
+
+{c: Chorus}
+{soc}
+Let it [A7]{soh}(boogie){eoh}roll, baby, [A7]roll. Let it [A7]roll, baby, [A7]{soh}(fast) {eoh}roll.
+Let it [A7]roll, baby, [A7]roll. Let it [B7]roll,[C7] [B7]all night long
+{eoc}
+
+{c: Guitar Solo}
+[Em7]{soh}(comp [Em7]at [Em7]lower [Em7]oct.){eoh}
+[Em7](guitar) [Em7] [Em7] [Em7]
+[Em7]{soh}(piano [Em7]fast [Em7]rep. [Em7]){eoh}
+[Em7]{soh}(piano fills){eoh} [Em7] [Em7] [Em7]
+[Em7](comp [Em7]at lower oct...) 
+
+{c: Bridge}
+You gotta [Em7]roll..., you gotta [Em7]thrill my soul, al[Em7]right. [Em7]
+[Em7]Roll... [Em7]thrill my soul, you gotta [Em7]beepa gunk achucha [Em7]Hunkukunk
+Ya gotta [Em7]eetyapuna, eetya[Em7]bopaluba, eetya[Em7]bumpakechonk [Em7]
+eetsumkonk, yeah, [Em7]ride. [Em7](harmonica)[Em7] [Em7]
+
+[Em7]Ashen lady,[Em7] [Em7]ashen lady[Em7]
+[Em7]Give up your vow![Em7] [Em7]Give up your vow![Em7]
+[Em7]Save our city,[Em7] [Em7]save our city[Em7]
+Right [Em7]now [Em7] [Em7] [Em7]
+
+{c: Verse 3}
+Well, I [Em7]woke up this morning, I [Em7]got myself a [Em7]beer. [Em7]
+Well, I [Em7]woke up this morning, and I [Em7]got myself a [Em7]{soh}(P){eoh}beer. [Em7]
+The [Em7]future's uncertain, and the [Em7]end is always [Em7]near. [Em7]
+
+{c: Outro}
+Let it [A7]{soh}(boogie){eoh}roll, baby, [A7]roll. Let it [A7]roll, baby, [A7]roll.
+Let it [A7]{soh}(P){eoh}roll, baby, [A7]roll. Let it [B7]roll, eh.
+[C7]{soh}(C7 B5-C5-C#5-D5-D#5){eoh} All night [Em7]long. (guitar)[Em9](END)

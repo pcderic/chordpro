@@ -1,8 +1,11 @@
 {title: Born to be wild}
-{artist: Steppenwolf}
+{st: Steppenwolf}
+{musicpath:Born To Be Wild.mp3}
 {key: E}
 {duration: 213}
 {tempo: 144}
+{midi: CC0.0@2, CC32.0@2, PC6@2, CC0.63@1, CC32.0@1, PC6@1}
+(CK:1-6, {soh}LK:Part-B{eoh})
 
 {c: Intro}
 (snare)[E](guitar [E]riff) [E] [E]

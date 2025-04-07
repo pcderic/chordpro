@@ -1,0 +1,81 @@
+{title: Rebel Yell}
+{st: Billy Idol}
+{musicpath:Rebel Yell (backing).mp3}
+{key: Bm}
+{duration: 288}
+{tempo: 167}
+{midi: CC0.0@2, CC32.4@2, PC4@2, CC0.63@1, CC32.4@1, PC4@1}
+(CK:5-5, {soh}LK:Part-B{eoh}, P1:ModWhl, P2:StringsVol.)
+
+{c: Intro}
+[Bm](guitar riff) [Bm] [Bm] [Bm] [Bm/G](synth [Fm#]riff)[Bm/E] [Bm/E] [Bm/G](synth [Fm#]riff) [Bm/E] [Bm/E]
+#(synth riff: [Bm/G]f# e f# b f# d f# b) [Fm#](f# c# f# a x2) [Bm/E](f# e f# b f# d f# b) [Bm/E](synth riff)
+[B5](drums +[B5]bass + [B5]guitar)    [B5]
+{textcolor}
+
+{c: Verse 1}
+#(0:24)
+[Bm] Last night a little [Bm]dancer came [Bm]dancing to my [Bm]door {soh}(b d){eoh}
+[D] Last night a little [D]angel came [G]pumping on my [G]floor
+She said, Come baby, I got a licence for love {soh}(b d){eoh}
+And if it expires pray help from above, because
+
+{c: Chorus}
+#(0:47)
+[Bm] In the midnight [Bm]hour she cried [Bm]more, more, [Bm]more
+[D] With a rebel [D]yell she cried [G]more, more, [G]more
+ In the midnight hour babe more, more, more
+ With a rebel yell more, more, 
+
+[Bm]more, more, more, more [Bm](guitar [Bm]whammy) [Bm] [Bm]
+
+{c: Verse 2}
+#(1:16)
+[Bm] She don't like [Bm]slavery, she won't [Bm]sit and [Bm]beg {soh}(b d){eoh}
+[D] But when I'm tired and [D]lonely she [G]sees me to bed [G]
+ What set you free and brought you to me babe {soh}(b d){eoh}
+ What set you free I need you here by me, because
+
+{c: Chorus}
+#(1:39)
+[Bm] In the midnight [Bm]hour she cried [Bm]more, more, [Bm]more
+[D] With a rebel [D]yell she cried [G]more, more, [G]more. Wah!
+
+In the midnight hour babe more, more, more. 
+With a rebel yell more, more, more (pause)
+
+{c: Bridge}
+#(2:02)  
+[Bm/G](synth [Fm#]riff)    [Bm/E] He lives in his [Bm/E]own heaven 
+(synth riff) Collects it to go from the seven-eleven
+(synth riff) Well he's out all night to collect a fare
+(synth riff) Just so long, just so long it don't mess up 
+[(D5)]his hair [(A5)] [Bm](guitar riff) [Bm] [Bm] [Bm]
+
+{c: Guitar Solo}
+#(2:30)
+[Bm] (solo) [Bm] [Bm] [Bm] [D] [D] [G] [G] {soh}(machine gun){eoh}
+[Bm] (solo) [Bm] [Bm] [Bm] [D] [D] [G] [Bm] {soh}(machine gun){eoh}
+[(NC)](drum beat) [(NC)] [(NC)] [(NC)] [(NC)] [(NC)] [(NC)] [(NC)] 
+{textcolor}
+
+{c: Interlude}
+#(3:05)
+[Bm]{soh}(b){eoh} I walked the [Bm]world with [Bm]you, babe. [Bm][Bm/A]{soh}(a){eoh} A thousand [Bm/A]miles with [Bm/G]{soh}(g){eoh} you [Bm/E] {soh}(e d-a-){eoh}
+[Bm]{soh}(b){eoh} I dried your [Bm]tears of [Bm] pain [Bm]{soh}(a-f#-d-e-d-a-){eoh} [Bm/A]{soh}(b){eoh} a million [Bm/A]times for [Bm/G]you. [Bm/E]{soh}(a-f#-d-e-d-a-){eoh}
+[Bm]{soh}(b){eoh} I'd {soh}(f#){eoh}sell my [Bm]{soh}(e){eoh}soul {soh}(a){eoh}for [Bm]{soh}(b){eoh}you babe{soh}(f# e){eoh} [Bm]{soh}(a-f#-d-e-d-a-){eoh}
+[Bm/A]For money to [Bm/A]burn with you. [Bm/G] [Bm/E] [Bm] I'd give you [Bm]all, and have [Bm]none, babe. [Bm]
+Just, [Bm/A] just, just, [Bm/A]just, to have you [Bm/G]{soh}(a){eoh}here by [Bm/E]{soh}(b){eoh}me, because {soh}(bend){eoh}
+
+{c: Chorus}
+#(3:52)
+[Bm]In the midnight [Bm]hour she cried [Bm]more, more, [Bm]more
+[D]With a rebel [D]yell she cried [G]more, more, [G]more
+In the midnight hour babe more, more, more
+With a rebel yell, more, more, more. More, more, more.
+
+{c: Outro} 
+#  (4:15)
+[Bm] [Bm] [Bm] [Bm]Ooh yeah little [D]baby. [D] She want [G]more [G] more, more, 
+[Bm]more, more, more. [Bm] [Bm]Oh yeah little [Bm]angel
+[D] [D] She want [G]more. [G] More, more, more, more, [Bm]more. (guitar [Bm]riff) [Bm] [Bm]

@@ -1,0 +1,70 @@
+{title: Jump}
+{st: Van Halen}
+{musicpath:Jump.mp3}
+{key: C}
+{tempo: 129}
+{duration: 4:04}
+{midi: CC0.0@2, CC32.18@2, PC2@2, CC0.63@1, CC32.18@1, PC2@1}
+(CK:19-3, {soh}LK:Part-B{eoh}, P1:Damper, P2:Exp.)
+
+
+{c:Intro:}
+[C](synth1: G C [C]F F G G-[C]G C F F-[C]F [(F)]C [(G)]Csus2) 
+[C](synth1)   [C] [C] [C] [(F)] [(G)]      (+drums +bass)
+[C](synth1)   [C] [C] [C] [(F)] [(G)] 
+[C]({soh}synth2{eoh}: F F [C]F F C-[C]C F F [C]Csus4 [(F)]C [(G)]Csus2) 
+
+{c:Verse 1}
+I get [C]up, [C] and nothing gets [C]me down[C][(F)][(G)]
+You got it tough. I've seen the toughest around
+And I know,  baby, just how you feel
+You've got to roll with the punches to get to what's real
+Oh can't you [Am]see me standing here?
+I've got my [Am]back against the record machine[F][(Em)][Dm]
+I ain't the worst that you've seen[F][(Em)][Dm]
+Oh can't you see what I mean?[F][(Em)][G][G]
+ 
+{c:Chorus}
+{soc}
+Might as well jump [C](synth riff) [C] Might as well [C]jump[C][(F)][(G)]
+Go ahead, [C]jump (Jump!)[C] Go ahead, 
+{soh}(G-[C]G){eoh}jump {soh}(F F-[C]Csus4-[(F)]C-[(G)]Csus2){eoh}
+{eoc}
+ 
+{c:Verse 2}
+[C]Heyo! Hey you! Who said that? [C]Baby how you been?[C][(F)][(G)]
+You say you don't know, you won't know until we begin
+Oh can't you [Am]see me standing here?
+I've got my [Am]back against the record machine [F][(Em)][Dm]
+I ain't the worst that you've seen [F][(Em)][Dm]
+Oh can't you see what I mean? [F][(Em)][G][G]
+ 
+{c:Chorus:}
+{soc}
+Might as well jump [C](synth riff) [C] Go ahead and [C] jump![C][(F)][(G)]
+Might as well jump (Jump!)    Go ahead and jump!  Jump!
+{eoc}
+ 
+{c:Guitar Solo:}
+[Bbm][(Gb)][(Ab)]          [Ab][(Db)] 
+[Bbm][(Gb)][(Ab)]          [Ab][(Db)] 
+[Bbm][(Gb)][(Ab)]          [Ab][(Db)] 
+[Bbm][(Gb)][(Ab)]          [Ab][(Db)] 
+
+{c:Synth Solo:}
+(arp: [C]G G C C G [C]G F F F     [C](same) [C] 
+[F](-G -G F G F [F]G F F -G -G     [G]-F -F -G -F -G [G]F G F G F
+[Bb](faster: g c d G d c g...) [Bb][A][A][Ab][Ab]  (slower)
+[G](c d e c d [G]e g c e c d [C]d e c-[C]c
+[C](synth1) [C] [C] [C] [(F)] [(G)]   
+[C](synth1) [C] [C] [C] [(F)] [(G)]   
+ 
+{c:Outro}
+{soc}
+(synth1) Might as well jump [C](Jump!)[C] Go ahead and [C]jump! [C][(F)][(G)]
+(synth1) Get it and jump. (Jump!) Go ahead and jump!
+Jump!  Jump!
+{soh}(synth2){eoh} Jump!  Jump! 
+
+(repeat and fade-out)
+{eoc}

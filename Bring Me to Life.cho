@@ -1,0 +1,78 @@
+{title:Bring Me to Life}
+{st:Evanescence}
+{musicpath:Bring me to Life.mp3}
+{time: 3:56}
+{tempo:95}
+{metronome:95}
+{key:Em}
+{midi: CC0.0@2, CC32.1@2, PC1@2, CC0.63@1, CC32.1@1, PC1@1, CC0.85@3, CC32.2@3, PC95@3}
+(CK:2-2, {soh}LK/RD:Part-B{eoh}, P1:Unused, {soh}P2:Exp:StringsVol{eoh})
+
+{c:Intro}
+[Em]{soh}(piano [Esus4]& [C/E]strings){eoh}[Am/E]
+#e | b .  a b  - -  c - | - e  - -  b -  - e | ...
+ 
+{c:Verse 1}
+#(0:11)
+[Em]How can you [Esus4]see into my [C/E]eyes like open doors?[Am/E]
+Leading you down into(f#) my (g)core where I've become 
+so numb?
+
+{c:Verse 2}
+#(0:31)
+[Em]Without a soul,[Esus4] [C/E]my spirit's slee[Am/E]ping somewhere 
+cold. Until you find it there and lead it back  
+[*NC]home. (2 beats)
+
+{c:Chorus}
+#(0:53)
+{soc}
+[Em](Wake me up) Wake me up inside [G(sus2)](Can't wake up) Wake ...inside
+[D](Save me) Call my name and [C/E]save me from the dark. 
+[Em](Wake...) Bid my blood to run [G(sus2)](Can't...) before I come undone.
+[D](Save me) Save me from the [C/E]nothing I've be[*NC]come.
+{eoc}
+
+{c:Verse 3}
+#(1:15)
+[Em]Now that I know [Esus4]what I'm with[C/E]out, you can't just leave [Am/E]me
+Breathe into me and make me real. Bring me to 
+[*NC]life {soh}(synth: eab-eab  eab-eab eab-eab eab-eab-eab){eoh}
+ 
+{c:Chorus}
+#(1:40)
+{soc}
+[Em](Wake me up) Wake me up inside. [G(sus2)](Can't wake up) Wake... inside
+[D](Save me) Call my name and [C/E]save me from the dark. 
+[Em](Wake...) Bid my blood to run [G(sus2)](Can't...) before I come undone.
+[D](Save me) Save me from the [C/E]nothing I've become
+{eoc}
+ 
+{c:Bridge}
+[C] [(Csus2)] Bring [D]me to [Em]life. (e+f#+c+b) (...living a lie,[Em]...nothing inside)
+     Bring me to  life  (e f# g b)
+[Am]Frozen in[G]side w/o your [D/F#]touch, w/o your [Em]love, (e f#...)darling
+On[Am]ly you[G] are the li[B7sus4]fe among the [*NC](Esus4)dead.
+
+{c:Verse 4}
+#(2:38)
+[Em](All this time I can't believe I couldn't see, [Em]kept in the dark but 
+you were there in front of me)
+I've been sleeping a 1000 years it seems. Got to open my eyes 
+to everything.
+(Without a thought, without a voice, without a soul, don't let me 
+die here, 
+there must be something more) Bring me to life!
+
+{c:Chorus}
+{soc}
+[Em](Wake me up) Wake me up inside [G](Can't wake up) Wake... inside.
+[D](Save me) Call my name and [Em](NC)save me from the dark
+[Em](Wake...) Bid my blood to run [G](Can't...) before I come undone
+[D](Save me) Save me from the [Em]nothing I've become
+{eoc}
+
+{c:Outro:}
+[C] Bring [D]me to [Em]life. (I've been living a lie,[Em] there's nothing inside)
+[C] Bring [D]me to [Em]life {soh}(piano){eoh} [Em] [C/E] [Am/E]  
+[Em](piano) [Em] [C/E] [Am/E]  [Em](END)

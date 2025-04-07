@@ -1,162 +1,69 @@
 {title: Comfortably Numb}
-{artist: Pink Floyd}
+{st: Pink Floyd}
+{musicpath:Comfortably Numb (backing).mp3}
 {key: Bm}
 {duration: 300}
 {tempo: 64}
-
-{textfont: courier}
-{chordfont: courier}
-
+{midi: CC0.0@2, CC32.1@2, PC2@2, CC0.63@1, CC32.1@1, PC2@1}
+(CK:2-3, {soh}LK:Part-B{eoh})
 
 {c: INTRO}
-
-{textcolor: red}
 [Bm](slide guitar + [Bm]drums/bass)
-{textcolor}
-
 
 {c: VERSE 1}
-
 [Bm]Hello, is there anybody [A]in there? Just nod if you can
-
 [G]hear me.[(G/F#)]  [(Em)] Is there [Bm]anyone home?
 
-[Bm]Come on, now, I hear you're [A]feeling down, well,
+Come on, now, I hear you're feeling down, well,
+I can ease your pain, get you on your feet again.
 
-[G]I can [(G/F#)]ease your [(Em)]pain, get you on your [Bm]feet again.
-
-[Bm]Relax, I need some [A]information first,
-
-[G]just the [(G/F#)]basic [(Em)]facts. Can you [Bm]show me where it hurts?
-
+Relax, I need some information first,
+just the basic facts. Can you show me where it hurts?
 
 {c: CHORUS 1}
-
+{soc}
 [D]There is no pain you are [A]receding.
-
-[D]A distant ship's smoke on the [A]horizon,
-
+A distant ship's smoke on the horizon,
 [C]You are only coming through in [G]waves.
-
-Your [C]lips move but I can't hear what you're [G]saying,
-
-{textcolor: cyan}
+Your lips move but I can't hear what you're saying,
 When [D]I was a child I had a [A]fever
-{textcolor}
-
-{textcolor: cyan}
-My [D]hands felt just like two [A]balloons
-{textcolor}
-
-{textcolor: cyan}
+My hands felt just like two balloons
 [C]Now I've got that feeling once [G]again, I can't explain,
-{textcolor}
-
-{textcolor: cyan}
-you would not [C]understand, this is not how I[G] am.
-{textcolor}
-
-{textcolor: cyan}
+you would not understand, this is not how I am.
 [A]I [(A/B)] [C]have [(G)]become comfortably [D]numb.
-{textcolor}
-
+{eoc}
 
 {c: SOLO 1}
-
-{textcolor: red}
-[D](guitar) [A]
-{textcolor}
-
-{textcolor: red}
-[D](guitar) [A]
-{textcolor}
-
-{textcolor: red}
-[C](guitar)[G]
-{textcolor}
-
-{textcolor: red}
-[C](guitar)[G]
-{textcolor}
-
+[D](guitar) [A] [D] [A]
+[C](guitar)[G] [C] [G]
 
 {c: BRIDGE}
-
 [A]I [(A/B)] [C]have [(G)]become comfortably [D]numb.
 
 {c: VERSE 2}
-
 [Bm]O.K., just a little [A]pinprick, there'll be no more
-
-[G]  [(G/F#)]  [(Em)]   But you may feel a little [Bm]sick.
-{textcolor: yellow}
-(Aaah-ah-aah!)
-{textcolor}
-
-[Bm]Can you stand up? I do believe it's [A]working good.
-
-That'll keep you [G]going [(G/F#)]through the [(Em)]show,
-
+[G]  [(G/F#)]  [(Em)]   But you may feel a little [Bm]sick.(Aaah-ah-aah!)
+Can you stand up? I do believe it's working good.
+That'll keep you going through the show,
 [Bm]Come on it's time to go
 
-
 {c: CHORUS 2}
-
-{textcolor: cyan}
+{soc}
 [D]There is no pain you are [A]receding.
-{textcolor}
-
-{textcolor: cyan}
-[D]A distant ship's smoke on the [A]horizon,
-{textcolor}
-
-{textcolor: cyan}
+A distant ship's smoke on the horizon,
 [C]You are only coming through in [G]waves.
-{textcolor}
-
-{textcolor: cyan}
-Your [C]lips move, but I can't hear what you're [G]saying,
-{textcolor}
-
-{textcolor: cyan}
+Your lips move, but I can't hear what you're saying,
 When [D]I was a child, I caught a [A]fleeting glimpse,
-{textcolor}
-
-{textcolor: cyan}
-[D]out of the corner of my [A]eye.
-{textcolor}
-
-{textcolor: cyan}
+out of the corner of my eye.
 [C]I turned to look but it was [G]gone. I cannot put my finger
-{textcolor}
-
-{textcolor: cyan}
-[C]on it now, the child has grown, the [G]dream is gone.
-{textcolor}
-
-{textcolor: cyan}
+on it now, the child has grown, the dream is gone.
 [A]I [(A/B)] [C]have [(G)]become comfortably [D]numb.
-{textcolor}
-
-{textcolor: red}
 [D](extra D before solo)
-{textcolor}
-
+{eoc}
 
 {c: SOLO 2}
-
-{textcolor: red}
 [Bm](guitar) [A]     [G]     [(G/F#)]       [(Em)]        [Bm]
-{textcolor}
-
-{textcolor: red}
 (repeat until cue from guitarist)
-{textcolor}
-
 
 {c: OUTRO}
-
-{textcolor: red}
 [Bm](slower) [A]     [G]     [(G/F#)]       [(Em)]        [Bm](END)
-{textcolor}
-

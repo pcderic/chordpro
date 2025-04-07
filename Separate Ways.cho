@@ -1,68 +1,69 @@
 {title: Separate Ways}
-{artist: Journey}
+{st: Journey}
+{musicpath:Separate Ways (backing).mp3}
 {key: Em}
 {duration: 325}
 {tempo: 131}
-
-(Presets: CK61:14-1, KK2:Combi-User-075)
+{midi: CC0.0@2, CC32.5@2, PC3@2, CC0.63@1, CC32.5@1, PC3@1}
+(CK:6-4,{soh}LK:Part-B{eoh})
 
 {c: Intro}
-{textcolor: darkred}
-[Em](synth: e-e-b-e f#-e-b-e [Em]g-e-b-e b-e-b-e) [Em]  [Em]
-[Em](+band) [Em] [Em] [Em]
-[Em](beg) [D/E](adf#) [C/E](gce) [C/E]
-[Em](same)[D/E]  [C/E]  [C/E]
-{textcolor}
+#[Em](synth: e-e-b-e f#-e-b-e [Em]g-e-b-e b-e-b-e) [Em]  [Em]
+[Em]{soh}(synth [Em]riff){eoh} [Em]  [Em]
+[Em](+band) [Em] [Em] [Em]  
+[Em]{soh}(beg) [D/E](adf#) [C/E](gce){eoh} [C/E]   [Em][D/E][C/E][C/E]
 
 {c: Verse 1}
 [Em] Here we [D/E]stand, [C/E] worlds a[C/E]part,
-Hearts broken in [Em]two, [D/E]two, [C/E]two. [C/E](g-f#-d-)
-[Em] Sleepless [D/E]nights [C/E] Losing [C/E]ground
-I'm reaching for [Em]you, [D/E]you, [C/E]you. [C/E] [(Am7)]Feelin' [(Bm7)]that is
-[Cmaj7]gone [D]can't change [Am7]your mind. [Am7] If we [(Bm7)]can't go
-[Cmaj7]on         [D]to survive [Am7]the tide, [(Bm7)]love [Cmaj7]divies.
+Hearts broken in [Em]two, [D/E]two, [C/E]two. [C/E]{soh}(g-f#-d-){eoh}
+Sleepless nights,  losing ground
+I'm reaching for you, you, you.  
+[Am7] Feelin' [(Bm7)]that is [Cmaj7]gone [D]can't change [Am7]your mind. 
+[Am7] If we [(Bm7)]can't go [Cmaj7]on [D]to survive [Am7]the tide, [(Bm7)]love [Cmaj7]divies.
 
 {c: Chorus}
-[Em] Someday love will [Em]find you. [D]Break those chains [D]that bind you
-[C] One night will [C]remind you [Am7]how we touched and went [D]our se[(B/D#)]parate ways.
-[Em]  If he ever [Em]hurts you, [D]true love won't [D]desert you
-[C] You know I [C]still love you [Am7]though we touched and went[D] our se[(B/D#)]parate ways.
-{textcolor: darkred}
-[Em](beg) [D/E](adf#) [C/E](gce) [C/E](e-g-b)
-[Em](same)[D/E]  [C/E]  [C/E]
-{textcolor}
+{soc}
+#[Em](bea-g-f#-e-f#-g) [D](ada-g-f#-e-f#-g) [C]ca-g-f#-e-f#-g [Am7] [D]
+[Em]Someday love will [Em]find you. [D]Break those chains [D]that bind you.
+[C]One night will [C]remind you [Am7]how we touched and went [D]our se[(B/D#)]parate ways.
+If he ever hurts you, true love won't desert you.
+You know I still love you though we touched and went our separate ways. 
+[Em]{soh}(beg) [D/E](adf#) [C/E](gce) [C/E](e-g-b) {eoh}[Em][D/E][C/E][C/E]
+{eoc}
+
 
 {c: Verse 2}
-[Em] Troubled times, [D/E] [C/E]caught [C/E]between confusions and
-[Em]pain, [D/E]pain, [C/E]pain. [C/E](g-f#-d-)
-[Em] Distant eyes [D/E] [C/E] Promises we [C/E]made were in
-[Em]vain In vain,[D/E] [C/E]vain.        [C/E] [(Am7)]If you [(Bm7)]must
-[Cmaj7]go         [D]I wish [Am7] you love. [Am7] You will [(Bm7)]never
-[Cmaj7]walk alone. [D]Take care [Am7]my love. [(Bm7)]Miss you [Cmaj7]love.
+[Em]Troubled times, [D/E] [C/E]caught [C/E]between confusions and
+pain, pain, pain. {soh}(g-f#-d-){eoh}
+Distant eyes   Promises we made were in
+vain In vain, vain.  
+[Am7]If you [(Bm7)]must [Cmaj7]go [D]I wish [Am7] you love. 
+[Am7] You will [(Bm7)]never [Cmaj7]walk alone. [D]Take care [Am7]my love. [(Bm7)]Miss you [Cmaj7]love.
 
 {c: Chorus}
+{soc}
 [Em] Someday love will [Em]find you. [D]Break those chains [D]that bind you.
 [C] One night will [C]remind you [Am7]how we touched and went [D]our se[(B/D#)]parate ways.
-[Em] If he ever [Em]hurts you, [D]true love won't [D]desert you.
-[C] You know I [C]still love you [Am7]though we touched and went [D] our se[(B/D#)]parate ways.
+If he ever hurts you, true love won't desert you.
+ You know I still love you though we touched and went  our separate ways.
+{eoc}
+
 
 {c: Solo}
-{textcolor: darkred}
-[Em](bea-g-f#-e-f#-g) [D](ada-g-f#-e-f#-g) [C]ca-g-f#-e-f#-g   [Am7]   [D]   [(B/D#)]
-[Em](same [D]as [C]above)   [Am7]   [D]   [(B/D#)]
-{textcolor}
+[Em](solo)[D] [C] [Am7] [D] [(B/D#)]  (2x)
 
 {c: Interlude}
-{textcolor: darkred}
-[Em](synth [Em/G]intro [Cmaj7]riff) [Am7]
-(simplified riff + left: [Em]e-b-a-g-[D]e-b-a-g-[Cmaj7]e-b-a-g-[B]b)
-{textcolor}
+#(simplified riff + left: [Em]e-b-a-g-[D]e-b-a-g-[Cmaj7]e-b-a-g-[B]b)
+[Em]{soh}(modified [Em/G]intro [Cmaj7]riff){eoh} [Am7]
+[Em]{soh}(+ left [D]hand){eoh} [Cmaj7] [B]
 
 {c: Chorus}
-[Em]  Someday love will [Em]find you. [D] Break those chains [D]that bind you.
-[C] One night will [C]remind you [Am7] [D] [(B/D#)]
-[Em] If he ever [Em]hurts you, [D]true love won't [D]desert you.
-[C] You know I [C]still love you [Am7] [D] [(B/D#)]
+{soc}
+[Em]Someday love will [Em]find you. [D] Break those chains [D]that bind you. 
+[C]One night will [C]remind you [Am7] [D] [(B/D#)
+If he ever hurts you, true love won't desert you. You know I still love you.
+{eoc}
+
 
 {c: Solo 2}
 [Em] I still [Em]love you girl. [D] I really [D]love you girl.
@@ -71,5 +72,4 @@ I'm reaching for [Em]you, [D/E]you, [C/E]you. [C/E] [(Am7)]Feelin' [(Bm7)]that i
 [C] (instrum.)[C] [Am7]  [D]  [(B/D#)]
 
 {c: Outro}
-[Em]Yeah! (synth [Em]riff)  [Em](synth [Em]riff)
-[Em]Yeah! (synth [Em]riff) [Em](END)
+[Em]Yeah! {soh}(synth [Em]riff){eoh} [Em](synth [Em]riff) [Em]Yeah! (synth [Em]riff) [Em](END)

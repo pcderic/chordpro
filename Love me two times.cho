@@ -1,79 +1,60 @@
 {title: Love me two times}
-{artist: The Doors}
+{st: Doors}
+{musicpath:Love Me Two Times.MP3}
 {key: Em}
 {duration: 195}
 {tempo: 133}
+{midi: CC0.0@2, CC32.8@2, PC0@2, CC0.63@1, CC32.8@1, PC0@1}
+(CK:9-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
 (guitar [Em7]riff) [Em7]             [Em7](+bass) [Em7](. . drum fill)
-
 [Em7](+drums)  [Em7](+harpsi) [Em7]
 
-
 {c: VERSE 1}
-[Em7]Love me two times, baaa[Em7]by.     [Em7]Love me twice today.[Em7]
-
+[Em7]Love me two times, baaa[Em7]by.   [Em7]Love me twice today.[Em7]
 [Em7]Love me two times [A7]girl,[A7] I'm goin' a[Em7]way.
-
 [Em7]Love me two times [D7]girl, [D7]one for tomorrow, [D7]one just for to[C7]day.
 
-
 {c: CHORUS}
-[G(2)]Love me two times,[D7(2)]             [C7(2)]I'm       [B7(2)]goin' away.
-
+[G(2)]Love me two times,[D7(2)]     [C7(2)]I'm  [B7(2)]goin' away.
 
 {c: INTERLUDE}
 (guitar [Em7]riff) [Em7]    [Em7]    [Em7]
 
-
 {c: VERSE 2}
-[Em7]Love me one time,[Em7]           [Em7]could not speak.[Em7]
-
-[Em7]Love me one time[A7]        [A7] yeah, my knees got [Em7]weak.
-
+[Em7]Love me one time,[Em7]    [Em7]could not speak.[Em7]
+[Em7]Love me one time[A7]   [A7] yeah, my knees got [Em7]weak.
 [Em7]Love me two times [D7]girl, [D7]last me  [D7]all through the [C7]week.
 
-
 {c: CHORUS}
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm       [B7(2)]goin' away. [Em7]    [Em7]
-
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm go[B7(2)]in' away.  [Em7]          [Em7] Allright yeah!
+[G(2)]Love me two times[D7(2)]    [C7(2)]I'm       [B7(2)]goin' away. [Em7]    [Em7]
+[G(2)]Love me two times[D7(2)]    [C7(2)]I'm go[B7(2)]in' away.  [Em7]          [Em7] Allright yeah!
 
 
 {c: SOLO}
 [Em7](e-gabagg) [Em7](e-abdbag) [Em7](e-abagag) [Em7](e-bagdag)
-
 [A7](e-a#agaba#) [A7](e-da#agba) [Em7](e-gbda#ag) [Em7](e-bagda#a)
-
 [G(2)](harpsichord)[D7(2)]      [C7(2)]      [B7(2)]      [Em7]    [Em7]
-
 [G(2)](harpsichord)[D7(2)]      [C7(2)]      [B7(2)]
 (guitar [Em7]riff) [Em7]    [Em7]    [Em7]
 
-
 {c: VERSE 3}
-[Em7]Love me one time,[Em7]           [Em7]could not speak.[Em7]
-
-[Em7]Love me one time baaa[A7]by        [A7] Yeah, my knees got [Em7]weak
-
+[Em7]Love me one time,[Em7]     [Em7]could not speak.[Em7]
+[Em7]Love me one time baaa[A7]by   [A7] Yeah, my knees got [Em7]weak
 [Em7]Love me two times [D7]girl, [D7]last me  [D7]all through the [C7]week.
 
-
 {c: CHORUS}
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm       [B7(2)]goin' away.[Em7]
+{soc}
+[G(2)]Love me two times[D7(2)]  [C7(2)]I'm  [B7(2)]goin' away.[Em7]
 
-
+{eoc}
 {c: VERSE 4}
 [Em7] Love me two times, [Em7]babe. [Em7] Love me twice to[Em7]day.
-
 [Em7] Love me two times, [A7]babe, [A7] 'cause I'm goin' a[Em7]way.
-
 [Em7] Love me two time, [D7]girl, [D7]one for tomorrow, [D7]one just for today.[C7]
 
-
 {c: OUTRO}
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm go[B7(2)]in' away.  [Em7]    [Em7]
-
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm go[B7(2)]in' away.  [Em7]    [Em7]
-
-[G(2)]Love me two times[D7(2)]             [C7(2)]I'm go[B7(2)]in' away.  [Em7]     (END)
+[G(2)]Love me two times[D7(2)]    [C7(2)]I'm go[B7(2)]in' away.  [Em7]    [Em7]
+[G(2)]Love me two times[D7(2)]    [C7(2)]I'm go[B7(2)]in' away.  [Em7]    [Em7
+[G(2)]Love me two times[D7(2)]    [C7(2)]I'm go[B7(2)]in' away.  [Em7]     (END)

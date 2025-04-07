@@ -1,0 +1,71 @@
+{title: Hot Stuff}
+{st: Donna Summer}
+{musicpath: Hot Stuff.mp3}
+{key: Gm}
+{duration: 315}
+{tempo: 121}
+{midi: CC0.0@2, CC32.2@2, PC6@2, CC0.63@1, CC32.2@1, PC6@1}
+
+{c: Intro}
+[Gm](guitar) [Gm] [F] [Gm]
+[Gm](guitar) [Gm] [F] [Gm]  
+#({soh}synth hook{eoh}: [Gm]g-a-Bb-c-d-f [Gm]g-f-g-f-d-Bb [F]c-Bb-c-Bb... [Gm]Db-c-Bb-g) 
+[Gm]{soh}(synth [Gm]hook){eoh} [F] [Gm] 
+[Gm](synth [Gm]hook) [F] [Gm] 
+
+
+{c: Verse 1}
+[Gm]Sittin here eatin my [Gm]heart out waitin, [F]waitin for some lover to [Gm]call.
+Dialed about a thousand numbers lately, almost rang the phone off the wall.
+
+{c: Chorus}
+{soc}
+Lookin for some [C]hot stuff [(D)]baby this eve[Gm]nin.
+I need some hot stuff baby tonight.
+I want some hot stuff baby this evenin.
+[C]Gotta have some hot stuff. [D]Gotta have some love.
+[Gm]tonight [(Bb)] [C] [(D)]
+I need hot stuff.
+I want some hot stuff.
+I need hot stuff.
+{eoc}
+
+{c: Post-Chorus}
+[Gm]{soh}(synth [Gm]hook){eoh} [F] [Gm]  [Gm](synth [Gm]hook) [F] [Gm] 
+
+{c: Verse 2}
+[Gm]Lookin for a lover who [Gm]needs another, don't [F]want another night on my own[Gm].
+Wanna share my love with a warm blood lover, wanna bring a wild man back home.
+
+{c: Chorus}
+{soc}
+Gotta have some [C]hot love [(D)]baby this eve[Gm]nin.
+I need some hot stuff baby tonight.
+I want some hot stuff baby this evenin.
+[C]Gotta have some lovin. [D]Got to have a love 
+[Gm]tonight.[(Bb)] [C] [(D)]
+I need hot stuff.
+Hot love.
+Looking for hot love.
+{eoc}
+
+{c: Solo}
+[Gm](guitar [Gm]solo) [Eb] [Eb] [F] [F] [Gm] [Gm]
+[Gm](guitar [Gm]solo) [Eb] [Eb] [F] [F] [Gm] [Gm]
+
+{c: Interlude}
+[Gm] Hot, hot, hot, [Gm]hot stuff [F] Hot, hot, hot [Gm]
+[Gm] Hot, hot, hot, [Gm]hot stuff [F] Hot, hot, hot [Gm]
+
+{c: Outro}
+How's about some [C]hot stuff [(D)]baby this eve[Gm]nin.
+I need some hot stuff baby tonight.
+Lookin for my hot stuff baby this evenin.
+I need some H.S. baby tonight, {soh}(hook G-G){eoh} yeah...
+I want hot stuff baby this evenin.
+I want some H.S. baby tonight, {soh}(hook){eoh} hey, yeah...
+Hot stuff baby this evenin.
+I want some hot stuff baby tonight, {soh}(hook){eoh} yeah.
+Wanna have some hot stuff baby this evenin.  
+{soh}(intro hook 4x){eoh}
+

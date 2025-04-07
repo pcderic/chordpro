@@ -1,6 +1,10 @@
 {title: Money}
-{artist: Pink Floyd}
+{st: Pink Floyd}
+{musicpath: Money.mp3}
+{time: 6:22}
 {key: D}
+{midi: CC0.0@2, CC32.7@2, PC0@2, CC0.63@1, CC32.7@1, PC0@1}
+(CK:8-1 {soh}LK:Part-B{eoh}, P1:TBD, P2:Wah)
 
 {c: Intro}
 (7/4) [Bm](bass intro) [Bm] [Bm] [Bm] 

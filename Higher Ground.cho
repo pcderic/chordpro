@@ -1,87 +1,68 @@
 {title: Higher Ground}
-{artist: Stevie Wonder}
+{st: Stevie Wonder}
+{musicpath:Higher Ground (backing).mp3}
+{time: 4:20}
 {key: Eb}
 {tempo: 130}
+{midi: CC0.0@2, CC32.6@2, PC7@2, CC0.63@1, CC32.6@1, PC7@1}
+(CK:7-8, LK:{soh}Part-B{eoh}, Pedal#1: Damper, Pedal#2: {soh}Wah{eoh})
+(see also CK:7-8)
 
 # Main clavi riff (RH): [Eb7]Bb-Db-Eb  [(Gb6)]Db-Eb-Gb   [(Ab6)]Eb-Gb-Ab   [Eb]Eb Db Ab-Bb Ab Gb)
 # [F7]World (C-Eb-F) [(Ab6)](Eb-F-Ab) [(Bb7)](F-Ab-Bb) [F7]       [(G7)]keep on [Ab7]turnin' [Db9]   
 
 {c: INTRO}
-{textcolor: darkred}
 [Eb7](clavi [(Gb6)]only) [(Ab6)] [Eb]  [Eb7] [(Gb6)] [(Ab6)] [Eb]
-
 [Eb7](beat [(Gb6)]starts) [(Ab6)] [Eb]  [Eb7] [(Gb6)] [(Ab6)] [Eb]
-
 [Eb7] [(Gb6)] [(Ab6)] [Eb]  [Eb7] [(Gb6)] [(Ab6)] [Eb]    
-{textcolor}
 
 {c: VERSE 1}
 #(00:27)
 [Eb7]People [Eb] keep on [Eb7]learnin'. [(Gb6)] [(Ab6)] [Eb]
-
-[Eb7]Soldiers [Eb] keep on [Eb7]warrin'. [(Gb6)] [(Ab6)] [Eb]
-
+Soldiers  keep on warrin'. 
 [F7]World [(Ab6)] [(Bb7)]     [F7] [(G7)]keep on [Ab7]turnin' [Db9]Cause it won't be 
-
 [Eb7]too long[(Gb6)] [(Ab7)] [Eb] [Eb7] [(Gb6)] [(Ab7)]  [Eb]
-
 
 {c: VERSE 2}
 #(00:57)
 [Eb7]Powers [Eb] keep on [Eb7]lyin'[(Gb6)] [(Ab6)] [Eb]  
-
-While your [Eb7]people [Eb] keep on [Eb7]dyin'[(Gb6)] [(Ab6)] [Eb] 
-
+While your people  keep on dyin'
 [F7]World [(Ab6)] [(Bb7)]    [F7] [(G7)]keep on [Ab7]turnin' [Db9] 'cause it won't be 
-
 [Eb7]too long[(Gb6)] [(Ab7)] [Eb] [Eb7] [(Gb6)] [(Ab6)] [Eb]  
-
 
 {c: CHORUS}
 #(01:28)
-I'm [Ab7]so darn glad he let me [Eb7]try it again cause my [Ab7]last time on earth I lived a [Eb7]whole world of sin
-
-I'm [Ab7]so glad that I know more than [Eb7]I knew then. Gonna [F7]keep on tryin' [Bb7] till I reach my highest 
-
+I'm [Ab7]so darn glad he let me [Eb7]try it again cause my [Ab7]last time on earth I lived a
+ [Eb7]whole world of sin
+I'm [Ab7]so glad that I know more than [Eb7]I knew then. Gonna [F7]keep on tryin' 
+[Bb7] till I reach my highest 
 [Eb7]ground[(Gb6)] [(Ab6)] [Eb] [Eb7] [(Gb6)] [(Ab7)]  [Eb]  
-
 
 {c: VERSE 3}
 #(01:51)
 [Eb7]Lovers [Eb] keep on [Eb7]lovin'[(Gb6)] [(Ab6)] [Eb]
-
-[Eb7]Believers [Eb] keep on [Eb]believin'[(Gb6)] [(Ab6)] [Eb]
-
+Believers  keep on believin'
 [F7]Sleepers[(Ab6)] [(Bb7)]  [F7] [(G7)]just stop [Ab7]sleepin' [Db9] 'cause it won't be
-
 [Eb]too long[(Gb6)] [(Ab6)] [Eb]  [Eb7]Oh no! [(Gb6)] [(Ab6)]  [Eb]
-
 
 {c: CHORUS}
 #(02:22)
-I'm [Ab7]so glad that he let me [Eb7]try it again cause my [Ab7]last time on earth I lived a [Eb7]whole world of sin
-
-I'm [Ab7]so glad that I know more than [Eb7]I knew then. Gonna [F7]keep on tryin' [Bb7]till I reach my highest 
-
+{soc}
+I'm [Ab7]so glad that he let me [Eb7]try it again cause my [Ab7]last time on earth I lived a 
+[Eb7]whole world of sin
+I'm [Ab7]so glad that I know more than [Eb7]I knew then. Gonna [F7]keep on tryin' 
+[Bb7]till I reach my highest 
 [Eb7]ground [Eb] Wooh! [Eb7] Till [Eb]I reach my highest 
-
+{eoc}
 
 {c: OUTRO}
 #(02:37)
 [Eb7]ground. [Eb]       [Eb7]No, no!   [Eb]No-one's gonna bring me
-
-[Eb7]down. [Eb]       Oh [Eb7]no! Till [Eb]I reach my highest 
-
-[Eb7]ground. [Eb]       [Eb7] Mm-Hmm, Mm-Hmm. Don't you [Eb]let nobody bring you 
-
-[Eb7]down. [Eb] They'll sure enough try. [Eb7] God is gonna [Eb]show you higher 
-
-[Eb7]ground. [Eb] [Eb7]  He's the [Eb]only friend you have
-
-[Eb7]around. [Eb] [Eb7] Cause the [Eb]rest of the world will bring you 
-
-[Eb7]down. [Eb] [Eb7]Oh why? [Eb]Till I reach my highest 
-
-[Eb7]ground. [Eb](ah-ah-ound) [Eb7] [Eb]No-one's gonna bring me
-
+down. Oh no! Till I reach my highest 
+ground. Mm-Hmm, Mm-Hmm. Don't you let nobody bring you 
+down.  They'll sure enough try. God is gonna show you higher 
+ground. He's the only friend you have
+around. Cause the rest of the world will bring you 
+down.  Oh why? Till I reach my highest 
+ground. (ah-ah-ound)  No-one's gonna bring me
 [Eb7]down. (END)

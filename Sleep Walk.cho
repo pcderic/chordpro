@@ -1,17 +1,17 @@
 {title: Sleep Walk}
-{artist: Santo & Johnny}
+{st: Santo & Johnny}
+{musicpath:Sleep Walk (in C).mp3}
 {key: C}
 {duration: 143}
 {tempo: 95}
-
 {textfont: courier}
 {chordfont: courier}
-
+{midi: CC0.0@2, CC32.6@2, PC4@2, CC0.63@1, CC32.6@1, PC4@1}
+(CK:7-5, {soh}LK:Part-B{eoh}, P1:ModWheel, P2:Exp.)
 
 {c: INTRO}
 [C]  [Am]   [Fm]   [G7]
 [C]  [Am]   [F]  [G7]
-
 
 {c: THEME 1}
 [C]  [Am]   [Fm]   [G7]
@@ -19,18 +19,15 @@
 [C]  [Am]   [Fm]   [G7]
 [C]  [Am]   [F]  [G7]
 
-
 {c: THEME 2}
 [C]  [Am]   [Fm]   [G7]
 [C]  [Am]   [Fm]   [G7]
 [C]  [Am]   [Fm]   [G7]
 [C]  [F]  [C]  [C7]
 
-
 {c: BRIDGE}
 [F]  [F]  [Fm]  [Fm]  [C]  [C]  [C]  [C7]
 [F]  [F]  [Fm]  [Fm]  [G7] [Bb] [G7] [G7]
-
 
 {c: OUTRO}
 [C]  [Am]   [Fm]   [G7]

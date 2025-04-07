@@ -1,0 +1,86 @@
+{title: I Will Survive}
+{st: Gloria Gaynor}
+{musicpath:I Will Survive.mp3}
+{key: Am}
+{duration: 4:54}
+{tempo: 120}
+{midi: CC0.0@2, CC32.2@2, PC7@2, CC0.63@1, CC32.2@1, PC7@1}
+(CK:3-8,{soh}LK:Part-B{eoh})
+
+{c:Intro:}
+[E7]{soh}(piano arp.){eoh}[E7][E7]
+ 
+{c:Pre-Verse:}
+At [Am]first I was afraid, I was [Dm7]petrified. Kept thinking [G]I could never live without you [Cmaj7]by my side. 
+I [Fmaj7]spent so many nights thinking [Bm7-5]how you did me wrong and I grew [Esus4]
+strong and I learned [E] how to get along.
+  
+{c:Verse 1:}
+And so you're back from outer space. Just walked in to find you with that sad look... 
+I should have changed that stupid lock...leave your key. If I'd known for just one second 
+you'd be back to bother me.
+
+{soh}> {eoh}Go on now, go{soh}(brass){eoh}go, walk out the door. Just turn around now 
+'cause you're not welcome anymore.
+ Weren't you the one who tried to hurt me with goodbye? Do you think I'd crumble? ...
+I'd lay down and die?
+ 
+{c:Chorus 1:}
+{soc}
+On no, not {soh}(brass){eoh}I, I will survive.
+As long as I know how to love, I know I'll stay alive.
+I've got all my life to live. I've got all my love to give and 
+I'll survive, I will survive. Hey, hey!{soh}(harp-up-up){eoh}
+{eoc}
+ 
+{c:Interlude:}
+[Am](strings) [Dm7] [G] [Cmaj7] [Fmaj7] [Bm7-5] [Esus4] [E]{soh}(harp-up-up){eoh}
+
+{soh}=== JUMP BACK HERE ==={eoh} 
+{c:Verse 2:}
+It took all the strength I had not to fall apart. Though I try hard to mend the pieces 
+of my broken heart. 
+And I spent oh so many nights just feeling sorry for myself, I used to cry but now 
+I hold my head up high.
+
+{soh}> {eoh}And you see {soh}(a:brass, b:nothing){eoh} me, somebody new
+I'm not that chained up little person still in love with you.
+You felt like droppin' in and just expect me to be free.
+Now I'm saving all my lovin' for someone who's loving me
+
+{soh}> {eoh}Go on now, go,{soh}(ab:brass){eoh} walk out the door.  
+Just turn around now 'cause you're not welcome anymore.
+Weren't you the one who tried to break me with goodbye?
+Did you think I'd crumble? ...I'd lay down and die? 
+{soh}(a:harp-up-up,b:harp-fast){eoh}
+ 
+{c:Chorus 2:}
+{soc}
+On no, not I{soh}(2b:brass){eoh}, I will survive. And as long as I know how to love I know 
+I'll stay alive.
+I've got all  my life to live ...all my love to give. I'll survive, I will survive 
+Oh!{soh}(a:pause+harp-down-up, b:to Outro){eoh}
+{eoc}
+
+{c:Verse 3:}
+Go on now, go, walk out the door. Just turn around now 'cause you're not welcome 
+anymore.
+Weren't you the one who tried to break me with goodbye
+Did you think I'd crumble? ...I'd lay down and die?
+ 
+{c:Chorus 3:}
+{soc}
+On no, not I, I will survive. And as long as I know how to love I know I'll stay alive
+I've got all  my life to live ...all my love to give and I'll survive(brass), I will survive
+{eoc} 
+
+{c: Sax Solo:}
+I will [Am]survive{soh}(solo){eoh} [Dm7] [G] [Cmaj7] [Fmaj7] [Bm7-5] [Esus4] [E]
+
+{c:Verse 4:}
+{soh}(a:Jump to Verse 2b + Chorus 2b){eoh}
+ 
+{c:Outro:}
+I will [Am]survive [Dm7]{soh}(sax){eoh}[G][Cmaj7]...[Fmaj7] [Bm7-5] [Esus4] [E]
+[Am](end on fade out)
+

@@ -1,270 +1,115 @@
-{title: Takin Care of Business}
-{artist: Bachman Turner Overdrive (BTO)}
+{title: Takin' Care of Business 2}
+{st: Bachman Turner Overdrive}
+{musicpath:Takin' Care Of Business.m4a}
 {key: Cm}
 {duration: 290}
 {tempo: 128}
+{midi: CC0.0@2, CC32.0@2, PC0@2, CC0.63@1, CC32.0@1, PC0@1}
+(CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
-{textcolor: pink}
 {c: INTRO}
-{textcolor}
-{textcolor: red}
 [C7](guitar1) [Bb7]      [F7]     [C7](+drums and piano)
-{textcolor}
-
-{textcolor: red}
 [C7](+bass)  [Bb7]      [F7]     [C7]
-{textcolor}
-
-{textcolor: red}
 [C7](+guitar2) [Bb7]      [F7]     [C7]
-{textcolor}
-
-{textcolor: red}
 [C7](all [Bb7]instruments) [F7]     [C7]
-{textcolor}
 
 # At 0:30
-{textcolor: pink}
 {c: VERSE 1}
-{textcolor}
 You [C7]get up every morning from your [Bb7]'larm clock's warning.
-
 Take the [F7]8:15 into the [C7]city.
-
 There's a [C7]whistle up above and people [Bb7]pushin' people shovin'
-
 and the [F7]girls who try to look [C7]pretty.
-
 And if your [C7]train's on time, you can [Bb7]get to work by nine
-
 and start your [F7]slaving job to get your [C7]pay.
-
 If you [C7]ever get annoyed, look at [Bb7]me, I'm self-employed
-
 I [F7]love to work at nothin' all [C7]day.
 
 # At 1:00
-{textcolor: pink}
 {c: CHORUS 1}
-{textcolor}
-{textcolor: yellow}
 And I'll be TCOB, ev[C7]ery da[Bb7]y.
-{textcolor}
-
-{textcolor: yellow}
 Takin' c[F7]are of business, every wa[C7]y.
-{textcolor}
-
-{textcolor: yellow}
 I've been TCOB. It[C7]'s all[Bb7] mine.
-{textcolor}
-
-{textcolor: yellow}
 Takin' c[F7]are of business and workin' [C7]overtime. Work out.
-{textcolor}
 
 # At 1:15
-{textcolor: pink}
 {c: SOLO 1}
-{textcolor}
-{textcolor: red}
 [C7](guitar [Bb7]solo) [F7]     [C7]
-{textcolor}
-
-{textcolor: red}
 [C7](guitar [Bb7]solo) [F7]     [C7]
-{textcolor}
 
 # At 1:30
-{textcolor: pink}
 {c: VERSE 2}
-{textcolor}
 If it were [C7]easy as fishin', you could [Bb7]be a musician
-
 If [F7]you could make sounds loud or [C7]mellow
-
 Get a [C7]second-hand guitar, chances [Bb7]are you'll go far
-
 If you [F7]get in with the right bunch of [C7]fellows
-
 People [C7]see you having fun, just a-[Bb7]lying in the sun
-
 [F]Tell them that you like it this [C7]way
-
 It's the [C7]work that we avoid and we're [Bb7]all self-employed.
-
 We [F7]love to work at nothin' all [C7]day.
 
 # At 1:59
-{textcolor: pink}
 {c: CHORUS 2}
-{textcolor}
-{textcolor: yellow}
 And we be TCOB, ev[C7]ery da[Bb7]y!
-{textcolor}
-
-{textcolor: yellow}
 Takin' c[F]are of business, every wa[C7]y.
-{textcolor}
-
-{textcolor: yellow}
 We be TCOB. It[C7]'s all[Bb7] mine!
-{textcolor}
-
-{textcolor: yellow}
 TCOB and[F7] working [C7]overtime.
-{textcolor}
 
 # At 2:14
-{textcolor: pink}
 {c: SOLO 2}
-{textcolor}
-{textcolor: red}
 (guit[C]ar solo)[Bb]       [F]     [C]
-{textcolor}
-
-{textcolor: red}
 (guit[C]ar solo)[Bb]       [F]     [C]
-{textcolor}
 
 # At 2:28
-{textcolor: pink}
 {c: INTERLUDE 1}
-{textcolor}
-(NC)
-{textcolor: red}
-*(DRUMS ONLY...)
-{textcolor}
-
-(NC)      (NC)           (NC)
-Woooooh!  Alright! Owe!  (yeah love me!)
-
-{textcolor: red}
+[(NC)](DRUMS ONLY...)
+ [(NC)]Woooooh! [(NC)] Alright! [(NC)]Owe!  (yeah love me!)
 (powe[C(1)]r chord[F(3)]s and  [Eb(1)] drums[Bb(3)])
-{textcolor}
-
-{textcolor: red}
 (powe[C(1)]r chord[F(3)]s and  [Eb(1)] drums[Bb(3)])
-{textcolor}
-
 (+bass) Take good [C(1)]care [F(3)]of my [Eb(1)]business [Bb(3)]
-
 When I'm [C(1)]away, [F(3)]  every [Eb(1)]day   [Bb(3)]Whoooo!
 
 # At 2:50
-{textcolor: pink}
 {c: SOLO 3}
-{textcolor}
-{textcolor: red}
 (solo[C]+band)      [Bb]     [F]    [C]
-{textcolor}
-
-{textcolor: red}
 (solo[C]+band)      [Bb]     [F]    [C]
-{textcolor}
 
 # At 3:04
-{textcolor: pink}
 {c: VERSE 3}
-{textcolor}
 You [C]get up every morning from your [Bb]'larm clock's warning
-
 Take the [F]8:15 into the [C]city
-
 There's a [C]whistle up above and [Bb]people pushin', people shovin'
-
 And the [F]girls who try to look [C]pretty
-
 And if your [C]train's on time, you can [Bb]get to work by nine
-
 and start your [F]slaving job to get your [C]pay
-
 If you [C]ever get annoyed, look at [Bb]me, I'm self-employed
-
 I [F]love to work at nothin' all [C]day.
 
 # At 3:34
-{textcolor: pink}
 {c: CHORUS 3}
-{textcolor}
-{textcolor: yellow}
 And I'll be TCOB, ev[C]ery da[Bb]y.
-{textcolor}
-
-{textcolor: yellow}
 TCOB, ev[F]ery wa[C]y.
-{textcolor}
-
-{textcolor: yellow}
 I've been TCOB,  i[C]t's al[Bb]l mine.
-{textcolor}
-
 [F]TCOB and [C]workin' overtime.
-
-{textcolor: red}
 (LEAD GUITAR: hold the note)
-{textcolor}
 
 # At 3:48
-{textcolor: pink}
 {c: INTERLUDE 2}
-{textcolor}
-(NC)   (NC)   (NC)   (NC)
-{textcolor: red}
-*(DRUMS ONLY)
-{textcolor}
+[(NC)](DRUMS) [(NC)]ONLY)   [(NC)]  [(NC)]
 
-{textcolor: red}
 (in unison)
-{textcolor}
-
-(NC)   (NC)  (NC)  (NC)
-{textcolor: yellow}
+[(NC)]  [(NC)]  [(NC)]  [(NC)]
 TCOB   whoo. TCOB
-{textcolor}
-
-{textcolor: red}
 (in harmony)
-{textcolor}
-
 (NC)  (NC)   (NC)  (NC)
-{textcolor: yellow}
 TCOB  yeah   TCOB
-{textcolor}
-
-{textcolor: yellow}
 TCOB, ev[C]ery da[Bb]y. TCOB, ev[F]ery wa[C]y.
-{textcolor}
-
-{textcolor: yellow}
 TCOB.  I[C]t's al[Bb]l mine! TCOB    [F]
-{textcolor}
-
-{textcolor: yellow}
 and work[C]in' overtime. Whoooo!
-{textcolor}
 
 # At 4:25
-{textcolor: pink}
 {c: OUTRO}
-{textcolor}
-{textcolor: yellow}
 TCOB    [C]TCOB [Bb]   [F]      [C]
-{textcolor}
-
-{textcolor: yellow}
 TCOB  We[C] be TC[Bb]OB    [F]     [C]
-{textcolor}
-
-{textcolor: yellow}
 We be TCOB    [C]TCOB [Bb]   [F]      [C]
-{textcolor}
-
-{textcolor: yellow}
  Yeah ee-[C7]yeah, yeah!
-{textcolor}
-
-{textcolor: red}
 END
-{textcolor}
-

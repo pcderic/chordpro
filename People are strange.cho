@@ -1,8 +1,11 @@
 {title: People are strange}
-{artist: The Doors}
+{st: Doors}
+{musicpath: People Are Strange.MP3}
 {key: Em}
 {duration: 195}
 {tempo: 114}
+{midi: CC0.0@2, CC32.2@2, PC2@2, CC0.63@1, CC32.2@1, PC2@1}
+(CK:3-3, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
 [(B7)](guitar only: b-a-g)

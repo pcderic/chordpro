@@ -1,0 +1,71 @@
+{title: Seven Nation Army}
+{st: White Stripes}
+{musicpath:Seven Nation Army.mp3}
+{key: Em}
+{duration: 233}
+{tempo: 123}
+{x_sbp_tags: oote}
+{midi: CC0.0@2, CC32.5@2, PC5@2, CC0.63@1, CC32.5@1, PC5@1}
+(CK:6-6, {soh}LK:Part-B{eoh})
+
+{c: Intro}
+[Em](bass: e e [G]g e d [C]c [B]b)
+[Em](same)[G] [C] [B]
+
+{c: Verse 1}
+I'm gonna [Em]fight 'em off [G] [C] [B]
+A seven nation army couldn't hold me back 
+They're gonna rip it off   
+Taking their time right behind my back 
+And I'm talking to myself at night because I can't 
+forget
+Back and forth through my mind behind a 
+cigarette.  And a
+[G]message coming from my eyes [A]says leave it alone
+
+{c: Bridge}
+{soh}(synth+bass){eoh} 
+[Em](e e [G]g e d [C]c [B]b) [Em](e e [G]g e d [C]c d c [B]b)
+[Em](e e [G]g e d [C]c [B]b) [Em](e e [G]g e d [C]c d c [B]b)
+[G5] [G5] [A5] [A5]
+[Em](bass only: e e [G]g e d [C]c [B]b)   (x2)
+[Em](bass+drums: e e [G]g e d [C]c [B]b)   (x2)
+
+{c: Verse 2}
+Don't wanna [Em]hear about it [G] [C] [B]
+Every single one's got a story to tell
+Everyone knows about it 
+From the Queen of England to the hounds of Hell
+And if I catch it coming back my way
+I'm gonna serve it to you
+And that ain't what you want to hear
+But that's what I'll do   
+And a [G]feeling coming from my [A]bones says find a home
+
+{c: Solo}
+{soh}(synth+bass){eoh} 
+[Em](e e [G]g e d [C]c [B]b)  [Em](e e [G]g a g [C]g a g [B]f#)
+[Em](e e [G]g e d [C]c [B]b)  [Em](e e [G]g a g [C]g a g [B]f#)
+{soh}(+1 oct){eoh}
+[Em](e e [G]b a g [C]g [B]f#)  [Em](e e [G]g a g [C]g a g [B]f#)
+[Em](e e [G]+e +d +c [C]c [B]b)  [Em](e e [G]+e +d +c [C]c d c [B]b)
+
+[G5] [G5] [A5] [A5]
+[Em](bass only: e e [G]g e d [C]c [B]b)   (x2)
+[Em](bass+drums: e e [G]g e d [C]c [B]b)   (x2)
+
+{c: Verse 3}
+I'm goin' to [Em]Wichita [G] [C] [B]
+Far from this opera, forever more.
+I'm gonna work the straw.
+Make the sweat drip out of every pore.
+And I'm bleeding, I'm bleeding and I'm bleeding
+right before the Lord. 
+All the words are gonna bleed from me and I will
+sing no more.  
+And the [G]stains coming from my [A]blood tell me go back home.
+
+{c: Outro}
+[Em](E5 E5 [G]G5 E5 D5 [C]C5 [B]B5)  [Em](E5 E5 [G]G5 E5 D5 [C]C5 D5 C5 [B]B5) (x2)
+[Em](ho[Em]ld)[Em](END)
+

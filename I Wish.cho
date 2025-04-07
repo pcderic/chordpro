@@ -1,0 +1,76 @@
+{title: I Wish}
+{subtitle: Stevie Wonder}
+{musicpath:I Wish.mp3}
+{key: Ebm}
+{duration: 4:30}
+{tempo: 105}
+{midi: CC0.0@2, CC32.3@2, PC0@2, CC0.63@1, CC32.3@1, PC0@1}
+(CK:4-1, {soh}LK:Part-B{eoh}, 2 beats per chord)
+
+{c:Intro}
+[Ebm7]{soh}(bass [Ab7]line){eoh} [Ebm7][Ab7]            [Ebm7][Ab7] [Ebm7][Ab7]{soh}(desc){eoh}
+[Ebm7]{soh}(chord [Ab7]riff){eoh} [Ebm7][Ab7]           [Ebm7][Ab7] [Ebm7][Ab7]
+ 
+{c:Verse 1}
+[Ebm7]({soh}riff{eoh}) Looking back on [Ab7]when I [Ebm7]was a little nap[Ab7]py headed boy [Ebm7]({soh}comp{eoh})[Ab7][Ebm7][Ab7]
+({soh}riff{eoh}) Then my only worry was for Christmas what would be my toy ({soh}comp{eoh})
+ 
+{c:Bridge}
+[Bb7]Even though we [C7]sometimes [Fm7]would not get a thing [Abm6](B-Eb-F-Ab)
+[Bb7]We were happy [C7]with the [Fm7]joy the day would bring [Bb7#5](D-Gb-Ab-Bb)
+ 
+{c:Verse 2}
+[Ebm7]({soh}riff{eoh}) Sneaking out the [Ab7]back door [Ebm7]to hang out with those [Ab7] 
+hoodlum friends of mine [Ebm7]({soh}brass{eoh}) [Ab7][Ebm7][Ab7]
+(riff) Greeted at the back door, I thought I told you not to go outside ({soh}brass{eoh}) 
+ 
+{c:Bridge}
+{soh}(slow brass){eoh}
+[Bb7]Tryin' your best to [C7]bring the [Fm7]water to your eyes[Abm6]
+[Bb7]Thinkin' it might stop [C7]her from [Fm7]whippin' your behind[Bb7#5]
+ 
+{c:Chorus}
+{soc}
+I wish those [Ebm7]days({soh}brass{eoh}) [Ab7]could({soh}b{eoh}) [Ebm7]come back({soh}b{eoh}) once more[Ab7]
+Why did those days({soh}b{eoh})e-({soh}b{eoh})ver have to go?
+I wish those days({soh}b{eoh}) could ({soh}b{eoh})come back once more
+Why did those days({soh}b{eoh}) e-({soh}b{eoh})ver have to go? 'cause I love 'em so
+{eoc}
+
+{c:Interlude}
+[Ebm7]{soh}(chords){eoh} dudoo...[Ab7] [Ebm7][Ab7]              [Ebm 7]{soh}(chords){eoh} dudoo...[Ab7] [Ebm7][Ab7]
+ 
+{c:Verse 3}
+(piano only)
+[Ebm7]({soh}riff{eoh}) Brother says he's [Ab7]tellin' [Ebm7]'bout you playin' doc[Ab7]tor with that girl
+({soh}comp{eoh})
+(riff) Just don't tell I'll give you anything you want 
+in this whole wide world. ({soh}comp{eoh})
+ 
+{c:Bridge}
+(piano only)
+[Bb7]Mama gives you [C7]money [Fm7]for Sunday school[Abm6]
+[Bb7]You trade yours for [C7]candy [Fm7]after church is through[Bb7#5]
+ 
+{c:Verse 4} 
+(brass)
+[Ebm7]{soh}(riff){eoh} Smokin' cigaret[Ab7]tes and [Ebm7]writing something nas[Ab7]ty on the wall ({soh}brass{eoh})(you nasty boy)
+(riff) Teacher sends you to the principal's office down the hall ({soh}brass{eoh})
+ 
+{c:Bridge}
+{soh}(slow brass){eoh}
+[Bb7]You grow up and [C7]learn that [Fm7]kinda thing ain't right[Abm6]
+[Bb7]But while you were [C7]doin' it, [Fm7]it sure felt out of [Bb7#5]sight
+ 
+{c:Chorus}
+{soc}
+I wish those [Ebm7]days({soh}brass{eoh}) [Ab7]could({soh}b{eoh}) [Ebm7]come back({soh}b{eoh}) once more[Ab7]
+Why did those days({soh}b{eoh})e-({soh}b{eoh})ver have to go?
+I wish those days({soh}b{eoh}) could ({soh}b{eoh})come back once more
+Why did those days({soh}b{eoh}) e-({soh}b{eoh})ver have to go? Yee hee!
+{eoc}
+
+{c:Outro}
+[Ebm7]{soh}(piano [Ab7]riff){eoh}[Ebm7] [Ab7] [Ebm7]{soh}(piano [Ab7]comp){eoh}[Ebm7][Ab7]
+[Ebm7]{soh}(brass [Ab7]desc)[Ebm7] [Ab7] [Ebm7](brass [Ab7]comp){eoh}[Ebm7][Ab7]  (4x)
+

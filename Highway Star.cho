@@ -1,171 +1,82 @@
 {title: Highway Star}
-{subtitle: (organ)}
-{artist: Deep Purple}
-{key: F}
-
-Highway Star
-Artist: Deep Purple
-Duration: 6:08
-Key: Gm
-Tempo: 171
-TransposedKey: Fm
-
+{st: Deep Purple}
+{musicpath:Highway Star.mp3}
+{time: 6:08}
+{duration: 6:08}
+{Key: Gm}
+{tempo: 171}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
-[G5](guitar [F5/G]strum [C/G]over [F5/G]bass)
-
-[G5](guitar [F6/G]strum [G5]over [F6/G]bass)
-
-[Gm](drum [Gm]beat [Gm]in)  [Gm]   
-
-[Gm](+organ)      [Gm]    [Gm]    [Gm]   
-
+[G5](guitar [F5/G]strum [C/G]over [F5/G]bass)     [G5](guitar [F6/G]strum [G5]over [F6/G]bass)
+[Gm](drum [Gm]beat [Gm]in)  [Gm]                  [Gm](+organ)      [Gm]    [Gm]    [Gm]   
 [Gm]    [Gm] Woaa[Gm]aaaaa[Gm]aaaaa
-
 [Gm]aaa[Gm]aaa[Gm]aah! [C5(2)]      [Bb5(2)]       
 
-
 {c: VERSE 1}
-
 [Gm]  Nobody gonna [Gm]take my car, I'm gonna [Gm]race it to the [Gm]ground
-
 [Gm]  Nobody gonna [Gm]beat my car, it's gonna [Gm]break the speed of [Gm]sound
-
 [F] Ooh it's a [F]killing machine,[F] it's got every[F]thing
-
 [D] Like a driving [D]power, big fat [D]tires and every[D]thing
 
-
 {c: CHORUS}
-
-[A]I love it, [A]I need it, [A]I feed it [A]  
-
-[A]Yeah it's a wild [A]hurricane
-
+[A]I love it, [A]I need it, [A]I feed it [A]          [A]Yeah it's a wild [A]hurricane
 [C(2)]Al---[D(2)]right [C(2)]hold [D(2)]tight, [G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  
-
 [A]star [A]    [A]    [C(2)]     [Bb(2)]      
 
-
 {c: VERSE 2}
-
 [Gm]  Nobody gonna [Gm]take my girl I'm gonna [Gm]keep her to the [Gm]e-end
-
 [Gm]  Nobody gonna [Gm]have my girl she stays [Gm]close on every [Gm]bend
-
 [F] Ooh she's a [F]killing machine,[F] she's got every[F]thing
-
 [D] Like a moving [D]mouth, body [D]control and every[D]thing
 
-
 {c: CHORUS}
-
-[A]I love her, [A]I need her, [A]I seed her  [A]  
-
-[A]Yeah she turns me [A]on
-
+[A]I love her, [A]I need her, [A]I seed her  [A]          [A]Yeah she turns me [A]on
 [C(2)]Al---[D(2)]right [C(2)]hold [D(2)]tight, [G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  
-
 [A]star [A]    [A]    [*NC](drums)
 
-
 {c: ORGAN SOLO}
-
-[Dm](engine [Dm]revving [Dm]up...)[Dm]   
-
-[Dm](.......[Dm]revving [Dm]up) [Dm]   
-
-[Dm](arabic [Dm]pass [Dm]1)   [Dm]   
-
-[Am](organ [E/G#]arpeggi[Gm]o)   [D/F#]     
-
-[Am](organ [E/G#]arpeggi[Gm]o)   [D/F#]     
-
-[F](organ [F]arpe[Dm]ggio) [Dm]   
-
-[A](arabic [A]pass [A]2)   [A]  
-
+[Dm](engine [Dm]revving [Dm]up...)[Dm]           [Dm](.......[Dm]revving [Dm]up) [Dm]   
+[Dm](arabic: a [Dm]Bb g a e [Dm]g a a...)   [Dm]   
+[Am](organ [E/G#]arpeggi[Gm]o)   [D/F#]                [Am](organ [E/G#]arpeggi[Gm]o)   [D/F#]     
+[F](organ [F]arpe[Dm]ggio) [Dm]                  [A](arabic [A]pass [A]2)   [A]  
 [A](4 [A]notes [A]legato [A]descent)
-
 [D5](power [F5(2)]chords[G5(1)])     [F5(1)]        [D5]     [F5(2)]      [G5(1)]      [F5(1)]      
-
 [D5](power [F5(2)]chords[G5(1)])     [F5(1)]        [D5]     [F5(2)]      [G5(1)]      [F5(1)]      
-
 [*NC](bass+guitar: c-d-f-g-a-c-c- [D]d) (organ)
-
 [*NC](bass+guitar: d-c-a-g#-g-f-d- [C]c) (organ)
 
 {c: VERSE 3}
-
 [Gm]  Nobody gonna [Gm]take my head I got [Gm]speed inside my [Gm]brain
-
 [Gm]  Nobody gonna [Gm]steal my head now that [Gm]I'm on the road [Gm]again
-
 [F] Ooh I'm in [F]heaven again I've [F]got every[F]thing
-
 [D] Like a moving [D]ground, an open [D]road and every[D]thing
 
-
 {c: CHORUS}
-
-[A]I love it, [A]I need it, [A]I seed it [A]  
-
-[A]Eight cylinders [A]all mine
-
+[A]I love it, [A]I need it, [A]I seed it [A]      [A]Eight cylinders [A]all mine
 [C(2)]Al---[D(2)]right [C(2)]hold [D(2)]tight, [G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  
-
 [A]star [A]    [*NC](drums[*NC])    
 
 # At 03:46
 {c: GUITAR SOLO}
-
-[Dm](guitar) [Dm]      [Dm]      [Dm]   
-
-[Dm](guitar) [Dm]      [Dm]      [Dm]   
-
-[Am](guitar) [Am]      [Am]      [Am]   
-
-[Am](guitar) [Am]      [Am]      [Am]   
-
-[Dm](guitar) [Dm]   [Gm]    [Gm]    [C]   [C]   [Am]   [Am]   
-
-[Dm](guitar) [Dm]   [Gm]    [Gm]    [C]   [C]   [Am]   [Am]   
-
-[Dm](guitar) [Dm]   [Gm]    [Gm]    [C]   [C]   [Am]   [Am]   
-
-[Dm](guitar) [Dm]   [Gm]    [Gm]    [C]   [C]   [Am]   [Am]   
-
-[Am](guitar) [Am]    [Am]    [Am]   
-
-[Am](guitar) [Am]    [Am]    [Am]   
-
+[Dm](guitar) [Dm][Dm][Dm]      (x2)
+[Am](guitar) [Am][Am][Am]      (x2)
+[Dm](guitar) [Dm][Gm][Gm][C][C][Am][Am]      (x4)
+[Am](guitar) [Am]    [Am]    [Am]     (x2)
 [C(2)](back to [Bb(2)]verse)
 
-
 {c: VERSE 4}
-
 [Gm]  Nobody gonna [Gm]take my car, I'm gonna [Gm]race it to the [Gm]ground
-
 [Gm]  Nobody gonna [Gm]beat my car, it's gonna [Gm]break the speed of [Gm]sound
-
 [F] Ooh it's a [F]killing machine,[F] it's got every[F]thing
-
 [D] Like a driving [D]power, big fat [D]tires and every[D]thing
 
-
 {c: CHORUS}
-
 [A]I love it, [A]I need it, [A]I bleed it [A]  
-
 [A]  Yeah it's a wild [A]hurricane
-
 [C(2)]Al---[D(2)]right [C(2)]hold [D(2)]tight, [G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  [A(2)]star 
 
-
 {c: OUTRO}
-
-[G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  [A(2)]star,
-
-[G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  
-
+[G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  [A(2)]star,    [G(2)]I'm  [D(2)]a    [F(2)]high-[G(2)]way  
 [A]staa[A]aaaa[A]aaaa[A]r!  [A]    [A]    [A]    [A]  (END)

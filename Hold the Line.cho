@@ -1,0 +1,69 @@
+{title: Hold the Line}
+{st: Toto}
+{musicpath:Hold the Line (backing).mp3}
+{key: F#m}
+{tempo: 99}
+metronome 99}
+{duration: 3:56}
+{midi: CC0.0@2, CC32.2@2, PC5@2, CC0.63@1, CC32.2@1, PC5@1}
+(CK:3-6, {soh}LK:Part-B{eoh}, P1:Damper, P2:Exp.)
+
+{c:Intro:}
+[F#m](C#-F#-A x6) [(A/C#)](C#-E-A x2) [(D6)](B-D-A x4) [E](B-E-G# x6) [(Esus4)](B-E-A x3) [(E)](B-E-G# x3)
+[F#m](same) [(A/C#)] [(D6)]    [E] [(Esus4)][(E)]
+[F#m](A-C#-F# x6) [(A/C#)](A-C#-E x2) [(D6)](B-D-A x4) [E](B-E-G# x6) [(Esus4)](B-E-A x3) [(E)](B-E-G# x3)
+[F#m](A-C#-F# x6) [(A/C#)](A-C#-E x2) [(D6)](B-D-A x4) [E](B-E-G# x6) [(C#m)][(Cm7)]
+[F#m](A-C#-F# x6) [(A/C#)](A-C#-E x2) [(D6)](B-D-A x4) [E](B-E-G# x6) [(C#m)][(Cm7)]
+
+
+{c:Verse 1:}
+[Bm7]It's not in the [(C#m7)]way that you [F#m]hold me [(C#m)][(Cm7)]
+[Bm7]It's not in the [(C#m7)]way you say you c[F#m]are [(C#m)][(Cm7)]
+[Bm7]I's not in the [(C#m7)]way you've been [D]treating my [(E)]friends [(C#m)][(Cm7)]
+[Bm7]It's not in the [(C#m7)]way that you [D]stayed till the [(E)]end [(C#m)][(Cm7)]
+[Bm7]It's not in the [(C#m7)]way you look or the [D]things that you say that you'll [(E)]do
+ 
+{c:Chorus: }
+{soc}
+Hold the [F#m]line, [(A/C#)] [(D6)] [E] lo[(Esus4)]ve isn't a[(E)]lways on[F#m] time,[(A/C#)]  [(D6)]oh oh [ E]oh  [(Esus4)] [(E)]
+Hold the [F#m]line, [(A/C#)] [(D6)] [E] lo[(Esus4)]ve isn't a[(E)]lways on[F#m] time,[A/C#] [D6]oh oh [E]oh [(C#m)][(Cm7)]
+{eoc}
+ 
+{c:Verse 2:}
+[Bm]It's not in the [(C#m)]words that yo[F#m]u told me, girl [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way you say you'r[F#m]e mine, ooh [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way that you cam[D]e back to[(E)] me [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way that your l[D]ove set me free[(E)]  [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way you look or the th[D]ings that you say that you'll [(E)]do
+
+{c:Chorus: }
+{soc}
+Hold the [F#m]line, [(A/C#)] [(D6)] [E] lo[(Esus4)]ve isn't [(E)]always on[F#m] time,[(A/C#)]  [(D6)]oh oh [ E] oh [(Esus4)] [(E)]
+Hold the [F#m]line, [(A/C#)] [(D6)] [E] lo[(Esus4)]ve isn't [(E)]always on[F#m] time,[(A/C#)] [(D6)]oh oh [E]oh
+{eoc}
+
+{c:Guitar Solo}
+[F#m](same  [(A/C#)]as intro) [(D6)] [E] [(Esus4)] [(E)]       [F#m](same  [(A/C#)]as intro) [(D6)] [E] [(Esus4)] [(E)]       
+[F#m](same  [(A/C#)]as intro) [(D6)] [E] [(Esus4)] [(E)]       [F#m](same  [(A/C#)]as intro) [(D6)] [E] 
+[F#m]({soh}lower{eoh}, [(A/C#)]match [(D6)]rhythm [E]guitar pattern) [F#m] [(A/C#)] [(D6)] [E]
+[F#m](lower, [(A/C#)]match [(D6)]rhythm [E]guitar pattern) [F#m] [(A/C#)] [(D6)] [E] 
+
+{c:Verse 3:}
+[Bm]It's not in the [(C#m)]words that you [F#m]told me, girl [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way you say you're [F#m]mine, ooh [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way that you came [D]back to[(E)] me [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way that your [D]love set me free[(E)]  [(C#m)][(Cm7)]
+[Bm]It's not in the [(C#m)]way you look or the [D]things that you say that you'll [(E)]do
+
+{c:Chorus: }
+{soc}
+Hold the [F#m]line, [(A/C#)] [(D6)] [E] love [(Esus4)]isn't [(E)]always on [F#m]time, [(A/C#)] [(D6)] oh oh [ E]oh  [(Esus4)] [(E)]
+Hold the line,                       love isn't always on time. Love isn't always on time.
+{eoc}
+
+{c:Outro: }
+Hold the line,   love isn't always on time. Love isn't always, love isn't always on time.
+Hold the line,   love isn't always on [F#5]time. {soh}(power [(C#5)]chords...){eoh}[(D5)] [E5]
+Love isn't always on [F#5]time.[(C#5)] [(D5)] [E5]   Love isn't always on [F#5]time.[(C#5)] [(D5)] [E5] 
+Love isn't always on [F#5]time.[(C#5)] [(D5)] [E5]   Love isn't always on [F#5]time.[(C#5)] [(D5)]Oh oh [E5]oh!
+ [E5]{soh}(triplets on 3){eoh} [E5](stop on 1)

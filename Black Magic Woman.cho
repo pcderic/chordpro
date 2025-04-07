@@ -1,0 +1,55 @@
+{title: Black Magic Woman}
+{st: Santana}
+{musicpath:Black Magic Woman + Gipsy Queen.mp3}
+{time: 5:19}
+{key: Dm}
+{tempo: 120}
+{midi: CC0.0@2, CC32.4@2, PC1@2, CC0.63@1, CC32.4@1, PC1@1}
+(CK:5-2, LK: {soh}Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{c:Intro:}
+[Dm](organ: L:d-e R:c-d-a-c-d-a-b-d [Dm]c-d-a-c-d...)      [Dm](repeat [Dm] until guitar riff...)
+[Dm](+perc, bass, guitar...)[Dm]     [Dm] [Dm]                 [Dm](same)[Dm]   [Dm] [Dm]
+[Dm](same, guitar riff starts...)
+
+[Gm6](guitar [Gm6]riff)[Dm7][Dm7][Gm6][Gm6][Dm7][Dm7](stop)
+
+[Dm7](guitar [Dm7]intro [Am7]solo)[Am7][Dm7][Dm7][Gm6][Gm6][Dm7][Am][Dm][Dm][Dm](stop)
+
+[Dm](wurly [Dm]intro [Dm]solo)[Dm][Dm][Dm][Dm][Dm](stop)
+ 
+{c:Verse 1:}
+Got a black magic [Dm7]woman,[Dm7] got a black magic [Am7]woman [Am7]
+I've got a [Dm7]black magic woman,[Dm7] got me so blind I can't [Gm6]see [Gm6]
+That she's a [Dm7]black magic woman, she's [Am7]tryin' to make a devil out of [Dm7]me [Dm7]
+ 
+{c:Verse 2:}
+Don't turn your back on me ba[Dm7]by,[Dm7] don't turn your back on me [Am7]baby [Am7]
+Yes, don't turn your [Dm7]back on me baby,[Dm7] stop messin' round with [Gm6]your tricks [Gm6]
+Don't turn your [Dm7]back on me baby, you [Am7]just might pick up my magic s[Dm7]ticks [Dm7]
+ 
+{c:Guitar Solo}
+[Dm7][Dm7][Am7][Am7] [Dm7][Dm7][Gm6][Gm6][Dm7][Am7][Dm7][Dm7]
+[Dm7][Dm7][Am7][Am7] [Dm7][Dm7][Gm6][Gm6][Dm7][Am7][Dm7][Dm7]
+  
+{c:Verse 3:}
+Got your spell on me ba[Dm7]by,[Dm7] got your spell on me [Am7]baby [Am7]
+Yes, you got your [Dm]spell on me baby,[Dm7] turnin' my heart into [Gm6]stone[Gm6]
+I [Dm7]need you so bad, magic [Am7]woman I can't leave you al[Dm7]one.
+ 
+{c:Outro (BMW):}
+[Dm](organ [Dm]intro [Dm]riff)[Dm]
+[Dm](organ [Dm]intro [Dm]riff)[Dm] 
+[Dm](descent)
+ 
+{c:Gypsy Queen} 
+(ending noodles in D major)
+[D](d-a d-a d-a d-a)
+[D](d a-c-d a a e-[D7]...)[D][D7](x36)
+ 
+{c:Coda:}
+[C](power [(G/B)]chords)[(Dsus4/A)][D] (x3)
+
+[D](more [D7]nooding)[D][D7]   (x8)
+
+[C][(G/B)][A](END)

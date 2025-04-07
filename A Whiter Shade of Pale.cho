@@ -1,104 +1,56 @@
 {title: A Whiter Shade of Pale}
-{artist: Procol Harum}
+{st: Procol Harum}
+{musicpath:A Whiter Shade of Pale.mp3}
 {key: C}
 {duration: 248}
-{tempo: 74}
+{tempo: 75}
+{midi: CC0.0@2, CC32.0@2, PC3@2, CC0.63@1, CC32.0@1, PC3@1}
+(CK:1-4, {soh}LK:Part-B{eoh})
 
 {c: INTRO}
-[C](organ + [Em/B]drums + [Am]bass) [C/G]    
-
-[F](organ + [Am/E]drums + [Dm]bass) [F/C]    
-
-[G](organ + [G/F]drums + [Em]bass) [G/D]    
-
-[C](organ + [F]drums + [G]bass) [F(1)]     [G(1)]     
-
+[C]   [C/B]     [Am]    [Am/G]      [F]   [F/E]     [Dm]    [Dm/C]
+[G]   [G/F]     [Em]    [Em/D]      [C]
+[F]   [G]   [G7/F]
 
 {c: VERSE 1}
+[C]We ski[C/B]pped the light fa[Am]ndango	[Am/G]	turn[F]ed ca[F/E]rtwheels 'cross the floo[Dm]r     [Dm/C]
 
-[C] We [Em/B]skipped the light [Am]fandango [C/G]    
+[G]I was fe[G/F]eling kinda s[Em]easick		[Em/D]but t[C]he crowd c[C/B]alled out for [Am]more       [Am/G]
 
-[F] Turned [Am/E]cartwheels is 'cross the [Dm]floor    [F/C]    
+[F]The room[F/E] was humming [Dm]harder	[Dm/C]	as t[G]he ceili[G/F]ng flew away [Em]      [Em/D]
 
-[G] I was [G/F]feeling kinda [Em]seasick [G/D]    
-
-
-[C] But the [Em/B]crowd called out [Am]for more [C/G]    
-
-[F] The [Am/E]room was humming [Dm]harder  [F/C]    
-
-[G] As the [G/F]ceiling flew [Em]away[G/D]    
-
-
-[C] When we [Em/B]called out for [Am]another drink [C/G]    
-
-[F] The [Am/E]waiter brought a [Dm7]tray  [Em/G]     
-
+[C]When we cal[C/B]led out for ano[Am]ther dr[Am/G]ink		[F]the wait[F/E]er brought a [Dm]tray[G7]
 
 {c: CHORUS 1}
+And so it [C]was[C/B],   that la[Am]ter,  [Am/G]  		as[F] the mil[F/E]ler told his tal[Dm]e   [Dm/C]
 
-And so it [C]was[Em/B]    that [Am]later [C/G]    
-
-[F] As [Am/E]the miller told his [Dm]tale [F/C]    
-
-[G] That [G/F]her face, at first just [Em]ghostly,[G/D]    
-
-Turned a [C]whiter [F]shade of [C]pale[Gsus4(1)]         [G(1)]     
-
+[G]that her[G/F] face, at first j[Em]ust ghostly,[Em/D] turned a w[C]hiter[F] shade of[C] pale [Gsus4] [G]
 
 {c: INTERLUDE}
-[C](organ + [Em/B]drums + [Am]bass) [C/G]    
-
-[F](organ + [Am/E]drums + [Dm]bass) [F/C]    
-
-[G](organ + [G/F]drums + [Em]bass) [G/D]    
-
-[C](organ + [F]drums + [G]bass) [F(1)]     [G(1)]     
-
+[C]   [C/B]     [Am]    [Am/G]      [F]   [F/E]     [Dm]    [Dm/C]
+[G]   [G/F]     [Em]    [Em/D]      [C]
+[F]   [G]   [G7/F]
 
 {c: VERSE 2}
+[C]She sa[C/B]id there is no re[Am]ason		A[Am/G]nd th[F]e tru[F/E]th is plain to see      [Dm]      [Dm/C]
 
-[C]  [Em/B]She said, There is no [Am]reason [C/G]    
+[G]But I wa[G/F]ndered throug[Em]h my pla[Em/D]ying [C]cards		Wou[C/B]ld not let her[Am] be        [Am/G]
 
-[F] And the [Am/E]truth is plain to [Dm]see. [F/C]    
+[F]One of s[F/E]ixteen vestal[Dm] virgin[Dm/C]s		Wh[G]o were l[G/F]eaving for th[Em]e coas[Em/D]t
 
-[G] But I [G/F]wandered through my [Em]playing cards[G/D]    
-
-
-[C] And would [Em/B]not let her [Am]be  [C/G]    
-
-[F] One of [Am/E]sixteen vestal [Dm]virgins [F/C]    
-
-[G] Who were lea[G/F]ving for the [Em]coast[G/D]    
-
-
-[C] And [Em/B]although my eyes[Am]   were open[C/G]    
-
-[F] They might [Am/E]have just as well've been [Dm7]closed   [Em/G]     
-
+[C]And althoug[C/B]h my eyes were [Am]open	Th[Am/G]ey mi[F]ght just[F/E] as well been[Dm] clo[G7]sed
 
 {c: CHORUS 2}
+And so it [C]was[C/B],   that la[Am]ter,  [Am/G]  		as[F] the mil[F/E]ler told his tal[Dm]e   [Dm/C]
 
-And so it [C]was[Em/B]    that [Am]later [C/G]    
-
-[F] As [Am/E]the miller told his [Dm]tale [F/C]    
-
-[G] That her [G/F]face, at first just [Em]ghostly,  [G/D]    
-
-Turned a [C]whiter [F]shade of [C/G]pale [Gsus4(1)]         [G(1)]     
-
+[G]that her[G/F] face, at first j[Em]ust ghostly,[Em/D] turned a w[C]hiter[F] shade of[C] pale [Gsus4] [G]
 
 {c: OUTRO}
-[C](organ + [Em/B]drums + [Am]bass) [C/G]    
+[C]   [C/B]     [Am]    [Am/G]      [F]   [F/E]     [Dm]    [Dm/C]
+[G]   [G/F]     [Em]    [Em/D]      [C]
+[F]   [G]   [G7/F]
 
-[F](organ + [Am/E]drums + [Dm]bass) [F/C]    
+{c: CHORUS (fade out)}
+And so it [C]was[C/B],   that la[Am]ter,  [Am/G]  		as[F] the mil[F/E]ler told his tal[Dm]e   [Dm/C]
 
-[G](organ + [G/F]drums + [Em]bass) [G/D]    
-
-[C](organ + [F]drums + [G]bass) [F(1)]     [G(1)]     
-
-!Repeat chorus and fade out...
-
-And so it [C]was[Em/B]    that [Am]later [C/G]    
-
-[F] As [Am/E]the miller told his [Dm]tale [F/C]    
+[G]that her[G/F] face, at first j[Em]ust ghostly,[Em/D] turned a w[C]hiter[F] shade of[C] pale [G6]

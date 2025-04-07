@@ -1,116 +1,78 @@
 {title: Break on Through}
-{artist: The Doors}
+{st: Doors}
+{musicpath:Break On Through.MP3}
 {key: Em}
 {duration: 145}
 {tempo: 185}
+{midi: CC0.0@2, CC32.1@2, PC0@2, CC0.63@1, CC32.1@1, PC0@1}
+(CK:2-1, {soh}LK:Part-B{eoh})
+
 
 {c: Intro}
 [*NC](drums) [Em](bass [Em]line) [Em]
 
-
 {c: Verse 1}
-You know the [Em]day destroys the night
-
-[Em]Night divides the day
-
+You know the [Em]day destroys the night [Em]Night divides the day
 
 {c: Chorus}
+{soc}
 [D]Tried to run, tried to hide
-
 [Em]Break on through to the other side
-
-[Em]Break on through to the other side
-
-[Em]Break on through to the other side, yeah
-
-
-{c: Pre-Verse}
+Break on through to the other side
+Break on through to the other side, yeah
+{eoc}
 [Em](bass [Em]line)
-
 
 {c: Verse 2}
-We [Em]chased our pleasures here
-
-[Em]Dug our treasures there
-
-But can you [D]still recall the time we cried
+We [Em]chased our pleasures here, [Em]dug our treasures there
 
 {c: Chorus}
-
+{soc}
+But can you [D]still recall the time we cried
 [Em]Break on through to the other side
-
-[Em]Break on through to the other side [Em]
-
+Break on through to the other side 
+[Em]
+{eoc}
 
 {c: Solo}
-
+[Em](organ [Em]solo)  [Em]       [Em]
 [Em](organ [Em]solo)  [Em]       [Em]
 
-[Em](organ [Em]solo)  [Em]       [Em]
-
-
-{c: Interlude 1}
-[Em]  Everybody [Em]loves my baby
-
-[Em]  Everybody [Em]loves my baby
-
-
-{c: Interlude 2}
-[Em]She gets
-
-[Em]She gets
-
-[Em]She gets
-
-[Em]She gets, eeh-hey!
-
-
-{c: Pre-Verse}
-[Em](bass [Em]line)
-
+{c: Interlude}
+[Em]Everybody [Em]loves my baby
+Everybody loves my baby
+She gets high, She gets high, 
+She gets high, She gets high, eeh-hey!
+(bass line)
 
 {c: Verse 3}
 I found an [Em]island in your arms
-
-[Em]Country in your eyes
-
+Country in your eyes
 
 {c: Chorus}
+{soc}
 [D]Arms that chain, eyes that lie
-
 [Em]Break on through to the other side
-
-[Em]Break on through to the other side
-
-[Em]Break on through, oww!
-
-Oh, [Em]yeah!
-
-
-{c: Pre-Verse}
+Break on through to the other side
+Break on through, oww!
+Oh, yeah!
+{eoc}
 [Em](bass [Em]line)
 
-
 {c: Verse 4}
-[Em]  Made the scene. week to week
-
-[Em]Day to day, hour to hour
-
+[Em] Made the scene. week to week
+Day to day, hour to hour
 
 {c: Chorus}
+{soc}
 [D]The gate is straight, deep and wide
-
 [Em]Break on through to the other side
-
-[Em]Break on through to the other side
+Break on through to the other side
+{eoc}
 
 {c: Outro}
 [Em]Break on through, break on through
-
-[Em]Break on through, break on through
-
-[Em]Hey, Hey, Hey, Hey
-
-[Em]Hey, Hey, Hey, Hey
-
-[Em]Hey!
+Break on through, break on through
+Hey, Hey, Hey, Hey
+Hey, Hey, Hey, Hey
+Hey!

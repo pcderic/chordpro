@@ -1,0 +1,74 @@
+{title: Gimme Shelter}
+{st: Rolling Stones}
+{musicpath:Gimme Shelter.mp3}
+{key:C#m}
+{tempo: 118}
+{duration: 4:20}
+{midi: CC0.0@2, CC32.0@2, PC0@2, CC0.63@1, CC32.0@1, PC0@1}
+(CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2: Exp.)
+
+{c:Intro:}
+[C#](guit[C#]ar1)[C#] [C#]        
+[C#]ooh...[C#](+guit[C#]ar2 & [C#]perc.)[C#][C#][C#][C#]   
+[C#](+bas[C#]s)[C#][C#]
+ [C#]{soh}(piano [C#]oct.){eoh}[C#][C#]
+[C#](rhythm [B]in)[A]   [A](ea-eb ea-eb [(B)]fb-fc# Bsus2-B)
+ 
+{c:Verse 1:}
+[C#]Oh, a storm [C#]is threatening
+My very life today
+If I don't get some shelter
+Oh yeah, I'm gonna fade away
+ 
+{c:Chorus:}
+{soc}
+[C#]War, chil[B]dren, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#]War, chil[B]dren, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#][C#][C#][C#]
+{eoc}
+ 
+{c:Verse 2:}
+[C#]Oh, see the fire is [C#]sweeping
+Our very street today
+Burns like a red coal carpet
+Mad bull lost your way
+ 
+{c:Chorus:}
+{soc}
+[C#]War, chil[B]dren, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#]War, chil[B]dren, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#]{soh}(har[C#]mon[C#]ica){eoh}[C#]
+[C#](har[C#]mon[C#]ica)[C#] 
+{eoc}
+
+{c:Guitar Solo:}
+[C#][B][A][A][(B)]
+[C#][B][A][A][(B)]
+[C#][B][A][A][(B)]
+ 
+{c:Chorus:}
+{soc}
+[C#]Rape,[B] murder, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#]Rape,[B]  murder, [A]it's just a shot away, [A]it's just a [(B)]shot away.
+[C#]Rape,[B] murder, [A]it's just a shot away, [A]it's just a [(B)]shot away
+[C#][C#][C#][C#]
+{eoc}
+ 
+{c:Verse 3:}
+[C#]Mmm, the floods is [C#]threatening
+My very life today
+Gimme, gimme shelter
+Or I'm going to fade away
+ 
+{c:Chorus:}
+{soc}
+[C#]War, chil[B]dren, [A]it's just a shot away, [A]it's just a [(B)]shot away
+[C#]It's just a shot away[B], it's just a shot away, [A]it's just a shot away[A][(B)]
+I tell you [C#]love,[B] sister [A] It's just a kiss away, [A]it's just a [(B)]kiss away
+[C#]It's just a kiss away[B], it's just a kiss away[A] It's just a kiss away, [A]kiss away [(B)]kiss away 
+{eoc}
+ 
+{c:Outro:}
+[C#][B][A][A][(B)]           [C#][B][A][A][(B)]
+[C#][B][A][A][(B)]           [C#][B][A][A][(B)]
+[C#](END)

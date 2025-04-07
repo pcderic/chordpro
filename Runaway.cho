@@ -1,0 +1,75 @@
+{title: Runaway}
+{st: Bon Jovi}
+{metronome:154}
+{musicpath:Runaway (backing).mp3}
+{key: Am}
+{tempo: 154}
+{duration: 3:50}
+{midi: CC0.0@2, CC32.5@2, PC4@2, CC0.63@1, CC32.5@1, PC4@1}
+(CK:6-5, {soh}LK:Part-B{eoh})
+#Riff Am: ace x3 - abd x3 - adf x3 - ace x3 - abd x3 - ace x2  
+#Riff Gm: gcd x3 - gbd x3 - gad x3 - gbd x3 - c-b-a-b
+
+{eot}
+{c:Intro:}
+({soh}synth:{eoh} [Am]intro [Am]riff) [G] [G]      (3x)
+ 
+{c:Verse 1:}
+[Am]On the street where you [Am]live girls talk about their [G]social lives[G]
+[Em7]They're made of lipstick, plastic and [F]paint, a touch [(G)]
+#{soh}(gb+eee-ddd-eee){eoh}                            {soh}(fac x3) {eoh}            {soh}(gbd x3){eoh} 
+of sable in [Am]their eyes [Am]  
+
+All your [Am]life all you asked when is your [Am]Daddy gonna [G]talk to you[G]
+[Em7]But we're living in another[F] world, tryin' to [(G)]get your mes[Am]sage through [Am]
+ 
+{soh}(no synth){eoh} [Em]No one heard a single[G] word you [Am]said. [Am]
+(no synth) They should have [Dm]seen it in your eyes. [Dm]
+(no synth) What was [C]going around your head.[G]
+ 
+{c:Chorus:}
+{soc}
+[Am]Oh, [Am]she's a little [G]runaway [G]
+[C]Daddy's girl learned [(Em)]fast [(G)] all those things he [Am]couldn't say.[(Asus4)]
+[G]Ooh, [Em](Em {soh}STOP{eoh})  she's a little [Am]runaway {soh}(intro [Am]riff){eoh}
+{eoc}
+ 
+{c:Verse 2:}
+[Am]A different line every night [Am]guaranteed to [G]blow your mind[G]
+[Em7]See you out on the[F] streets Call [(G)]me for a [Am]wild time[Am]
+
+[Am]So you sit home alone 'cause there's nothing left that [G]you can do
+[Em7]There's only pictures hung in[F] the shadows [(G)]Left there to [Am]look at you
+ 
+{soh}(no synth){eoh} [Em]You know she likes[G] the lights at night on the neon [Am]Broadway signs[Am]
+(no synth) And [Dm]she don't really [Dm]mind it's only [C]love she hoped to find.[G]
+ 
+{c:Chorus:}
+{soc}
+[Am]Oh, [Am]she's a little [G]runaway[G] 
+[C]Daddy's girl learned [(Em)]fast [(G)]all those things he [Am]couldn't say.[(Asus4)]
+[G]Ooh, [Em] she's a little r(uh-[NC]ooh-uh-ooh)unaway 
+{eoc}
+ 
+{c:Interlude:}
+[Am](intro [Am]riff)   [Am](intro [Am]riff)   
+[Am](guitar [Am]solo) [C] [G/D] [Am] [Am] [C] [G]
+[Am](guitar [Am]solo) [C] [G/D] [Am] [Am] [C] [G]
+ 
+{soh}(no synth){eoh} [Em]No one heard a single [G]word you [Am]said. [Am] 
+(no synth) They should have [Dm]seen it in your eyes. [Dm]
+(no synth) What was [C]going on your head.[G]
+ 
+{c:Chorus:}
+{soc}
+[Am]Oh, [Am]she's a little [G]runaway[G] 
+[C]Daddy's girl learned [(Em)]fast [(G)]all those things he [Am]couldn't say [Asus4]  
+
+[Am] Oh, [Am]she's a little [G]runaway[G]
+[C]Daddy's girl learned [(Em)]fast [(G)]now she works the night [Am]away[Asus4]
+{eoc}
+ 
+{c:Outro:}
+{soh}(repeat chorus){eoh}
+
+[G]Ooh, [Em](Em STOP) she's a little r(uh-[NC]ooh-uh-ooh)un[Am]away (END)

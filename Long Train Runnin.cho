@@ -1,0 +1,85 @@
+{title: Long Train Runnin}
+{st: Doobie Brothers}
+{musicpath:Long Train Runnin (backing).mp3}
+{key: Gm}
+{duration: 210}
+{tempo: 117}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{c: Intro}
+#(guitar riff: G9sus4-Gm7 Gm7 G9sus4) (L:GD-GC R:FBbD-FAD)
+[Gm7](guitar riff G9sus4-Gm7) [Gm7] [Gm7] [Gm7](+bass+drums)
+[Gm7](+acoustic)[Gm7] [Gm7] [Gm7]
+
+{c: Verse 1}
+#(00:18)
+[Gm7]Down around the corner, [Gm7]half a mile from here,
+see them long trains run, and you watch them disappear.
+
+{c: Chorus 1}
+{soc}
+Without [Cm7]love, [Cm7]where would you be [Gm7]now? [Gm7] 
+Without [Eb]loo[Dsus4]ooooo[(D)]oo[Gm7]ve. [Gm7]
+{eoc}
+
+{c: Verse 2}
+#(00:42)
+You [Gm7]know I saw miss Lucy [Gm7]down along the tracks.
+She lost her home and her family and she won't be coming back.
+
+{c: Chorus 2}
+{soc}
+Without [Cm7]love, [Cm7]where would you be right [Gm7]now? [Gm7]
+Without [Eb]loo[Dsus4]ooooooo[(D)]oooo[Gm7]ve. [Gm7]
+{eoc}
+
+{c: Verse 3}
+#(1:07)
+Well the [Gm7]Illinois Central and the [Gm7]Southern Central Freight
+Got to keep on pushin' mama, you know they're running late
+
+{c: Chorus 3}
+{soc}
+Without [Cm7]love, [Cm7]where would you be now?
+Without [Eb]looo[Dsus4]oooooooo[(D)]oooo[Gm7]ve [Gm7]
+{eoc}
+
+{c: Harmonica Solo}
+#(1:30)
+[Gm7](solo) [Gm7] [Gm7] [Gm7] [Cm7] [Cm7] [Gm7] [Gm7] [Eb] [Dsus4] [(D)] [Gm7] [Gm7]
+
+{c: Verse 4}
+#(1:56)
+[Gm7]Well the Illinois Central and the [Gm7]Southern Central Freight
+Got to keep on pushin' mama, you know they're running late
+
+{c: Chorus 4}
+{soc}
+Without [Cm7]love, [Cm7]where would you be [Gm7]now? [Gm7]
+Without [Eb]looo[Dsus4]ooooooo[(D)]oooo[Gm7]ve [Gm7]
+{eoc}
+
+{c: Verse 5}
+#(2:19)
+{soh}(on the beat){eoh}
+Well the [Gm7]pistons keep on turning [(F)]and the [Gm7]wheels go round and round 
+[(F)]The [Gm7]steel rails are cold and hard [(F)]for the [Gm7]miles that they go down
+
+{c: Chorus 5}
+{soc}
+[Cm7]Without love, [Cm7]where would you be right [Gm7]now? [Gm7]
+Without [Eb]{soh}(pause){eoh} lo[Dsus4]ooooooo[(D)]ve, [Cm7]ooh, 
+[(NC)] where would you be now?
+{eoc}
+
+{c: Outro}
+#(2:45)
+[Gm7](guitar [Gm7]riff)
+Mmmm got to getcha baby baby, won’t you move it down
+Won’t you move it down, baby, baby, baby, baby
+Won’t you move it down, where the big trains run
+And the train ‘a mov-in’. Got to keep on movin’
+Keep on movin’ Won’t you keep on movin’ Gotta keep on movin’
+(fade out)
+

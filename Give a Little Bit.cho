@@ -1,0 +1,64 @@
+{title: Give a Little Bit}
+{st: Supertramp}
+{musicpath: Give A Little Bit.mp3}
+{key: D}
+{duration: 248}
+{tempo: 88}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{comment: Intro}
+(A7) [D] Ooh, yeah (A7)[D]   (G)[A7] Alright (G)[A7] Here we go again.
+(G)[D]   (A7)[D]    (G)Hey hey,[A7] whoa no, (G) da na,[A7] hey hey.
+
+{comment: Verse 1}
+(0:20)
+(G)[D] Give a little bit. (A7)[D] Give a little bit of (G) your love [A7] to me. (G)[A7]
+(G)[D] I'll give a little bit.(A7)[D] I'll give a little bit of (G) my love [A7]to you.(G)[A7]
+(G)[Bm] There's so much that we [Esus4]need to (E)share so [G]send a smile, and show [A](Bm/A)you (A7)care. [A](D/A  A)
+
+{comment: Verse 2}
+(0:56 +drums +bass)
+[D] I'll give a little bit.(A7)[D] I'll give a little bit of(G) my life [A7] for you.(G)[A7]
+(G)[D] So give a little bit.(A7)[D] Give a little bit of(G) your time[A7] to me. (G)[A7]    
+(G)[Bm] See the man with the lone[Esus4]ly eyes.(E) Oh, [G]take his hand, you'll be[Bm/A] surprised (A7)[D/A] Take it. 
+
+{comment: Solo Sax}
+{textcolor: darkred}
+(1:35  organ)
+{textcolor}
+[F#m7]             [Bm] Ah,   [F#m7]     yeah.   [Bm]    Come along
+[F#m7]            [G]Yeah, yeah, yeah, yeah. [Cadd9]Yeah, yeah, [(G/B)]yeah, yeah, yeah, yeah, 
+{textcolor: darkred}
+(ascend A-D inversions: [A]ac#-ac#e-a ad-adf#-a [A7]ae-aeg-a df#-df#a-d [A] [A7] [A] [A7]...)
+{textcolor}
+
+{comment: Verse 3}
+{textcolor: darkred}
+(2:03 piano)
+{textcolor}
+[D] Give a little bit (A7)[D] Give a little bit of(G) your love [A7] to me (G)[A7]
+(G)[D] I'll give a little bit. (A7)[D] I'll give a little bit of (G) my life [A7] for you (G)[A7]
+(G)[Bm] Now's the time that we need [Esus4] to (E)share. So [G]find yourself, we're on [C] our way (G) back home.
+
+{comment: Interlude}
+{textcolor: darkred}
+(2:40 organ ascent)
+{textcolor}
+[A]     [A7]Oh, going home [A]     [A7]Don't you need, don't you need to feel at home?[A]     [A7]Oh, yeah, we gotta see.
+{textcolor: darkred}
+(organ comping)
+{textcolor}
+[D] (D G/D)Whoo! [D] (A/D G/D D) Ooh, yeah, gotta get [C/D]a feeling. [D](G/D) Ooh,(D) yeah, come along 
+[D](D)too. (G/D) [D](A/D)Whoo! (G/D D) You can come along[C/D] too, yeah [D](G/D)Come-ah, (D)come-ah, come-ah, come 
+[D](D)along (G/D) [D](A/D G/D D) Cha, cha, cha. [C]Ooh, yeah [D](G/D) Ooh, (D) yeah, come along 
+[D](D) too (G/D) [D](A/D G/D D) Yeah, come along [C] too, yeah [D]G/D D) Sing Betty 
+[C]Lou [D](G/D D) [C] [D](G/D D)
+
+
+{comment: Outro}
+(3:48 organ)
+Come along [C]too. What a long [G]ride. Come a long [C]way. (G) Ooh, [A7]sing it to-(D)night
+{textcolor: darkred}
+[G/D](acoustic only)(A/D) [G/D](G D) [D](END)
+{textcolor}

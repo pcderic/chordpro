@@ -1,8 +1,11 @@
 {title: Mainstreet}
-{artist: Bob Seger}
+{st: Bob Seger}
+{musicpath:Main Street (on D).mp3}
 {key: D}
 {duration: 220}
 {tempo: 140}
+{midi: CC0.0@2, CC32.0@2, PC0@2, CC0.63@1, CC32.0@1, PC0@1}
+(CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: Intro}
 {textcolor: red}

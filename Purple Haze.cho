@@ -1,0 +1,49 @@
+{title: Purple Haze}
+{st: Jimmy Hendrix}
+{musicpath:Purple Haze (backing w bass).m4a}
+{key: Em}
+{tempo: 107}
+{duration: 2:51}
+{midi: CC0.0@2, CC32.8@2, PC4@2, CC0.63@1, CC32.8@1, PC4@1}
+(CK:9-5, {soh}LK:Part-B{eoh})
+
+{c:Intro:}
+[Edim](octaving: bass on E, [Edim]guitar on A#) 
+[E5](lead [E5]guitar) [E5] [E5]         [E5][E5][E5][E5]
+[E7+9](powe[G5]r [(A5)]chords)    [E7+9][G5][(A5)]
+{c:Verse 1:}
+[E7+9] Purple haze, all [G5]in my brain[(A5)]
+           Lately things they don't seem the same
+           Actin' funny, but I don't know why
+[E5] Excuse me while I [NC]kiss the sky 
+(f#-e-d [NC]b-e-d b-e-d)
+ 
+{c:Verse 2:}
+[E7+9] Purple haze, [G5]all around[(A5)]
+           Don't know if I'm comin' up or down
+           Am I happy or in misery?
+What [E5]ever it is, that girl put a [NC]spell on me
+(f#-e-d [NC]b-e-d b-e-d)
+ 
+{c:Solo:}
+[A](c#-e-C#...) Help me  [Em/B](e-g-G...) Help me
+[D](a'b-d...) Oh, no, no
+[E5] [F#5] [(D5)]           [E5] [F#5] [(D5)]           [E5] [F#5] [(D5)]           [E5] [F#5] [(D5)]
+
+{c:Interlude:}
+(play intro riff)
+[E5] Ooo,[E5] ahhh [E5] Ooo,[E5] ahhh 
+[E5] Ooo,[E5] ahhh [E5] Ooo,[E5] ahhh yeah!
+
+{c:Verse 3:}
+[E7+9] Purple haze all [G5]in my eyes[(A5)]
+           Don't know if it's day or night
+           You got me blowin', blowin' my mind
+Is it [E5] tomorrow, or just the end of [NC]time?
+ (f#-e-d [NC]b-e-d b-e-d)
+ 
+{c:Outro:}
+[A]   [E/B]           [D]
+[E5] [F#5][(D5)]           [E5] [F#5][(D5)]           [E5] [F#5][(D5)]           [E5] [F#5][(D5)]
+(repeat & fade out...)
+

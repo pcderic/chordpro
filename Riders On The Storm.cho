@@ -1,132 +1,71 @@
 {title: Riders On The Storm}
-{artist: The Doors (piano)}
+{st: Doors}
+{musicpath:Riders On The Storm.MP3}
 {key: Em}
 {duration: 430}
 {tempo: 110}
+{midi: CC0.0@2, CC32.5@2, PC0@2, CC0.63@1, CC32.5@1, PC0@1}
+(CK:6-1, {soh}LK:Part-B{eoh}, P1:Damper, P2:Exp.)
 
-Riders on the Storm
-Key: Em
-Duration: 7:10
-Tempo: 110
-
-/NOTE: Em measures should be read as Em(3) A(1)
-
+NOTE: Em measures should be read as Em(3) A(1)
 
 {c: INTRO}
-NC NC NC NC
-(storm)
-
+[NC](storm) [NC] [NC] [NC]
 [Em](bass in) [Em](piano in)
-
 [Em]    [Em]    [Em]    [Em]
-
 [Em](piano [Em]rains [Em]down)
-
 [Em]    [Em]    [Em]    [Em]
 
 {c: VERSE 1}
 [Em]Riders on the storm[Em]
-
-[Em]Riders on the storm[Em]
-
-  Am(2)               B/A(2)    C/A(2)   D/A(2)
-Into this house we're born
-
+Riders on the storm
+[Am(2)]Into this house [B/A(2)]we're born[C/A(2)]   [D/A(2)]
 In[Em]to this world we're thrown[Em]
-
 Like [D]dog without a bone
-
 An [C]actor out on loan
 
 {c: VERSE 2}
 [Em]Riders on the storm [Em]
-
-There's a [Em]killer on the [Em]road
-
-His brain is [Em]squirming like a [Em]toad
-
-     Am(2)      Bm/A(2)  C/A(2)     D/A(2)
-Take a long holiday
-
+There's a killer on the road
+His brain is squirming like a toad
+[Am(2)]Take a long [Bm/A(2)]holiday [C/A(2)]  [D/A(2)]
 [Em]Let your children [Em]play
-
-If you [D]give this man a ride
-
-Sweet [C]family will die
-
+If you [D]give this man a ride, sweet [C]family will die
 [Em]Killer on the road,[Em] yeah!
 
 {c: GUITAR SOLO}
-[Em]   [Em]   [Em]   [Em]
-
-Am(2)  Bm/A(2)  C/A(2)   D/A(2)
-
-[Em]   [Em]   [D]  [C]
-
-[Em]   [Em]   [Em]   [Em]
+[Em]   [Em]   [Em]   [Em]  [Am(2)]  [Bm/A(2)]  [C/A(2)]   [D/A(2)]
+[Em]   [Em]   [D]  [C]  [Em]   [Em]   [Em]   [Em]
 
 {c: VERSE 3}
 Girl you [Em]gotta love your [Em]man
-
-Girl, you [Em]gotta love your [Em]man
-
-Am(2)           Bm/A(2)   C/A(2)    D/A(2)
-Take him by the hand
-
+Girl, you gotta love your man
+[Am(2)]Take him by [Bm/A(2)]the hand [C/A(2)]    [D/A(2)]
 [Em]Make him understand [Em]
-
-The [D]world on you depends
-
-Our [C]life will never end
-
+The [D]world on you depends, our [C]life will never end
 You [Em]gotta love your man[Em]
 
 {c: PIANO SOLO}
 [Em](lots of Em measures)
-
-{textcolor: red}
  wait for piano raining down...
-{textcolor}
-
 [Em](piano [Em]rains [Em]down) [Em]
-
 [Em](pause [Em]drums [Em]during [Em]piano chords)
-
 [Em](drums [Em]in) [Em]    [Em]
-
 [Em]   [Em]   [Em]   [Em]
 
 {c: VERSE 4}
 [Em]Riders on the storm [Em]
-
-[Em]Riders on the storm [Em]
-
-Am(2)           Bm/A(2)   C/A(2)    D/A(2)
-Into this house we're born
-
+Riders on the storm 
+[Am(2)]Into this house [Bm/A(2)]we're born [C/A(2)]    [D/A(2)]
 [Em]Into this world we're thrown[Em]
-
-Like a [D]dog without a bone
-
-An [C]actor out on loan
-
+Like a [D]dog without a bone, an [C]actor out on loan
 [Em]Riders on the storm[Em]
 
 {c: OUTRO}
 [Em]   [Em]   [Em]   [Em]
-
 [Em]   [Em]   [Em]   [Em]
-
-[Em]Riders on the storm[Em]
-
-[Em]Riders on the storm[Em]
-
-[Em]Riders on the storm[Em]
-
-[Em]Riders on the storm[Em]
-
+[Em]Riders on the storm[Em] [Em]Riders on the storm[Em]
+[Em]Riders on the storm[Em] [Em]Riders on the storm[Em]
 [Em]   [Em]   [Em]   [Em]
-
 [Em]   [Em]   [Em]   [Em]
-
 [Em](end: storm + slow piano/guitar arpeggios)

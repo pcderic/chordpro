@@ -1,0 +1,99 @@
+{title: Abacab (edit)}
+{st: Genesis}
+{musicpath:Abacab (edit, backing w bass).mp3}
+{time: 6:58}
+{key: Cm}
+{tempo: 131}
+{midi: CC0.0@2, CC32.0@2, PC5@2, CC0.63@1, CC32.0@1, PC5@1}
+(CK:1-6, {soh}LK:Part-A{eoh}, P1:sustain, P2:Exp.)
+(arp1: Eb-Bb-G-D-Bb-F-C-A-F-B-G) 
+(arp2: G-Eb-Bb-F-D-Bb-F-C-A-B-G)]
+#[G](arp1: [(Eb/G)]Eb-Bb-[(Gm)]G-D-Bb-[F/G]F-C-A-F-[(G)]B-G) When they do it, you're ne[G]ver there. 
+#(arp2: [(Eb/G)]G-Eb-[(Bb/G)]Bb-F-D-[F/G]Bb-F-C-A-[(G)]B-G) When they show it, you stop [G]and stare. 
+
+Edited radio-friendly version from The Last Domino album.
+
+{c:Intro:}
+[C](bass [C]synth)[C][C][C]
+[Csus4](organ: GCF) [Csus4](synth:C5 C5 Eb5 C5 [Csus4]C5 Eb5 F5 F5 Eb5)
+[Fm7](organ: FCEb)(synth: C5 Eb5 F5 Eb5 [Fm7]F5 Ab5 F5 Eb5)
+[G7sus4](organ: GCDF)(synth: G5 G5 G5 Bb5 Gb5 [G7sus4]G5 G5 Bb5 C5 [G7sus4]G5 G5 G5 G5 [G7sus4]G5 G5 G5
+[G7sus4] [(Csus4)](organ: GCF [C]GCE [C]  [(Bb/C)]FBbD [Bbsus2/C]FBbC)
+
+{c:Verse 1}
+[C] Look up on the [(Csus4)]wall,[C][C] there on the [(Bb/C)]floor.[Bbsus2/C]
+    Under the pillow,               behind the door.
+[C] There's a crack in the [(Csus4)]mir[C]ror.[(C6sus2)](CDA)
+[C]Somewhere there's a hole in a win[C]dow pane.[(Csus2)](GCE-BCD) [(Am/C)](ACE-[(F6/C)]ACD)
+[C][(Cm7)]  [Cm]    [(Bb/C)]Do you [(Bb9/C)]think I'm to bla[(F/C)]me?
+#    (EbGBb-EbGC   DFBb-DFC       CFA)
+[C][(Cm7)]Tell [Cm]me [(Bb/C)]do you [(Bb9/C)]think I'm to bla[(F/C)]me?
+
+{c:Chorus}
+{soc}
+[Eb/G](arp1) [(Gm)][F/G][(G)] When they do it, you're never there. 
+[Eb/G](arp2) [(Bb/G)][F/G][(G)] When they show it, you stop and stare. 
+(arp1) Abacab. Isn't anywhere. 
+(arp2) Abacab.
+{eoc}
+
+{c:Verse 2}
+[C] If you're [(Csus4)]wrapping[C] [C] up the [(Bb/C)]wo[Bsus2/C]rld
+    'Cause you've taken someone else's girl.
+When they turn on the pillow.                 (Csus4-C-C6sus2)
+Even when they answer the telephone.  (C-Csus2 Am-F6)
+Don't you think that by now.                    (Cm7-Cm Bb-Bb9 F)
+Tell me, don't you think that by now. 
+
+{c:Chorus}
+{soc}
+[Eb/G](arp1) [(Gm)][F/G][(G)] When they do it, you're never there. 
+[Eb/G](arp2) [(Bb/G)][F/G][(G)] When they show it, you stop and stare. 
+(arp1) Abacab. Isn't anywhere. 
+(arp2) Abacab. Doesn't really care.
+{eoc} 
+ 
+{c:Bridge}
+[A][A][A] Na-na-nay-na, ah, [A]na-na-na-na
+     (. G5-A5-C5-A5  D5  C5-B5-G5-A5)
+[A][A][A] Na-na-nay-na, na,  [A]na-na-ow
+     (. G5-A5-C5-A5 D5  D5-D5-C5)
+[A][A][A] Na-na-nay-na, ah, [A]na-na-na-na
+     (. G5 A5 C5 A5 D5 C5 B5 G5 A5)
+[A][A][A] Na-na-nay-na, na, [A]na-na-aw
+     (. G5-A5-C5-A5 D5  E5-E5-D5)
+[B](G5-E5-[(A)]G5 G5-[(G)]E5-G5 [B]B5-A5-[(G)]G5 A5-[E]G5-E5)
+[E]
+You [E]want it, you've got it,             you've [E]got to go
+        (A5-Gb5 A5-Gb5 A5-Gb5 A5-Gb5  A5-Gb5 A5-Gb5 A5-Gb5 A5-Gb5)
+You [E]want it, you've got it,[E] now you know
+        (A5-Gb5 A5-Gb5 A5-Gb5 A5-Gb5  A5-Gb5 A5-Gb5 A5-Gb5 A5-Gb5)
+(arp. notes: [G]G-D-B-[(A)]Db-A-E [C]G-C-G-[(G)]B-G-D)
+(arp. notes: [Eb]Eb-Bb-G-[(Bb)]D-Bb-F-C-[F]A-F-[(G)]B-G)
+#(Keyboard riff, single notes: G D B C# A D  G C G B G D  Eb Bb G D B F#  C A F B)
+
+{c:Verse 3}
+(+ fast guitar strum)
+[C] It's an il[(Csus4)]lusion,[C] [C] it's a [(Bb/C)]game, [Bsus2/C]
+     A reflection          of someone else's name.
+When you wake in the morning,                      (Csus4-C-C6sus2)
+Wake and find you're covered in cellophane. (C-Csus2 Am-F6)
+Well, there's a hole in there somewhere.        (Cm7-Cm Bb-Bb9 F)
+Yeah, there's a hole in there somewhere.
+Baby, there's a hole in there somewhere.
+Now there's a hole in there somewhere.
+
+{c:Chorus}
+{soc}
+[Eb/G](arp1) [(Gm)][F/G][(G)] When they do it, you're never there. 
+[Eb/G](arp2) [(Bb/G)][F/G][(G)] When they show it, you stop and stare. 
+(arp1) Abacab. Isn't anywhere. 
+(arp2) Abacab. 
+{eoc} 
+ 
+{c:Outro}
+(redo synth intro:)
+[Csus4](organ) [Csus4](synth: C5 C5 Eb5 C5 [Csus4]C5 Eb5 F5 F5 Eb5)
+[Fm7](C5 Eb5 F5 Eb5 [Fm7]F5 Ab5 F5 Eb5)
+[G7sus4](G5 G5 G5 Bb5 Gb5 [G7sus4]G5 G5 Bb5 C5 [G7sus4]G5 G5 G5 G5 [G7sus4]G5 G5 G5)
+[Bb] [(C)] [(C)](END)

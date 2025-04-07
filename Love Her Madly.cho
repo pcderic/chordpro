@@ -1,8 +1,11 @@
 {title: Love Her Madly}
-{artist: The Doors}
+{st: Doors}
+{musicpath:Love Her Madly.MP3}
 {key: C}
 {duration: 200}
 {tempo: 150}
+{midi: CC0.0@2, CC32.2@2, PC2@2, CC0.63@1, CC32.2@1, PC2@1}
+(CK:3-3, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
 {textcolor: red}
@@ -38,14 +41,15 @@ Of a [A]deep blue dream, [A]seven [D]horses seem, [F(1)]to be[D(1)] on t[G(1)]he
 {textcolor}
 
 {c: BRIDGE 2}
-[Am] Yeah,[C] don't you [F]love her? [D7] Don't you [Am]love her as she's [E]walkin out the [Am]door (Am Am E E) [Am](drum fill)
+[Am] Yeah,[C] don't you [F]love her? [D7] Don't you 
+[Am]love her as she's [E]walkin out the [Am]door (Am Am E E) [Am](drum fill)
 [D7] All  your  love, [D7]      [D7] All  your  love, [D7]
 [D7] All  your  love, [D7]      [D7] All  your  love, [D7]
 
 {c: CHORUS}
 (organ)
 All your [G]love is gone, [G] so sing a [C]lonely song [C]
-Of a [A]deep blue dream, [A]seven [D]horses seem, [F(1)]to be[D(1)] on t[G(1)]he   [E(1)]
+Of a [A]deep blue dream, [A]seven [D]horses seem, [F(1)]to be[D(1)] on t[G(1)]he  [E(1)]
 [Am]mark [Am]   [Am]   [Am]
 
 {c: GUITAR SOLO}

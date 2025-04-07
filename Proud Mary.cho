@@ -1,0 +1,112 @@
+{title: Proud Mary}
+{st: Ike & Tina Turner}
+{key: D}
+{duration: 325}
+{tempo: 170}
+{midi: CC0.0@2, CC32.4@2, PC3@2, CC0.63@1, CC32.4@1, PC3@1}
+
+{c: Intro}
+(Slow: 90 BPM)
+[D](guitar [D]strumming)
+
+
+{c: Verse 1}
+#(00:59)
+[D]I left a good job in the [D]city, {soh}(a:choir organ){eoh}
+[D]Workin for the man [D]every night and day
+[D]And I never lost one [D]minute of sleepin. 
+[D]Worryin 'bout the way that things [D]might have been.
+
+{c: Short Chorus}
+{soc}
+[A]Big wheel keep on [A]turnin, [Bm]Proud Mary keep on [G]burnin
+And we're [D]rollin, [D]rollin yeah, [D]rollin on the river [D]
+{eoc}
+
+
+{c: Verse 2}
+#(1:41)
+[D]I cleaned a lot of plates in [D]Memphis. 
+[D]Pumped a lot of 'tane down in [D]New Orleans 
+[D]But I never saw the good [D]side of the city 
+[D]until I hitched a ride on a [D]river boat queen.
+
+{c: Short Chorus}
+{soc}
+[A]Big wheel[A]... [Bm]   [G]   [D]   [D]   [D]   [D]
+{eoc}
+
+
+{c: Bridge}
+#(2:35)
+(Fast: 170 BPM)
+#(OOTE brass: [D]dddd[D]dd b-a-f-f#-[D]ddddd[D]dd   b-a-f-f#[D]-dd   b-a-f-f#-[D]dd)
+#({soh}brass{eoh}: [D]. . b-d-d-b-[D]d . B-A-e-f#-[D]d . b-d-d-b-[D]d . B-A-e-f#-[D]d . b-d-d-b-[D]d . B-A-e-f#-[D]d . B-A-e-f#-[D]d)
+#{soh}(sweep)[D](brass){eoh}[D] [D] [D] [D] [D] [D] [D]
+[D]{soh}(slide+brass{eoh}: b-d-d-b-[D]d . B-A-e-f#-[D]d [D]...)[D] [D] [D] [D]
+
+
+{c: Verse 3}
+#(2:46)
+(repeat verse 1)
+
+{c: Long Chorus}
+{soc}
+[A]Big wheel keep on [A]turnin (turnin), 
+[Bm]Proud Mary keep on [G]burnin (burnin). 
+[D7]rollin ({soh}organ{eoh}) [D7]rollin {soh}(organ){eoh}, 
+[D]rollin on the river![D]{soh}(brass){eoh}
+[D7]rollin ({soh}organ{eoh}) [D7]rollin {soh}(organ){eoh}, 
+[D]rollin on the river![D]{soh}(brass){eoh}
+Ri[D]ver dup dup dup, [D]dup dup dup dup, [D]dup ... 
+{eoc}
+
+
+{c: Bridge}
+#(3:19) 
+{soh}(organ:){eoh}[C](C A) [C](C A) [C](C A [D]slide)[D]{soh}(brass){eoh}[D] [D] [D]
+#[D] (OOTE brass: dddd[D]dd d-f-f#-g-[D]dddd[D] 
+#({soh}brass{eoh}: [D]. . b-d-d-b-[D]d . B-A-e-f#-[D]d . b-d-d-b-[D]d . B-A-e-f#-d)
+
+
+{c: Verse 4}
+#(3:30)
+(repeat verse 2)
+
+{c: Long Chorus}
+{soc}
+[A]Big wheel[A]... [Bm] [G] [D7] [D7] [D] [D] [D7] [D7] [D] [D] [D] [D] [D]
+{eoc}
+
+
+{c: Bridge}
+#(4:02)
+{soh}(organ:){eoh}[C](C A) [C](C A) [C](C A [D]slide)[D]{soh}(brass){eoh}[D] [D] [D]
+#[D] (OOTE brass: dddd[D]dd d-f-f#-g-[D]dddd[D] 
+#(OOTE brass: [D]dddd[D]dd d-f-f#-g-[D]dddd[D] 
+#({soh}brass{eoh}: [D]. . b-d-d-b-[D]d . B-A-e-f#-[D]d . b-d-d-b-[D]d . B-A-e-f#-d)
+
+
+{c: Verse 5}
+#(4:14)
+[D]If you come down to the [D]river, 
+I [D]bet you're gonna find some [D]people who live.
+[D]You don't have to worry, [D]if you got no money. 
+[D]People on the river are [D]happy to give.
+
+{c: Long Chorus}
+{soc}
+[A]Big wheel[A]... [Bm] [G] [D7] [D7] [D] [D] [D7] [D7] [D] [D] [D] [D] [D]
+{eoc}
+
+
+{c: Outro}
+#(4:46)
+{soh}(organ:){eoh}[C](C A) [C](C A) [C](C A [D]slide & [D]{soh}hold{eoh})[D] [D] [D]
+[D](rollin) [D](rollin) yeah! [D] [D]{soh}(brass){eoh}Alright now!
+[D]Rollin, yeah! [D]rollin, [D]rollin on the river! [D]{soh}(brass){eoh}
+Said we [D]rollin [D]rollin [D]rollin on the river! [D]{soh}(brass){eoh}
+Tell you we [D]rollin, [D]rollin, [D]rollin on the river! [D]{soh}(brass){eoh}
+[C](C A) Yeah! [C](C A) Alright! [C](C A [D]{soh}slide){eoh}Ah-Ah!
+[D](END)
+

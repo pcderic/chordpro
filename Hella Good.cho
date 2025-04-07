@@ -1,0 +1,77 @@
+{fontsize:23.9}
+{title: Hella Good}
+{st: No Doubt}
+{key: G}
+{duration: 243}
+{tempo: 115}
+{midi: CC0.0@2, CC32.2@2, PC3@2, CC0.63@1, CC32.2@1, PC3@1}
+
+# Key: G Phrygian (same keys as Eb)
+{c: Intro}
+[*NC](drum [*NC]beat)[*NC] [*NC]   {soh}(C1){eoh}[G5]{soh}(+bass:D#1){eoh}[G5]  {soh}(C1){eoh}[G5][G5]  {soh}(C1){eoh}
+
+{c: Verse 1}
+{soh}(v-riff){eoh}
+Verse Riff (staccato): gg,g,g,g,g,gdggd,g,g,g,g,g,g,gg)
+#(0:17)
+[G5]Waves keep on crashin on me for [G5]some rea{soh}(C1){eoh}son[G5][Ab5]{soh}(C1){eoh}
+Your love keeps on comin' like a thunderbolt
+Well come here, a little closer  
+Cause I wanna see you, baby, real close up. 
+
+{c: Chorus}
+{soh}(D1 + power){eoh}
+{soc}
+#(0:51)
+[G5]Feelin h-good [Ab5]lets just keep on dan[G5]cin[Ab5] {soh}(C1){eoh}
+Hold me like you should I’m gonna keep on dancin{soh}(E1){eoh}
+{eoc}
+
+{c: Verse 2}
+{soh}(v-riff){eoh}
+#(1:07)
+[G5]A perf deserving of stan[G5]ding ovations {soh}(pause){eoh}[G5][Ab5]
+Who would've thought it'd be the two of us?
+So don’t wake me if I’m dreamin 
+Cause I’m in the mood, come on and give it up 
+
+{c: Chorus}
+{soh}(D1 + power){eoh}
+{soc}
+#(1:41)
+[G5]Feelin h-good [Ab5]let’s just keep on dan[G5]cin[Ab5] {soh}(C1){eoh}
+Hold me like you should I’m gonna keep on dancin{soh}(E1){eoh}
+Feelin hella good let’s just keep on dancin {soh}(C1){eoh}
+Hold me like you should I’m gonna keep on dancin{soh}(E1){eoh}
+{eoc}
+
+{c: Bridge}
+#(2:14)
+{soh}(-D#1){eoh}
+[Ebmaj7] Ooh, yeah, yeah[Bb]  
+[Gm]{soh}(synth: Bb-G-C-Bb-[Ab]Ab-G-Ab-Bb-Ab-G-F-G){eoh}
+[Ebmaj7] Ooh, yeah, yeah[Bb]  [Gm]{soh}(bend){eoh}[Ab]
+
+#(2:31)
+{c: Interlude}
+[G5]{soh}(oct[Ab5]-bass){eoh}[G5][Ab5]       [G5][Ab5][G5][Ab5]
+{eoh}
+
+{c: Chorus}
+{soc}
+#(2:48)
+{soh}(+D#1){eoh}
+[G5]Feelin h-good [Ab5]let’s just keep on dan[G5]cin[Ab5] {soh}(C1){eoh}
+Hold me like y'should I’m gonna keep on dancin{soh}(E1){eoh}
+Feelin hella good let’s just keep on dancin {soh}(C1){eoh}
+Hold me like you should I’m gonna keep on dancin{soh}(E1){eoh}
+{eoc}
+
+{c: Outro}
+#(3:21)
+{soh}(D1 + power){eoh}
+(no drums/bass)[G5][Ab5] Ah ah ah! [G5][Ab5]Ah ah ah! {soh}(C1){eoh}
+{soh}(+bass){eoh}                       Ah ah ah! {soh}(E1){eoh}
+(+drums)                    Keep on dancin! {soh}(C1){eoh}
+                                    Keep on dancin! {soh}(E1){eoh}
+{soh}(oct-bass){eoh}           (instrum.)

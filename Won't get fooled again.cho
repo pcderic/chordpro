@@ -1,0 +1,117 @@
+{title: Won't get fooled again}
+{st: The Who}
+{musicpath:Won't Get Fooled Again (CSI Theme Version).m4a}
+{time: 8:32}
+{key: A}
+{tempo: 135}
+{metronome: 135}
+{midi: CC0.0@2, CC32.7@2, PC3@2, CC0.63@1, CC32.7@1, PC3@1}
+(CK:8-4, {soh}LK:Part-B{eoh})  -  CSI Theme Version (shorter)
+
+{c:Intro}
+(RH: C notes are C# in Intro)
+(LH: A4=AD, A5=AE, A6=AF#, A7=AG, Adim7=AGb, Aaug=AF)
+[A5](bbbbbbcb [A5]eeeeeedc [A7]ddddddcb [Aaug]ccccdddd)
+[Aaug](cbcdcbcd [A5]{soh}edca{eoh}edca [Aaug]edcaedca [A5]edcaedca)
+[Dm](edcaedca [A5]edcaedca [Dm]edcaedca [A5]{soh}acdc{eoh}acdc)
+[A4](acdcacdc [Aaug]acdcacdc [A7]acdcacdc [Adim7]acdcacdc)
+[Adim7](acdcacdc) 
+[A] [G] [(D)]    [A] [G] [(D)]        [A] [G] [(D)]    [A] [G] [(D)]
+
+{c:Verse 1}
+We'll be [A]fighting in the streets [G][(D)]
+With our [A]children at our feet [G][(D)]
+And the [A]morals that they wor[G]ship [(D)]will be gone. [E][C][(G)]
+
+And the men who spurred us on
+Sit in judgement of all wrong
+They decide and the shotgun sings the song
+
+{c:Chorus}
+{soc}
+I'll [D]tip my [(A)]hat to the [D]new con[(A)]stitution
+[D]Take a [(A)]bow for the [D]new re[(A)]volution
+[D]Smile and [(A)]grin at the [D]change all [(A)]around
+[G]Pick up my guitar and play[E]
+[G]Just like yesterday[E]
+Then I'll [G]get on my knees and [D]pray [(Dsus4)] [D] [(Dsus4)]
+[D] We [D]don't get fooled a[A]gain! [G] [(D)]
+[A] [G] [(D)]       [A] [G] [(D)]        [A] [G] [(D)]  
+{eoc}
+
+{c:Verse 2}
+The [A]change, it had to come [G][(D)]
+We [A]knew it all along [G][(D)]
+We were [A]liberated [G]from[(D)] the fold, that's all [E][C][(G)]
+
+And the world looks just the same
+And history ain't changed
+'Cause the banners, they are flown in the next war
+
+{c:Chorus}
+{soc}
+[D][(A)][D][(A)]          [D][(A)][D][(A)]          [D][(A)][D][(A)]         [G][E] [G][E]
+[G] [D][(Dsus4)]               [D] [(Dsus4)] 
+[D] We [D]don't get fooled a[A]gain, [G] [(D)]no no!
+[A] [G] [(D)]
+{eoc}
+
+{c:Interlude}
+[A](hi[G]gh[(D)]er)  [A] [G] [(D)]       [A] [G] [(D)]       [A] [G] [(D)]
+[A] [G] [(D)]       [A] [G] [(D)]       [A] [G] [(D)]       [A] [G] [(D)]
+
+{c:Bridge}
+I'll [B]move myself and my [B]family aside
+[E]if we happen to be left [E]half alive.
+I'll [A]get all my papers and smile [A]at the sky
+though I [B]know that the hypnotized ne[B]ver lie.
+[B] [A] [(E)]    [B] [A] [(E)]        [B] [A] [(E)]    [B] [A] [(E)]
+
+{c:Solo1}
+[B] [A] [(E)]    [B] [A] [(E)]       [B] [A] [(E)]    [B] [A] [(E)] 
+[B] [A] [(E)]    [B] [A] [(E)]       [B] [A] [(E)]    [B] [A] [(E)] 
+
+{c:Break}
+[A](muted) [A] [A]  [A]       [A]Yeah!  [A]  [A]  [A] 
+
+#{soh}(CSI THEME: JUMP TO OUTRO){eoh}
+#
+#{c:Verse 3}
+#There's [A]nothing in the streets [G][(D)]
+#Looks any [A]different to me [G][(D)]
+#And the [A]slogans are repla[G]ced,[(D)] by the bye
+#[E][C][(G)]
+#
+#And the parting on the left
+#Is now parting on the right
+#And the beards have all grown longer overnight
+#
+#{c:Chorus}
+#{soc}
+#[D][(A)][D][(A)] [D][(A)][D][(A)] [D][(A)][D][(A)] 
+#[G][E] [G][E]
+#[G][D][(Dsus4)] [D] [(Dsus4)] 
+#[D] We [D]don't get fooled again
+#{eoc}
+#
+#{c:Bridge}
+#[A](muted) [A]Don't get [A]fooled again. [A] No, no!
+#[A](muted)[A]  [A]  [A]
+#
+#{c:Solo 2}
+#[A](muted)[A]  [A]  [A]      [(x7)]
+#
+#{c:Interlude} 
+#[A5](cdcbcbcb [A5]cbcbc[Aaug]bcbc [A5]dcddc#bc# [A5]c#dc#bc#dc#b)
+#[Aaug](c#dc#bc#dc#b [A5]ac#dc#agfe [Aaug]dedc#bdc#b  [A6]dc#[Aaug]bd[A6]c#b[Aaug]dc)
+#[A5](bd[A]c#b[A5]dc#[Aaug]bd       [A5]bb[Aaug]dc#[A5]ad[Aaug]da  [A5]aa[Aaug]aa[A5]aa[A4]aa  [A5]ac#[A4]ac#[A5]ad[A4]c#a
+#[A5]...[A4]...[A5]...[A4](TODO: finish this)
+#
+#
+#(+drum fills)
+#[A]Yeah! [G] [(D)]    [A]  [G] [(D)]
+#
+{c:Outro}
+[A]Meet the new boss [G] [(D)]        [A]Same as the old boss [G] [(D)]  
+[A] [A] [(G)] [(D)] [A] [A] [(G)] [(D)]           [A] [A] [(G)] [(D)] [A] [A] [(G)] [(D)]
+[A] [A] [(G)] [(D)] [A] [A] [(G)] [(D)]           [A] [A] [A] [A](END)

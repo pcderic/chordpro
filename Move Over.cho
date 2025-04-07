@@ -1,0 +1,70 @@
+{title:Move Over}
+{st:Janis Joplin}
+{musicpath:Move Over (backing).m4a}
+{key:Dm}
+{tempo:133}
+{duration:221}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, LK:Part-B, P1:Rotary, P2:Exp.)
+
+{c:Intro}
+[NC](drum [NC]beat) [NC] [NC]
+
+{c:Chorus}
+{soc}
+(guitar plays the vocal melody)
+You [Dm]say that it’s over [Dm]baby. You [Dm]say that it’s over [Dm]now but still
+you hang around, now come on. Won’t you move over.(a-c-f-d) 
+{eoc}
+ 
+{c:Verse}
+You [Dm]know that I need a man, [Dm]honey. You [Dm]know that I need a [Dm]man. 
+But when I ask you to you just tell me. That maybe you can.(a-c-f-d)
+ 
+[Dm]Please don't you do it to me [Dm]babe, no! [(F)]{soh}(organ){eoh}[(G)]
+Please don't you do it to me babe,       (organ)
+Either [Dm]take this love I of[Dm]fer or honey let me be.(a-c-f-d) [Dm]
+ 
+I [Dm]ain’t quite a ready for wal[Dm]king, no no no no, [(F)]{soh}(organ){eoh}[(G)]
+I ain’t quite a ready for walking,                      (organ)
+And [Dm]what you gonna do with your [Dm]life? Love just [Dm]dangling? [Dm](a-c-f-d d-d#)
+
+
+{c:Bridge}
+[E](o:e) Oh yeah, make up your mind, [E]honey.(b)[G] You’re playing the fool,[G] hey hey hey.
+(e)Make up your mind, darling.(b) You’re playing the fool, come on now!
+[A]Now either be my [A]loving man, I said [C]love me honey, [C]let [(C)]me [(B)]be, yeah!
+[Bb][(Bb)][(A)] [Dm]({soh}piano{eoh} oct.: cC-dD dD cC-dD dD[Dm]cC-dD dD cC-dD dD)
+ 
+{c:Guitar Solo}
+[Dm]({soh}piano{eoh}: cC-dD + Dm Dm7 [Dm]Dm Em[Dm]Dm Dm7 [Dm]Dm Em [Dm]Dm Dm7 [Dm]Dm Em [Dm]Dm Dm7 [Dm]dD-dD dD-dD)
+[E]{soh}(organ+piano){eoh} [E] [G] [G] [E] [E] [G] [G] 
+[A] [A] [C] [C] [(C)] [(B)] [Bb] [(Bb)] [(A)] 
+
+{c:Chorus}
+{soc}
+You [Dm]{soh}(Piano:dD){eoh} say that it’s over, [Dm]baby, no? [Dm]You say that it’s over [Dm]now.
+But still you hang around, so come on. Won’t you move over.(a-c-f-d)
+{eoc}
+ 
+{c:Verse}
+You [Dm]know that I need a man, [Dm]honey, I told you so.[(F)](organ)[(G)]
+You know that I need a man,                                  (organ)
+But [Dm]when I ask you to you just [Dm]tell me. That may[Dm]be you can.(a-c-f-d)[Dm]
+ 
+Hey! [Dm]please don't you do it to me, [Dm]babe, no! [(F)](organ)[(G)]
+Please dontcha do it to me baby,                   (organ)
+[Dm]Either take this love I [Dm]offer, Honey [Dm]let me be.(a-c-f-d)[Dm]
+
+{c:Outro}
+{soh}(organ+piano){eoh}
+[Dm]I said won’t you, [Dm]won’t you let me be?
+Honey, you’re teasing me.
+Yeah, you’re playing with my heart, dear,
+(I believe) you’re toying with my affections, honey.
+I can’t take it no more baby,
+And furthermore, I don’t intend to.
+I’m just hanging from the end of a string, honey,
+You expect me fight like a goddamned mule.
+Wah, wah, wah, wah, honey...
+(fade-out)

@@ -1,188 +1,71 @@
 {title: I'm a Believer}
-{artist: The Monkeys}
+{st: Monkeys & Smash Mouth}
+{musicpath:I'm a Believer-G-165bpm-440hz (backing).mp3}
 {key: G}
 {duration: 150}
 {tempo: 160}
-
-{textfont: courier}
-{chordfont: courier}
-
+{midi: CC0.0@2, CC32.3@2, PC1@2, CC0.63@1, CC32.3@1, PC1@1}
+(CK:4-2, LK: {soh}Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
-
-{textcolor: red}
-[G7](organ [C]riff) [G](guitar [*NC]riff)
-{textcolor}
-
+[G7](organ {soh}hook{eoh}: G7-G7-C-C-[G]G)({soh}C1{eoh}:SFX + [(NC)]guitar riff)
 
 {c: VERSE 1}
-
 [G]I thought love was [D]only true in [G]fairy tales. [G]
+Meant for someone else but not for me.  
+{soh}(L:organ){eoh}[C]Love was out to [G]get me (R:{soh}brass{eoh}: d f g f g)
+That's the way it seemed {soh}(brass){eoh}
+Disappointment haunted all my
+ [D]dreams 
 
-[G]Meant for someone [D]else but not for [G]me.  [G]
-
-
-{c: PRE-CHORUS}
-
-{textcolor: cyan}
-[C]Ah love was out to [G]get me (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C] That's the way it [G]seemed (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C]Disappointment [G]haunted all my [D]dreams
-{textcolor}
-
-
-{c: CHORUS}
-
-[*NC]  Then I saw her face, [G7]  [C]
-
-{textcolor: cyan}
-[G] Now I'm a believer. [G7]  [C]
-{textcolor}
-
-[G]  Not a trace [G7]  [C]
-
-{textcolor: cyan}
-[G] of doubt in my mind. [G7]  [C]
-{textcolor}
-
-[G]  I'm in love, [G](STOP)    [C]I'm a beli[G]ever
-{textcolor: yellow}
-               Mmmmmm, Aaaah yeah.
-{textcolor}
-
-I couldn't [F]leave her if I [D5]tried   [*NC]
-{textcolor: red}
-                          (guitar riff)
-{textcolor}
-
+{c: CHORUS }
+{soc}
+[(NC)]And then I saw her face. [G7]{soh}(H){eoh} [G]Now I'm a belie[G7]ver. [G] 
+Not a trace [G7] [G] of doubt in my mind. [G7][G]
+I'm in love, [(NC)]{soh}(ooh){eoh} [C]I'm a believer. [G]I couldn't [F]leave her if I [D]tried. 
+(guitar riff) [(NC)]({soh}D1{eoh}:SFX)
+{eoc}
 
 {c: VERSE 2}
-
-[G]I thought love was [D]more or less, a
-[G]givin' thing. [G]
-
-[G]Seems the more I [D]gave the less I
-[G]got. [G]
-
-
-{c: PRE-CHORUS}
-
-{textcolor: cyan}
-[C]What's the use in [G]tryin', (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C] All you get is [G]pain. (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C] When I needed [G]sunshine I got [D]rain.
-{textcolor}
-
+[G]I thought love was [D]more or less, a [G]givin' thing.[G]
+The more I gave the less I got oh yeah 
+{soh}(L:organ){eoh}[C]What's the use in [G]tryin', {soh}(R:brass){eoh}
+All you get is pain. {soh}(brass){eoh}
+When I needed sunshine I got 
+[D]rain.
 
 {c: CHORUS}
-
-[*NC]Ah then I saw her face, [G7]  [C]
-
-{textcolor: cyan}
-[G] Now I'm a believer. [G7]  [C]
-{textcolor}
-
-[G]  Not a trace [G7]  [C]
-
-{textcolor: cyan}
-[G] of doubt in my mind. [G7]  [C]
-{textcolor}
-
-[G]  I'm in love, [G](STOP)    [C]I'm a beli[G]ever
-{textcolor: yellow}
-               Mmmmmm, Aaaah yeah.
-{textcolor}
-
-I couldn't [F]leave her if I [D5]tried   [*NC]
-{textcolor: red}
-                          (guitar riff)
-{textcolor}
-
+{soc}
+[(NC)]Ah then I saw her face, [G7]{soh}(H){eoh} [G] Now I'm a belie[G7]ver.[G] 
+Not a trace [G7] [G] of doubt in my mind. [G7][G]
+I'm in love, [(NC)]{soh}(ooh){eoh} [C]I'm a believer. [G]I couldn't [F]leave her if I [D]tried. 
+(guitar [(NC)]riff)
+{eoc}
 
 {c: INTERLUDE}
-
-{textcolor: red}
-[G](piano) [D]      [G]      [G]
-{textcolor}
-
-{textcolor: red}
-[G](piano) [D]      [G]      [G]
-{textcolor}
-
-
-{c: PRE-CHORUS}
-
-{textcolor: cyan}
-[C]Ah love was out to [G]get me (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C]Now that's the way it [G]seemed (Tududumdudum)
-{textcolor}
-
-{textcolor: cyan}
-[C]Disappointment [G]haunted all my [D]dreams
-{textcolor}
-
+[G]({soh}brass:{eoh} g g f [D]d d d d g) [G](guitar+{soh}D1:SFX+[G]C1:SFX{eoh})
+[G]({soh}brass{eoh}) [D] [G](gui[G]tar)
+{soh}(L:organ){eoh}[C]What's the use in [G]tryin', {soh}(R:brass){eoh}
+All you get is pain. {soh}(brass){eoh}
+When I wanted sunshine I got 
+[D]rain.
 
 {c: CHORUS}
-
-[*NC]    Ah then I saw her face, [G7]  [C]
-
-{textcolor: cyan}
-[G] Now I'm a believer. [G7]  [C]
-{textcolor}
-
-[G] Not a trace [G7]  [C]
-
-{textcolor: cyan}
-[G] of doubt in my mind. [G7]  [C]
-{textcolor}
-
-[G]  I'm in love, [G](STOP)    [C]I'm a beli[G]ever
-{textcolor: yellow}
-               Mmmmmm, Aaaah yeah.
-{textcolor}
-
-I couldn't [F]leave her if I [D5]tried   [*NC]
-{textcolor: red}
-                          (guitar riff)
-{textcolor}
-
+{soc}
+[(NC)]Ah then I saw her face, [G7]{soh}(H){eoh} [G] Now I'm a belie[G7]ver.
+[G] Not a trace [G7] [G] of doubt in my mind. [G7]
+[G]I'm in love, [(NC)]{soh}(ooh){eoh} [C]I'm a believer
+[G]I couldn't [F]leave her if I [D]tried ([(NC)]guitar [(NC)]riff + [(NC)]{soh}D1+C1{eoh})
+{eoc}
 
 {c: OUTRO}
-
-Yes I saw her [G7]face, [C]
-
-{textcolor: cyan}
-[G] Now I'm a believer. [G7]    [C]
-{textcolor}
-
-[G]  Not a trace [G7]      [C]
-
-{textcolor: cyan}
-[G] of doubt in my mind. [G7]      [C]
-{textcolor}
-
-{textcolor: cyan}
-[G] I'm a believer [G7]      [C]
-{textcolor}
-
-{textcolor: red}
-(ending below)
-{textcolor}
-
-[G]Yeah-ee-yeah, hey-ee-yeaaaaaaaaaaah!
-
+Then I saw her [G7]{soh}(H){eoh}face, [G] Now I'm a belie[G7]ver.
+[G] Not a trace[G7] [G] of doubt in my mind. [G7]
+#{soh}Smash Mouth:{eoh}
+#[G] Now I'm a belie[(NC)]ver. Yeah  yeah, [(NC)]yeah... yeah-heh!
+#[G] [G] Now I'm a belie[G7]ver. [G] Then I saw her [G]face.
+#[G] [G] [G] Now I'm a belie[G7]ver. [G] [G7] [G] Not a [G]trace
+#[G] [G] [G] of doubt in my [G7]mind.[G] I'm a belie[G7]ver. (fade-out)
+{soh}OOTE:{eoh}
+[G7](instrumental) [G] (x4)
+[(NC)]{soh}(guitar riff x3){eoh} [G](END)

@@ -1,80 +1,62 @@
-{title: Night Moves (KB)}
-{artist: Bob Seger (piano)}
+{title: Night Moves}
+{st: Bob Seger}
 {key: C}
 {duration: 326}
 {tempo: 120}
 
 {c: INTRO}
-[G(7)]     [F(1)]     [C(7)]     [F(1)]
-[G(7)]     [F(1)]     [C(7)]     [F(1)]
+[G(7)] [F(1)] [C(7)] [F(1)]              [G(7)] [F(1)] [C(7)] [F(1)]
 
 {c: VERSE 1}
 [G]I was a little too tall, [G]coulda' used a few pounds. [F]
 [C]Tight pants, points, [C]hardly renown [F]
 
-[G]She was a black haired beauty [G]with big dark eyes. [F]
-[C]And points all her own [C]sittin' way up high [F]
+She was a black haired beauty with big dark eyes. 
+And points all her own sittin' way up high 
 
-[G](g c d d#-e d) [G](b#-b d a g) [F]
-[C]way up firm and [C]high [F]
+(g c d d#-e d) (b#-b d a g) 
+way up firm and high 
 
-[G]Out past the cornfields, [G](e d a# a g)where the woods got heavy. [F]
-[C]Out in the backseat of my [C]sixty Chevy [F]
-
-[G]Workin' on mysteries [G](b#-b-d b#-d-b a g)without any clues [F]  [C]  [C]
+Out past the cornfields, (e d a# a g)where the woods got heavy. 
+Out in the backseat of my sixty Chevy 
+[G]Workin' on mysteries [G](b#-b-d b#-d-b a g)without any clues [F]  [C] 
 
 {c: CHORUS 1}
-Working [D]on our [Em]night moves [D]
-
-[C] Tryin' to make [D]some [Em]front page [D]drive-in news
+[C] Working [D]on our [Em]night moves [D]
+Tryin' to make some front page drive-in news
 
 [C] Workin' on our [Em]night moves [D]  [C]  [Em]
-
 [G] in the summertime [G](da-db-dg) [F]
 [C]hmm [C](gd-ge) [F](ceg-cfa)
-
-[G] In the sweet, summertime [G]  [F]
-[C] ([C]e-eg-egd-egc) [F](cfa)
+In the sweet, summertime
+(e-eg-egd-egc) (cfa)
 
 {c: VERSE 2}
 [G]We weren't in love, [G]oh no, far from.
 [C] W[F]e weren't searching for some pie in the sky summit
-
 [G]We were just young n'restless and bored [G](f-f#-g-gb) [F](f-fa)
 [C]living by the sword [C](gca-acf-gca ceg-cfa)
-
 [G]And we'd steal away every chance we could[G](a-a#-b-bg-b)[F](a-f-a)
 [C]To the back room, alley, or the [C]trusty woods[F]
-
 [G]I used her, she used me but [G]neither one cared, [F]
 [C]we were getting our share [C](gd-ge cg-ca gd-ge cg-ca)
 
 {c: CHORUS 2}
 Working on our [Em]night moves [D]
-
 [C] Tryin' to [D]lose the [Em]awkward [D]teenage blues
-
 [C]Workin' on our [Em]night moves. [D]  [C]  [Em]
-
 (Organ from here)
-
 [G]And it was summertime [G]hmm [F]  [C]  [C]  [F]
-
 [G] Sweet, [G]summertime, summertime[F]  [C]  [C]  [F]
 
 {c: INTERLUDE}
-[Em]   [Em(3)]      [Em7(1)]
-[G]  [G7]
+[Em]   [Em(3)]      [Em7(1)]     [G]  [G7]
 
 {c: BRIDGE}
 [Cmaj7]Oh  I [Cmaj7]wonder[G]           [G]
-
 [Cmaj7]felt the lightning [Cmaj7] yeah
-
 [F]And waited on the thunder, [F]
-
 [D]waited on the [D]thunder (leslie+)
-
 [G](hold mid D note, leslie-)  [G]  [G]  [G]
 
 {c: GUITAR ONLY}
@@ -87,39 +69,20 @@ Working on our [Em]night moves [D]
 [C]  [Cmaj7]With autumn closing in. [G]  [G]
 
 {c: BRIDGE}
-[G(7)]     [F(1)]
-[C(7)]. . . . . Hmm  [F(1)]
+[G(7)]     [F(1)]        [C(7)]. . . . . Hmm  [F(1)]
 [G(7)]. . . Night moves (G-GD-GDD, leslie+)
 [F(1)]     [C(7)]     [F(1)]
 
 {c: OUTRO}
-[G](Night moves) night moves. [F]
-[C](NM) Yeah [F]
-
-[G](NM) I remember.[F]
-[C]Ah sure remember the night moves[F]
-
-[G]Aint it funny how you remember,[F]
-[C]Funny how you remember[F]
-
-[G]I remember (x4)[F]
-[C]Oooohh ohh wohh [F]
-
-[G]We were workin' workin and practicin,[F]
-[C]Workin n'practicin
-
-[G]All of the night moves night moves[F]
-[C]Ooooh [F]
-
-[G]I remember yeah, yeah, yeah I remember [F]
-[C]  [F]
-
-[G]I remember lord I remember lord I remember,[F]
-[C]Ohh ho
-
+[G](Night moves) night moves. [F] [C](NM) Yeah [F]
+[G](NM) I remember.[F] [C]Ah sure remember the night moves[F]
+[G]Aint it funny how you remember,[F] [C]Funny how you remember[F]
+[G]I remember (x4)[F] [C]Oooohh ohh wohh [F]
+[G]We were workin' workin and practicin,[F] [C]Workin n'practicin
+[G]All of the night moves night moves[F] [C]Ooooh [F]
+[G]I remember yeah, yeah, yeah I remember [F] [C]  [F]
+[G]I remember lord I remember lord I remember,[F] [C]Ohh ho
 [Em]Oooo hooo [Bm]oh yeah, yeah, yeah
 [Am]uh huh, [Bm] uh[C] huh (leslie+)
 [G]I remember, I remember
-
 (Hold mid D note, leslie-)
-

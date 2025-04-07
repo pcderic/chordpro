@@ -1,0 +1,80 @@
+{fontsize:18.3}
+{title: Life is a Highway}
+{st: Tom Cochrane}
+{tempo: 103}
+{duration: 4:26}
+{key: F}
+{midi: CC0.0@2, CC32.4@2, PC1@2, CC0.63@1, CC32.4@1, PC1@1}
+
+{c: Intro}
+(drum lead in)
+[Dm](gui[(C)]tar [(Bb)]riff)[(Bb)]      [Bb] [(F/A)] [(F)] [(F)]      [Bb] [(F)] [(C)] [(C)]      [Bb] [(F)] [(C)] [(C)]
+[Dm]{soh}(+ha[(C)]rmon[(Bb)]ica){eoh} [(Bb)]      [Bb] [(F/A)] [(F)] [(F)]      [Bb] [(F)] [(C)] [(C)]      [Bb] [(F)] [(C)] [(C)]
+
+{c: Verse 1}
+[Bb]Life's like a road that you travel on when there's 
+[F]one day here and the next day gone.
+Some[C]times you bend, sometimes you stand. 
+Some[C]times you turn your back to the wind.
+
+There's a world outside every darkened door where 
+blues won't haunt you anymore.
+Where the brave are free and lovers soar. 
+Come ride with me to the distant shore.
+
+{c: Pre-Chorus}
+{soh}(organ){eoh}
+[Dm]We won't hesitate, [C]break down the garden gate. [Bb]There's not much time left today.[G] 
+
+{c: Chorus 1}
+{soc}
+Life [Dm]is a[(C)] high[(Bb)]way,      [Bb]I [(F/A)]want [(F)]to ride it [Bb]all ni[(F)]ght [(C)]long. [Bb][(F)][(C)]
+If you're going my way, I want to drive it  all night long.
+{eoc}
+
+{c: Verse 2}
+Through a[Bb]ll the cities and all these towns, it's in[F] my blood and it's all around.
+I love[C] you now like I loved you then.  [C]This is the road and these are the hills.
+
+From Mozambique to those Memphis nights, the Khyber Pass to Vancouver's lights.
+Knock me down, get back up again. You're in my blood, I'm not a lonely man.
+
+{c: Pre-Chorus}
+{soh}(organ){eoh}
+[Dm] There's no load I can't hold. The [C]roads are rough, this I know. 
+[Bb]I'll be there when the light comes in. Just [G]tell 'em we're survivors.
+
+{c: Chorus 2}
+{soc}
+(play Chorus twice)
+{eoc}
+
+{c: Bridge}
+[Gm] There was a dis[Bb]tance between you [Dm]and I. [C]
+[Gm] A misunderstan[Bb]ding once but [Dm]now we look it in the [C]eye. [C] Oh!
+
+{c: Harmonica Solo}
+[Dm](solo)[(C)] [(Bb)][(Bb)]      [Bb] [(F/A)] [(F)] [(F)]      [Bb] [(F)] [(C)] [(C)]      [Bb] [(F)] [(C)] [(C)]        (2x)
+
+{c: Pre-Chorus}
+There [Dm]ain't no load that I can't hold. [C]Road so rough, this I know. 
+[Bb]I'll be there when the light comes in. 
+Just [G]{soh}(dissonant organ){eoh}tell 'em we're survivors.[G]
+
+{c: Interlude}
+{soc}
+{soh}(a capella){eoh}
+Life is a highway, I want to ride it all night long.
+If you're going my way, I want to drive it all night long.
+Gimme, gimme, gimme, gimme yeah!
+{eoc}
+
+{c: Chorus 3}
+{soc}
+{soh}(chorus +claps:C1){eoh}
+(chorus +organ)
+{eoc}
+
+{c: Outro}
+[Dm]{soh}(harmo[(C)]nica){eoh}[(Bb)] [(Bb)]      [Bb] [(F)] [(F)] [(F)]      [Bb] [(F)] [(C)] [(C)]      [Bb] [(F)] [(C)] [(C)]      (2x)
+[F](END))

@@ -1,157 +1,82 @@
 {title: These Eyes}
-{artist: The Guess Who}
+{st: Guess Who}
+{musicpath:These Eyes.mp3}
 {key: C}
 {duration: 225}
 {tempo: 99}
-
-{textfont: courier}
-{chordfont: courier}
-
+{midi: CC0.0@2, CC32.8@2, PC2@2, CC0.63@1, CC32.8@1, PC2@1}
+(CK:9-3, {soh}LK:Part-B{eoh})
 
 {c: INTRO}
-
-{textcolor: red}
-[Dm7](piano) [Dm7]      [Cmaj7]  (+guitar) [C]
-{textcolor}
-
-{textcolor: red}
+[Dm7](piano: A-D DFAC... [Dm7]      [Cmaj7]G-C CEGB...) [C]
 [Dm7](+band) [Dm7]      [Cmaj7]        [C]
-{textcolor}
-
 
 {c: VERSE 1}
-
 These [Dm7]eyes [Dm7] cry every night
-
 [Cmaj7] for you.[C]
-
 These [Dm7]arms [Dm7] long to hold you
-
 [Cmaj7] again.[C]
 
-
 {c: PRE-CHORUS}
-
 [Am7] The hurtin's on [C]me, yeah
-
 [Am7] And I will never be [C]free no, my baby, no no
-
 [Am7] You gave the promise to [C]me, yeah
-
 And you [G]broke it, you [G/D]broke it, oh no.
 
-
 {c: INTERLUDE}
-
-{textcolor: red}
 [Dm7](instrumental) [Dm7]
-{textcolor}
-
-{textcolor: red}
 [Cmaj7](instrumental) [C]
-{textcolor}
-
 
 {c: VERSE 2}
-
 These [Dm7]eyes [Dm7] watched you bring my world
-
 [Cmaj7] to an end.[C]
-
 This [Dm7]heart [Dm7] could not accept
-
 [Cmaj7] and pretend.[C]
 
-
 {c: PRE-CHORUS}
-
 [Am7] The hurtin's on [C]me, yeah
-
 [Am7] And I will never be [C]free, no, no, no
-
 [Am7] You took the vow with [C]me, yeah
-
 When you [G]spoke it, when you [G/D]spoke it, babe,
 
-
 {c: CHORUS}
-
 [F]  [(C)] These eyes [F]  [(C)] are cryin'
-
 [F] These eyes have [(C)]seen a lot of loves
-
 But they're [F]never gonna see another [(C)]one
-
 Like I had with [D]you
-
 [G] These eyes are [(D)]cryin'
-
 [G] These eyes have [(D)]seen a lot of loves
-
 But they're [G]never gonna see another [(D)]one
-
 Like I had with [E]you
-
 [A]  [(E)] These eyes [A] [(E)] are cryin'
-
 [A] These eyes have [(E)]seen a lot of loves
-
 But they're [A]never gonna see another [(E)]one
-
 Like I had with [F#]you [G]
 
-
 {c: VERSE 3}
-
 These [Dm7]eyes [Dm7] cry every night
-
 [Cmaj7] for you.[C]
-
 These [Dm7]arms [Dm7] long to hold you
-
 [Cmaj7] again.[C]
 
-
 {c: CHORUS}
-
 [F]  [(C)] These eyes [F]  [(C)] are cryin'
-
 [F] These eyes have [(C)]seen a lot of loves
-
 But they're [F]never gonna see another [(C)]one
-
 Like I had with [D]you
-
 [G] These eyes are [(D)]cryin'
-
 [G] These eyes have [(D)]seen a lot of loves
-
 But they're [G]never gonna see another [(D)]one
-
 Like I had with [E]you
-
 [A]  [(E)] These eyes [A] [(E)] are cryin'
-
 [A] These eyes have [(E)]seen a lot of loves
-
 But they're [A]never gonna see another [(E)]one
-
 Like I had with [F#]you
 
-
 {c: OUTRO}
-
 [C#] These eyes are [(F#)]cryin'
-
 [C#] These eyes have [(F#)]seen a lot of loves
-
 But they [C#]never gonna see another [(F#)]one
-
 Like I had with [C#]you [(F#)]
-
 [C#]Baby, baby, baby, baby [(F#)]
-
-{textcolor: red}
-/(fade out)
-{textcolor}
-
+(fade out)

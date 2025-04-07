@@ -1,6 +1,11 @@
 {title: Green Onions}
-{artist: Booker T and the MGs}
-{key: Ab}
+{st: Booker T and the MGs}
+{musicpath:Green Onions.mp3}
+{time: 2:55}
+{key: Fm}
+{tempo: 138}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
 [Fm (Ab Bb)]     [(x4)]

@@ -1,0 +1,57 @@
+{title:The Final Countdown}
+{st:Europe}
+{musicpath:The Final Countdown (backing).mp3}
+{key:F#m}
+{duration: 5:10}
+{tempo:118}
+{midi: CC0.0@2, CC32.1@2, PC5@2, CC0.63@1, CC32.1@1, PC5@1}
+(CK:2-6 - 2-8, LK:{soh}Part-B/-2oct.{eoh})
+
+{c:Intro:}
+{soh}(CK:FC1){eoh}
+({soh}C1{eoh}: latch noises + 4 bends)
+[F#m]({soh}brass [D]riff{eoh} [Bm]+ choir) [E] [(Fdim)]           {soh}(4x){eoh}
+[F#m] [(E/G#)](ascent)   [A] [(D)]   [C#sus4]  [C#] 
+[F#m]{soh}(CK:FC2){eoh}[D] [Bm] [E]         [F#m] [D] [Bm] [E]               [F#m] [(E/G#)](ascent)   [A] [(D)]   [C#sus4]  [C#] 
+[F#m]{soh}(CK:FC3){eoh} [F#m](. . f#-e-[F#m]c#-a-g#-e-[F#m]f#)
+
+{c:Verse 1:}
+{soh}(CK:FC2){eoh}
+[F#m] We're leaving to[F#m]gether [F#m] but still it's fare[Bm]well.
+[F#m] And maybe we'll [F#m]come back [F#m]to[(E/G#)]Earth, [A]who can tell?
+[D]I guess there is [E]noone to blame, [A]we're[(E/G#)]leaving [F#m]ground[(E)]
+[D] Will things ever [C#m]be the same again? [E] [E] 
+
+{c:Chorus:}
+It's The Final [F#m]Countdown {soh}(riff){eoh}[D] [Bm] [E] 
+The Final Countdown {soh}(riff){eoh}
+
+{c:Verse 2:}
+[F#m] We're heading for [F#m]Venus [F#m] and still we stand [Bm]tall.
+[F#m] Cause maybe they've [F#m]seen us[F#m] and [(E/G#)]welcome [A]us all, yeah.
+[D] With so many light [E]years to go[A] and [(E/G#)]things to [F#m]be [(E)]found. 
+[D] I'm sure that we'll [C#m]all miss her so.[E] [E]
+
+{c:Chorus:}
+It's The Final [F#m]Countdown {soh}(riff){eoh}[D] [Bm] [E] 
+The Final Countdown {soh}(riff){eoh}
+The Final [F#m]Countdown [(E/G#)] [A] [(D)] [C#sus4]Oh! [C#]Oh-oh oh-oh-[F#m]oh! [F#m]
+ 
+{c:Guitar Solo:}
+[Bm][A][D][G]     [E][A][Bm][F#m]
+[Bm][A][D][G]     [E][A][Bm][C#]
+
+{c:Bridge:}
+[F#m]{soh}(riff){eoh}[D][Bm][E]      [F#m]{soh}(riff){eoh}[D][Bm][E]
+The Final Countdown [F#m] [(E)] [A] [(D)] [C#sus4]Oh-oh![C#]
+
+{c:Chorus:}
+It's The Final [F#m]Countdown {soh}(riff){eoh} [D] [Bm] [E]
+The Final Countdown {soh}(riff){eoh} 
+The Final [F#m]Countdown [(E)] [A] [(D)] [C#sus4]Oh! [C#]
+
+{c:Outro:}
+It's The Final [F#m]Countdown {soh}(riff){eoh}[D]We're leaving [Bm]together [E]
+The Final Countdown. We'll all miss her so.
+[F#m]It's The Final [(E)]Countdown. [A] [(D)] [C#sus4]Oh! [C#]
+It's The Final [F#m]Countdown. (fade-out)

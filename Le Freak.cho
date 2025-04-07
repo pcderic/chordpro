@@ -1,0 +1,65 @@
+{title: Le Freak}
+{subtitle: Chic}
+{musicpath:Le Freak (backing).mp3}
+{key: Am}
+{duration: 330}
+{tempo: 120}
+{midi: CC0.0@2, CC32.3@2, PC5@2, CC0.63@1, CC32.3@1, PC5@1}
+(CK:4-6, {soh}LK:Part-B, Pedal1:Reverb, Pedal2:Exp.{eoh})
+
+{c:Intro:}
+One, two, 
+Ah, freak [Am7]out! Le [D9]freak, c'est Chic. Freak [Am7]out! [D9] 
+Ah, freak [Am7]out! Le [D9]freak, c'est Chic. Freak [Am7]out! [D9] 
+
+{c:Verse 1}
+{soh}(Am7-[Am7]Am){eoh} Have you heard a[D9]bout the new dance craze?
+{soh}(Am7-[Am7]Am){eoh} Listen to us, I'm [D9]sure you'll be amazed
+{soh}(Am7-[Am7]Am){eoh} Big fun...[D9]{soh}(desc:da-g ce-d gd-c){eoh}by everyone
+{soh}(Am7-[Am7]Am hold){eoh} It's up to you, it [D9]surely can be done
+{soh}(Am7-[Am7]Am){eoh} Young and old are [D9]doing it, I'm told
+{soh}(Am7-[Am7]Am){eoh} Just one try, and [D9]you too will be sold
+{soh}(Am7-[Am7]Am){eoh} It's called Le Freak... [D9]{soh}(desc){eoh}night'n'day.
+{soh}(Am7-[Am7]Am hold){eoh} Allow us...[D9]{soh}(gcd ade){eoh}show you the way
+
+{c:Chorus}
+{soc}
+Ah, {soh}(Am7){eoh}freak [Am7]{soh}(Am){eoh}out! Le [D9]freak, c'est Chic. 
+Freak [Am7]out![D9]
+{eoc}
+
+{c:Verse 2}
+{soh}(Am7-[Am7]Am){eoh} All that pressure[D9] got you down
+{soh}(Am7-[Am7]Am){eoh} Has your head [D9]spinning all around
+{soh}(Am7-[Am7]Am){eoh} Feel the rhythm, [D9]{soh}(desc){eoh}check the rhyme
+{soh}(Am7-[Am7]Am hold){eoh} Come on along [D9]have a real good time
+{soh}(Am7-[Am7]Am){eoh} Like the days of [D9]stomping at the Savoy
+{soh}(Am7-[Am7]Am){eoh} Now we freak, [D9]oh, what a joy
+{soh}(Am7-[Am7]Am){eoh} Just come on down, [D9]{soh}(desc){eoh}two fifty four
+{soh}(Am7-[Am7]Am hold){eoh} Find a spot out [D9]{soh}(gcd ade){eoh}on the floor
+
+{c:Chorus}
+{soc}
+Ah, {soh}(Am7){eoh}freak [Am7]{soh}(Am){eoh}out! Le [D9]freak, c'est Chic. 
+Freak [Am7]out![D9]
+{eoc}
+
+{c:Bridge}
+Now [Am7](e)freak! [D9](f#) [Am7](g) [D9](a) [Am7](c) [D9](d) [Am7](e) [D9](f#)I said 
+[Am7](g)Freak! [D9](a) [Am7](c) [D9](d)Now [Am7](e)freak! [D9](f#) [Am7](g) [D9](a)
+
+{c:Verse 3}
+{soh}(Am7-[Am7]Am){eoh} All that pressure [D9] got you down
+{soh}(Am7-[Am7]Am){eoh} Has your head [D9]spinning all around
+{soh}(Am7-[Am7]Am){eoh} Feel the rhythm,[D9]{soh}(desc){eoh}check the ride
+{soh}(Am7-[Am7]Am hold){eoh} Come on along [D9]have a real good time
+{soh}(Am7-[Am7]Am){eoh} Like the days of [D9]stomping at the Savoy
+{soh}(Am7-[Am7]Am){eoh} Now we freak, [D9]oh, what a joy
+{soh}(Am7-[Am7]Am){eoh} Just come on down, [D9]{soh}(desc){eoh}two fifty four
+{soh}(Am7-[Am7]Am hold){eoh} Find a spot out [D9](gcd ade)on the floor
+
+{c:Outro}
+Ah, ({soh}High-Oct{eoh}:Am7)freak [Am7](Am){soh}(bend down){eoh}out! Le [D9]freak, c'est Chic. Freak [Am7]out! [D9] 
+Ah, freak [Am7]out! Le [D9]freak, c'est Chic. Freak [Am7]out! [D9] 
+{soh}(x7){eoh}
+

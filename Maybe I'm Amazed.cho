@@ -1,102 +1,61 @@
 {title: Maybe I'm Amazed}
-{subtitle: (piano)}
-{artist: Paul McCartney}
+{st: Paul McCartney}
+{musicpath:Maybe I'm Amazed.mp3}
 {key: F}
 {duration: 232}
 {tempo: 80}
+{midi: CC0.0@2, CC32.0@2, PC1@2, CC0.63@1, CC32.0@1, PC1@1}
+(CK:1-2, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
 
 {c: INTRO}
-
 [A](piano) [D/F#(2)]  [Dm/F(2)]    [Em7(2)]  [A7(2)]
-
 [A7](piano) [A7]
 
-
 {c: VERSE 1}
-
 [Bb] Maybe I'm [F/A]amazed at the way you [C]love me all the [G/B]time
-
 [Bb] And maybe I'm [F/A]afraid of the way I love [C]you (chromatic ascent)
-
 [Bb] Maybe I'm [F/A]amazed at the way you [C]pulled me out of [G/B]time,
-
 [Bb]Hung me on a [F/A]line and [Ab]maybe I'm amazed at [Eb/G]the way
-
 I really [C7]need you.
 
-
 {c: CHORUS}
-
 [D] Baby, I'm a [Dmaj7]woman, maybe I'm a [D7]lonely woman who's in [C/D]the middle
-
 of some[G]thing that he doesn't really under[D]stand.
-
 [D] Baby, I'm a [Dmaj7]woman and maybe you're the [D7]only man who could ever [C/D]help me
-
 [G]Baby won't you help me to unders[D/F#]tand?   [Dm/F]ooh   [Em7]ooh [A7]ooh ooh ooh aah
-
 
 {c: GUITAR SOLO}
-
 [Bb](solo)  [F/A]      [C]       [G/B]
-
 [Bb](solo)  [F/A]      [C](chromatic ascent)
-
 [Bb](solo)  [F/A]      [C]       [G/B]
-
 [Bb](solo)  [F/A]      [Ab]        [Eb/G]       [C7]
 
-
 {c: CHORUS}
-
 [D] Baby, I'm a [Dmaj7]woman, maybe I'm a [D7]lonely woman who's in the [C/D]middle
-
 of some[G]thing that he doesn't really under[D]stand.
-
 [D] Baby, I'm a [Dmaj7]woman and maybe you're the [D7]only man who could ever [C/D]help me
-
 [G]Baby won't you help me to unders[D/F#]tand?   [Dm/F]ooh   [Em7]ooh [A7]ooh ooh ooh aah
 
-
 {c: VERSE 2}
-
 [Bb] Maybe I'm [F/A]amazed at the way you're [C]with me all the [G/B]time
-
 [Bb] And maybe I'm [F/A]afraid of the way I [C]need you (chromatic ascent)
-
 [Bb] Maybe I'm [F/A]amazed at the way you [C]help me sing my [G/B]song
-
 You [Bb]right me when I'm [F/A]wrong and [Ab]maybe I'm amazed at [Eb/G]the way
-
 I really need [C7]you.
 
-
 {c: INTERLUDE}
-
 (organ)[D] Oh!  [Dmaj7]  Oh!  [D7]  Oh oh [C/D]oh.
-
-[G]    Eh, hey [D]hey!
-
+[G]Eh, hey [D]hey!
 [D]  Oh!  [Dmaj7]  Oh!  [D7]        O[C/D]h ooh ooh ooh ooh...
-
 [G]eh hey [D/F#]ee-yeah!  [Dm/F]   Oh o[Em7]oh ooh o[A7]oh ooh ha.
 
-
 {c: GUITAR SOLO 2}
-
 [Bb](solo) [F/A]      [C]     [G/B]
-
 [Bb](solo)  [F/A]      [C7](chromatic ascent)
-
 [Bb](solo) [F/A]      [C]     [G/B]
-
 [Bb](solo) [F/A]      [Ab]      [Eb/G]
-
 [C7](solo)
 
-
 {c: OUTRO}
-
 [D](organ)  [Dmaj7]        [D7]      [C/D]
-
 [G](organ) [D](END)

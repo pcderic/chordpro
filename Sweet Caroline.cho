@@ -1,160 +1,90 @@
 {title: Sweet Caroline}
-{artist: Neil Diamond}
+{st: Neil Diamond}
+{musicpath:Sweet Caroline.mp3}
+{origkey: B}
 {key: C}
 {duration: 200}
 {tempo: 128}
+{midi: CC0.0@2, CC32.5@2, PC7@2, CC0.63@1, CC32.5@1, PC7@1}
+(CK:6-8, {soh}LK:Part-B{eoh})
 
-{textcolor: pink}
 {c: INTRO}
-{textcolor}
-{textcolor: red}
-[G](guitar)   [G]
-{textcolor}
+[G](L:d-e-f)    [G](L:d-e-f-e-d f-e-d)
+[G](R:f-g-a)    [G](R:f-g-a-g-f a-g-f)
+[G](R:fa-gb-ac) [G](R:fa-gb-ac gb)
+[G](R:ce-bd)
 
-{textcolor: red}
-[G](+brass [G]notes)
-{textcolor}
-
-{textcolor: red}
-[G](brass [G]chords) [G]
-{textcolor}
-
-{textcolor: pink}
 {c: VERSE 1}
-{textcolor}
 [C] Where it [C]began,
-
 [F] I can't [F]begin to knowin'
-
 [C] But then I [C]know it's growing
+[G]strong  [G]
 
-[G]strong [G]
 
-[C] Was in the [C]spring,
+[C](ceg) Was in the [C]spring,
+[F](cfa) and spring [F]became the summer
+[C](ceg) Who'd have [C]believed you'd come
+[G](beg) along. [G]
 
-[F] and spring be[F]came the summer
-
-[C] Who'd have be[C]lieved you'd come
-
-[G]along. [G]
-
-{textcolor: pink}
 {c: BRIDGE}
-{textcolor}
-[C] Hands, [C]
+[C](g) Hands, [C](g)
+[Am/C](a) touchin' hands [Am/C](a)
 
-[Am/C] touchin' hands [Am/C]
+[G](gb) Reachin' out, [G](gb)
+[F](fac) Touchin' me, [F](fac)
+Touchin' [G](gbd) you [G](b-c-d)
 
-[G] Reachin' out, [G]
-
-[F] Touchin' me, [F]
-
-Touchin' [G] you      [G]
-
-{textcolor: pink}
 {c: CHORUS 1}
-{textcolor}
-{textcolor: yellow}
-(Sweet C[C]aroline)   [F]
-{textcolor}
+[C]Sweet Caro[F]line, (cf-ae-)
+[F](ca)good times [F]never seemed so
+[G]good [G] (bg-ac-de)
 
-[F] good times [F]never seemed so
+[C]I've been in[F]clined, (cf-ae-)
+[F](ca)to be[F]lieve they never
+[G(2)](gb) would [F(2)](fa) but [Em(2)](eg) now [Dm(2)](df) I...
 
-[G]good  (So Good, So [G]Good, So Good)
-
-[C] I've been in[F]clined,
-
-[F]  to be[F]lieve they never
-
-[G(2)] would  [F(2)]but  [Em(2)]now    [Dm(2)]I...
-
-{textcolor: pink}
 {c: VERSE 2}
-{textcolor}
 [C] Look at the [C]night,
+[F](g-c-g-a) And it [F]don't seem so lonely
+[C](c-g) We fill it [C]up with only
+[G]two. [G]
 
-[F] And it don't [F]seem so lonely
+[C](g-c-g) And when I [C]hurt,
+[F](a) Hurtin' runs [F]off my shoulders
+[C] How can I [C]hurt when holding
+[G]you? (e-d-c-)[G](b-a-g-f)
 
-[C] We fill it [C]up with only
-
-[G]two.  [G]
-
-[C] And when I [C]hurt,
-
-[F] Hurtin' runs [F]off my shoulders
-
-[C]How can I [C]hurt when holding
-
-[G]you?  [G]
-
-{textcolor: pink}
 {c: BRIDGE}
-{textcolor}
-[C] Warm,[C]
+[C](g) Warm, [C]
+touchin' [Am/C](a) warm [Am/C]
+[G](b) Reachin' [G]out,
+[F](c) touchin' me, [F]touchin'
+[G](d) you [G](gb-ac-bd)
 
-[Am/C] touchin' warm [Am/C]
-
-[G] Reachin' out, [G]
-
-[F] touchin' me, [F] touchin'
-
-[G]you. [G]
-
-{textcolor: pink}
 {c: CHORUS 2}
-{textcolor}
-{textcolor: yellow}
-(Sweet C[C]aroline),  [F]
-{textcolor}
+[C]Sweet Caro[F]line,
+[F](cf-ae-ca) good times [F]never seemed so
+[G]good [G] (bg-ac-de)
 
-[F] good times [F]never seemed so
+[C]I've been in[F]clined, (cf-ae-)
+[F](ca) to believe they never
+[G(2)](gb) would [F(2)](fa) Oh, [Em(2)](eg) no,[Dm(2)](df) no.
 
-[G]good (So Good, So Good, [G]So Good)
+{c: INSTRUMENTAL}
+[G](L:d-e-f)    [G](L:d-e-f-e-d f-e-d)
+[G](R:f-g-a)       [G](R:f-g-a-g-f a-g-f)
+[G](R:fa-gb-ac)    [G](R:fa-gb-ac gb)  [G](R:ce-bd)
+
+{c: OUTRO}
+[C]Sweet Caro[F]line,
+[F] Good times [F]never seemed so
+[G]good (So Good, So [G]Good, So Good)
 
 [C]I've been in[F]clined,
-
 [F] to be[F]lieve they never
+[G]would
 
-[G(2)] would  [F(2)]Oh,  [Em(2)]no,   [Dm(2)]no.
+(slow down)
 
-{textcolor: pink}
-{c: INSTRUMENTAL}
-{textcolor}
-{textcolor: red}
-[G](guitar) [G]
-{textcolor}
-
-{textcolor: red}
-[G](+synth) [G]
-{textcolor}
-
-[G]/        [G]Last chorus, [G]sing with me!
-
-{textcolor: pink}
-{c: OUTRO}
-{textcolor}
-{textcolor: yellow}
-Sweet Ca[C]roline,   [F]
-{textcolor}
-
-[F] Good times [F]never seemed so [G]good
-
-{textcolor: yellow}
-(So Good, So Good, So Good)[G]
-{textcolor}
-
-{textcolor: yellow}
-I've bee[C]n inclined, [F]
-{textcolor}
-
-[F] to be[F]lieve they never [G]would
-
-{textcolor: red}
- Play next chords slowly...
-{textcolor}
-
-        G       F/G(2) G(2) C
-{textcolor: yellow}
-  Sweet Ca-    ro-  liiiiine! (END)
-{textcolor}
+[G] [F/G(2)]   Sweet [G(2)]Ca-      [C]ro-    liiiiine! (END)
 

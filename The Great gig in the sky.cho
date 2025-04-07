@@ -1,0 +1,37 @@
+{title: The Great gig in the sky}
+{st: Pink Floyd}
+{musicpath:The Great Gig In The Sky.mp3}
+{key: Gm}
+{duration: 290}
+{tempo: 53}
+{midi: CC0.0@2, CC32.0@2, PC0@2, CC0.63@1, CC32.0@1, PC0@1}
+(CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{c: INTRO}
+[Bm](piano)[F]    [Bb]      [F/A]
+[Gm7](piano)[Gm6/C]        [Gm7]      [Gm6/C](C9 later)
+[Am/F]   I am not [Dm/Bb]frightened of dying. Any time will do, I don't mind.
+[Gm/Eb]  Why should I be [Eb/C]frightened of dying? There's no reason for it, 
+[Eb/G]you've gotta go sometime
+[Cm/F](piano) [Adim]       [Dm/Bb]        [Eb]     [Bb]     [Bb]
+
+
+{c: INTERLUDE}
+(snare) [Gm7](+organ +vocal [C9]solo) [Gm7]      [C9]
+[Gm7](vocal [C9]solo) [Gm7]      [C9]
+[Gm7](vocal [C9]solo) [Gm7]      [C9]
+[Gm7](vocal [C9]solo) [Gm7]      [C9]
+[Gm7](vocal [C9]solo)
+[Gm/D](G-Bb-D-F)  [Bbm/Db](G-Bb-Db-F)  [Gb7](Gb-Bb-Db-E) [Bm](Gb-B-D)
+[Bm](b-f#-d-b-[Bm]f#-d-b-f#-e-d-c#)
+
+{c: OUTRO}
+[Bm](vocal [F]solo) [Bb]       [F/A]
+[Gm7](vocal [C9]solo) [Gm7]       [C9]
+[Am/F](vocal [Dm/Bb]solo)    [Gm/Eb]      [Eb/C]     [Eb/G]
+[Cm/F] (voc[Adim]al solo) [Dm/Bb]       [Eb]    [Bb]
+[Bb]I never said I was frightened of dying
+[Gm7](vocal [C9]solo) [Gm7]      [C9]
+[Gm7](vocal [C9]solo)[Gm7]      [C9]
+[Gm7](vocal [C9]solo) [Gm7]      [C9]
+[Gm7](END)
