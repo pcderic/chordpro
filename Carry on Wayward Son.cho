@@ -1,0 +1,122 @@
+{title: Carry on Wayward Son}
+{st: Kansas}
+{musicpath: Carry On Wayward Son.mp3}
+{key: Am}
+{tempo: 120}
+{duration: 5:23}
+{midi: CC0.0@2, CC32.1@2, PC4@2, CC0.63@1, CC32.1@1, PC4@1}
+(CK:2-5, {soh}LK:Part-B{eoh})
+
+{c:Intro:}
+[NC]Carry on my wayward son
+There'll be peace when you are done
+Lay your weary head to rest
+Don't you cry no more
+ 
+{c:Bridge:}
+{soh}(organ){eoh}
+[Am](riff1:a-g-a-c [(C)]{soh}C{eoh} a-g-[Am]a-d [(D)]{soh}D{eoh} e-g-e-d-c [Am]d-g [(G)]{soh}G{eoh} d-f# [(D)]){soh}D{eoh}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+[Em](riff2: e-e E-E[Em] e-a-b-d g-d-E)[Em][(Esus4)][(Em)]
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+
+{c:Solo 1:}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+[Am][(G)][F][F]
+
+{c:Verse 1:}
+{soh}(piano){eoh}
+[Am]Once I [(G)]rose above the [F]noise and con[(G)]fusion
+  Just to get a glimpse beyond the illusion
+[Dm] I was [(C)]soaring ever [Bb]higher[(C)] 
+[Dm] but I [(C)]flew too [G]high
+ 
+{c:Verse 2:}
+[Am]Though my [(G)]eyes could see I [F]still was a [(G)]blind man
+  Though my mind could think I still was a mad man
+[Dm] I hear [(C)]the voices when I'm [Bb]dreamin'[(C)]
+[Dm] I can [(C)]hear them [G]say
+ 
+{c:Chorus:}
+{soc}
+[Am] Carry [(C)]on my way[G]ward son[(F)]
+[Am] There'll [(C)]be peace when[G] you are done (g-a-b)
+[Am] Lay your [(C)]weary head[G] to rest
+[F](stop) Don't you cry no more
+{eoc}
+ 
+{c:Bridge:}
+{soh}(organ){eoh}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+ 
+{c:Verse 3:}
+{soh}(piano){eoh} 
+[Am]Masque[(G)]rading as a [F]man with a [(G)]reason
+  My charade is the event of the season
+[Dm] If I [(C)]claim to be a [Bb]wise man[C] 
+[Dm] it surely [(C)]means that I don't [G]know
+ 
+{c:Verse 4:}
+{soh}(piano){eoh} 
+[Am]On a [(G)]stormy sea of [F]moving e[(G)]motion
+  Tossed about I'm like a ship on the ocean
+[Dm] I set a [(C)]course for winds of [Bb]fortune[(C)] 
+[Dm] but I [(C)]hear the voices [G]say
+ 
+{c:Chorus:}
+{soc}
+{soh}(piano){eoh}
+[Am] Carry [(C)]on my way[G]ward son[(F)]
+[Am] There'll [(C)]be peace when[G] you are done
+[Am] Lay your [(C)]weary head[G] to rest
+[F](stop) Don't you cry no more, no!
+{eoc}
+ 
+{c:Interlude:}
+{soh}(organ){eoh}
+(bass/drums/electrics only, 8 measures)
+[Am](riff3: a a-g-e-d-c-a-c-d-g[Am] a...)[(D)][(C)]   [Am][Am][(D)]
+[Am](riff3)[Am][(D)][(C)]   [Am][Am][(D)] 
+ 
+{c:Solo 2:}
+#(1st time organ solo, 2nd time electric solo)
+#( 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 e  | 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & | x2)
+#( E E   D   C#  B   A   G   E   G    E E   D   C#  B D F#  G   G#  A)
+[Em]{soh}(organ [Em]solo){eoh}[(A)]     [Em][Em][(A)]
+[Am](riff3)[Am][(D)][(C)]   [Am][Am][(D)]
+[Am](riff3)[Am][(D)][(C)]   [Am][Am][(D)]
+
+[Em](guitar [Em]solo)[(A)]     [Em][Em][(A)]
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+[NC](riff1)[(C)]{soh}(C){eoh}  [NC][(D)]{soh}(D){eoh}  [NC][(G)]{soh}(G)[(D)](D){eoh}
+ 
+{c:Verse 5:}
+{soh}(piano){eoh}
+[Am] Carry on [(G)]you will [F]always re[(G)]member
+  Carry on nothing equals the splendor
+[Dm] Now your [(C)]life's no longer [Bb]empty[(C)]
+[Dm] Surely [(C)]heaven waits for [G]you
+ 
+{c:Chorus:}
+{soc}
+{soh}(piano){eoh}
+[Am] Carry [(C)]on my way[G]ward son[(F)]
+[Am] There'll [(C)]be peace when[G] you are done
+[Am] Lay your [(C)]weary head[G] to rest
+[F](stop) Don't you cry. Don't you cry no more!
+{eoc}
+ 
+{c:Outro:}
+{soh}(organ){eoh}
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+[F#](lead [A]guitar)[(E)][F#](f# f# F# e c# f#...)[A][(E)]
+[F#](lead [A]guitar)[(E)][F#][A][(E)]No more!
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+[Em](riff2)[Em] [Em][(Esus4)][(Em)]
+[F#](lead [A]guitar)[(E)][F#][A][(E)]
+[F#](lead [A]guitar)[(E)][F#][A][(E)]
+[Am][(G)][F][F](END)

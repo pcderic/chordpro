@@ -1,0 +1,75 @@
+{title: Call Me}
+{st: Blondie}
+{musicpath: Call Me.mp3}
+{key: Dm}
+{tempo: 140}
+{duration: 212}
+{midi: CC0.0@2, CC32.1@2, PC3@2, CC0.63@1, CC32.1@1, PC3@1}
+(CK:2-4, {soh}LK:Part-A{eoh})
+
+{c:Intro:}
+[D5][D5][(G5)][(F5)]          [D5][D5][(F5)][(C5)]
+[D5][D5][(G5)][(F5)]          [D5][D5][(F5)][(C5)] 
+ 
+{c:Verse 1:}
+[Dm]Colour me your [Dm]colour, baby. [Bb7]Colour me your [Bb7]car.
+Colour me your colour, darling. I  know who you are.
+[G]Come up off your co[A]lour chart. [G]I know where you're co[A]min' from
+ 
+{c:Chorus:}
+{soc}
+Call me[Dm]  call me on the line.[F] Call me, [G5]call me any, [Bb]anytime.
+Call me  call me I'll arrive. You can call me any day or night call me.
+ 
+{eoc}
+ 
+{c:Bridge:}
+[D5][D5][(G5)][(F5)]          [D5][D5][(F5)][(C5)] 
+ 
+{c:Verse 2:}
+[Dm]Cover me with [Dm]kisses, baby. [Bb7]Cover me with [Bb7]love.
+Roll me in designer sheets. I'll never get enough.
+E[G]motions come, I [A]don't know why. [G]Cover up love's a[A]libi [A]
+  
+{c:Chorus:}
+{soc}
+Call me[Dm]  call me on the line. [F]Call me, [G5]call me any, [Bb]anytime
+Call me call me I'll arrive. When you're ready we can share the wine, call me
+{eoc}
+ 
+ 
+{c:Bridge:}
+[D5][D5][(G5)][(F5)]           [E5]{soh}(Key:Em){eoh}[Em][(G5)][(D5)]
+[Em]Ooo-oo-oo-[Em]oo-oo, he speaks the [Bm]languages of [Bm]love.
+Ooo-oo-oo-oo-oo, amore, chiamami, chiamami.
+[F]Ooo-oo-oo-[F]oo-oo, appelle moi [C]mon cherie, appelle [C]moi.
+Any[Dm]time, anyplace, any [Dm]where, any [Bb]way.[Bb]
+Any[G]time, anyplace, any [G]where, any [A]day.[A]
+ 
+{c:Solo:}
+[Em](synth)[Em][Bm][Bm]
+[Em](synth)[Em][Bm][Bm]
+[F](synth)[F][C][C]
+[Dm](synth)[Dm][Bb][Bb]
+[G5](synth)[G5][A]       [A] [(F5)][(C5)]
+ 
+ 
+{c:Chorus:}
+{soc}
+Call me[Dm]  call me my love.[F] Call me, [G5]call me any, [Bb]anytime
+Call me call me for a ride. Call me, call me for some overtime
+{eoc}
+
+{soc}
+Call [Dm]me call me my love. [F]Call me, [G5]call me in a [Bb]sweet design.
+Call me call me, call me for your lover's lover's alibi
+{eoc}
+
+{soc}
+Call [Dm]me call me on the line.[F] Call me, [G5]call me any, [Bb]anytime.
+Call me call me Oh, call me, oo-hoo-hah
+{eoc}
+
+(repeat and fade out)
+
+

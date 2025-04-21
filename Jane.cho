@@ -1,0 +1,81 @@
+{title:Jane}
+{st:Jefferson Starship}
+{musicpath: Jane.mp3}
+{key: Em}
+{duration: 252}
+{tempo: 117}
+{midi: CC0.0@2, CC32.7@2, PC6@2, CC0.63@1, CC32.7@1, PC6@1}
+(CK:8-7, {soh}LK:Part-B{eoh}, P1:Rotary, P2:Exp.)
+
+{c:Intro:}
+[Em7]{soh}(piano){eoh} e-g-E-d g-e-d-[Em7]g-e-d-E) [Em7](same)[Em7]
+[Em7](g-b-G-f# b-g-f#-[Em7]b-g-f#-G) [Em7](same)[Em7]
+[Em](pia[(G)]no [D]riff)[(A)]
+[Em](pia[(G)]no [D]riff)[(A)]
+[Em](pia[(G)]no [D]riff)[(A)]
+[Em](pia[(G)]no [D]riff)[(A)]
+ 
+{c:Verse 1:}
+{soh}(no piano){eoh}
+[Em]Jane, [(G)]you say it's all o[D]ver for you [(A)]and me, [Em][(G)]girl. [D][(A)]There's a time 
+    for love and a time for letting    it be,           baby.
+ 
+{c:Chorus:}
+{soc}
+(piano chords)
+[Em]Jane you're [D/F#]playing a [G]game called,[D/F#]     
+ hard to get by it's real name
+[Em] Making be[D/F#]lieve that [G]you just don't 
+[E/G#]feel the [A]same.[F#/A#][B]    Oh Jane
+{eoc}
+ 
+{c:Interlude:}
+[Em]{soh}(pia[(G)]no [D]riff){eoh}[(A)]
+[Em](pia[(G)]no [D]riff)[(A)]
+ 
+{c:Verse 2:}
+(piano riff)
+[Em]Jane, [(G)]you're playing a game[D] you ne[(A)]ver can [Em]win, [(G)]girl. [D][(A)]You're 
+staying away so I'll ask you where you've been, baby 
+ 
+{c:Chorus:}
+{soc}
+(piano chords)
+[Em] Like a [D/F#]cat and a [G]mouse[D/F#]
+ From door to door and a house to house
+[Em] Don't you pre[D/F#]tend you don't [G]know what I'm [E/G#]talking [A]about[F#/A#][B]
+{eoc}
+ 
+ 
+{c:Bridge:}
+{soh}(organ){eoh}
+[C#m]Were all those nights[F#m7]    we spent togeth[C#m]er[F#m7]     
+Only because you didn't know bettter. I gotta know.
+[F#m]Jane, you're playing a game,[G#m]you're playing a game,
+[A]playing a game! [A#dim](E-A#-C#)[B][Bsus2][(B)]
+ 
+ 
+{c:Solo:}
+Huh! [Em]{soh}(no pi[G]ano){eoh}[(A)]                [Em][G][(A)]
+[Em]{soh}(no pi[G]ano){eoh}[(A)]                [Em][G][(A)]
+[Em](no[(G)] pia[D]no)[(A)]                [Em][(G)][D][(A)]
+[Em]Jane,[(G)]Jane[D]Jane[(A)]        [Em]{soh}(pia[G]no [D]riff){eoh}[A] Oh
+
+{c:Verse 3:}
+{soh}(piano riff){eoh}
+[Em]Jane [(G)]you're playing a [D]game you ne[(A)]ver can [Em]win, [(G)]girl.[D] [(A)]
+Jane, you're playing for fun, but I play for keeps, yes I do.
+ 
+ 
+{c:Outro:}
+{soh}(piano riff){eoh}
+[Em]Jane,[(G)] Jane, Jane, [D]that's a game [(A)]on me [Em]baby[(G)][D] [(A)]  
+Jane, Jane, Jane, so plain to see girl.
+Jane, Jane, Jane Janey, Janey, Janey, Janey, Janey
+Jane, Jane, Jane, why you fooling with me, me, me?
+Jane, Jane, Jane
+Jane, Jane, Jane
+Jane, Jane, Jane
+Jane, Jane, Jane
+[Em](END)
+

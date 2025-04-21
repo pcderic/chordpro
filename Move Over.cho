@@ -1,6 +1,6 @@
 {title:Move Over}
 {st:Janis Joplin}
-{musicpath:Move Over (backing).m4a}
+{musicpath:Move Over.mp3}
 {key:Dm}
 {tempo:133}
 {duration:221}
@@ -37,7 +37,7 @@ And [Dm]what you gonna do with your [Dm]life? Love just [Dm]dangling? [Dm](a-c-f
 [Bb][(Bb)][(A)] [Dm]({soh}piano{eoh} oct.: cC-dD dD cC-dD dD[Dm]cC-dD dD cC-dD dD)
  
 {c:Guitar Solo}
-[Dm]({soh}piano{eoh}: cC-dD + Dm Dm7 [Dm]Dm Em[Dm]Dm Dm7 [Dm]Dm Em [Dm]Dm Dm7 [Dm]Dm Em [Dm]Dm Dm7 [Dm]dD-dD dD-dD)
+[Dm]({soh}piano{eoh}: cC-dD + Dm Dm7 [Dm]Dm {soh}Em{eoh} [Dm]Dm Dm7 [Dm]Dm {soh}Em{eoh} [Dm]Dm Dm7 [Dm]Dm {soh}Em{eoh} [Dm]Dm Dm7 [Dm]dD-dD dD-dD)
 [E]{soh}(organ+piano){eoh} [E] [G] [G] [E] [E] [G] [G] 
 [A] [A] [C] [C] [(C)] [(B)] [Bb] [(Bb)] [(A)] 
 

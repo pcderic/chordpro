@@ -1,6 +1,6 @@
 {title: Gimme Shelter}
 {st: Rolling Stones}
-{musicpath:Gimme Shelter.mp3}
+{musicpath:Gimme Shelter (Live Licks Tour) (boosted).m4a}
 {key:C#m}
 {tempo: 118}
 {duration: 4:20}
@@ -8,12 +8,11 @@
 (CK:1-1, {soh}LK:Part-B{eoh}, P1:Rotary, P2: Exp.)
 
 {c:Intro:}
-[C#](guit[C#]ar1)[C#] [C#]        
-[C#]ooh...[C#](+guit[C#]ar2 & [C#]perc.)[C#][C#][C#][C#]   
-[C#](+bas[C#]s)[C#][C#]
- [C#]{soh}(piano [C#]oct.){eoh}[C#][C#]
-[C#](rhythm [B]in)[A]   [A](ea-eb ea-eb [(B)]fb-fc# Bsus2-B)
- 
+[C#](guitar1: C#sus4-C#) [B/C#](Bsus4-B) [A/C#](Asus4-A) [A/C#](A-Asus4-A [(B/C#)]B-Bsus4-B) 
+[C#](+perc+g2) ooh, [B/C#]ooh, [A/C#]ooh [A/C#][(B/C#)]
+[C#](piano oct.) ooh, [B/C#]ooh, [A/C#]ooh [A/C#][(B/C#)]
+[C#](+beat +[B]piano [A]chords) [A](Esus4-A Esus4-A) [(B)](Bsus2-B Bsus2-B)
+
 {c:Verse 1:}
 [C#]Oh, a storm [C#]is threatening
 My very life today
