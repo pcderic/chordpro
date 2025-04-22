@@ -8,14 +8,15 @@
 (CK:3-5, {soh}LK:Part-B, P1:Wah, P2:Exp.{eoh})
 
 {c: INTRO}
-[D](f#ad) [E](g#be) Hey hey hey hey! [D](adf#) [Em](beg) Ooh [C](gce) Ooh [D](adf#) Ooh
-Ooh Oh!
+(snare) [D][(E)][E]Hey hey hey hey! [D][(Em)] Ooh [C] Ooh [(D)] Ooh 
+[D]Ooh [(E)]Oh! [E] [D][(Em)][C][(D)]
 
 {c: VERSE 1}
 [E](e) Won't you come [D](f#) see about me? 
 [A](e) I'll be alone [D](f#) dancing you know it baby.
 
-Tell me your troubles and doubts, giving me everything inside and out
+Tell me your troubles and doubts, 
+giving me everything inside and out.
 
 (beg#) Love's strange, so (adf#) real in the dark, 
 (ac#e) think of the tender things (adf#) that we were working on
@@ -25,57 +26,65 @@ Tell me your troubles and doubts, giving me everything inside and out
 
 {c: CHORUS}
 {soc}
-[E](be) Don't you (beg#) [D](df#a) forget about me 
-[A](eac#) [D]don't, (f#ad) don't, don't don't
-
-(be) Don't you (beg#) (df#a) forget about me (eac#) (ac#e)
+[E]Don't you {soh}(E E E E [D]D D D){eoh} forget about me [A]{soh}(A [D]D){eoh} don't, don't, don't don't
+[E] Don't you [D]forget about me [A] [A]({soh}stay on A{eoh} for bridge)
 {eoc}
 
 {c: BRIDGE}
-[C]Will you stand above [C]me, [G]look my way, [G]never love me?
-[D]Rain keeps (f#ad)falling, [D]rain keeps (adf#) falling
-[A]down (ac#e) [A](c#ea) down down
+[C]Will you stand above [C]me, {soh}(c-b-a-[G]g){eoh} look my way, [G]never love me?
+[D]Rain keeps falling, [D]rain keeps falling [A]down [A] down down
 
 Will you recognize me, call my name or walk on by?
-Rain keeps (f#ad)falling, rain kee ps (adf#)falling
-down (ac#e) down (c#ea) down
+Rain keeps falling, rain keeps falling down down down
 
 {c: INTERLUDE}
-[D](f#ad)     [E](g#be) Hey hey hey hey! [D](adf#) 
-[Em](beg) Ooh [C](gce) Ooh [D](adf#) Ooh
-
-(f#ad) Ooh (g#be) Oh!(adf#)  (beg)  (gce)  (adf#)
+[D]{soh}(intro){eoh}  [E] Hey hey hey hey! [D] 
+[Em] Ooh [C] Ooh [D] Ooh Ooh Oh!
 
 {c: VERSE 2}
-[E](e) Don't you [D](f#) try to pretend, 
-[A](e) it's my freewill we'll [D](f#) win in the end.
+(same as verse 1)
+[E] Don't you [D]try to pretend, 
+[A]  it's my freewill we'll [D]win in the end.
 
-I won't harm you or touch your defenses, vanity and security.
+I won't harm you or touch your defenses, 
+vanity and security.
 
-(beg#) Don't you (adf#) forget about me,
-(ac#e) I'll be alone (adf#) dancing, you know it, baby.
-(beg#) Going to (df#a) take you apart,
-(ac#e) I'll put us back (df#a) together at heart, baby.
+Don't you forget about me,
+I'll be alone dancing, you know it, baby.
+
+Going to take you apart,
+I'll put us back together at heart, baby.
 
 {c: CHORUS}
 {soc}
-[E](be) Don't you (beg#) [D](df#a) forget about me
-[A](eac#) [D]don't, (f#ad) don't, don't don't
+[E]Don't you [D]forget about me [A][D]don't, don't, don't don't
+Don't you forget about me, as you walk on by.
+{eoc}
 
-Don't you (forget about me, as you walk on by.
+{soc}
 Will you call my name, as you walk on by?
-Will you call my name when you walk away?(STOP)
+Will you call my name when you walk away?{soh}(STOP){eoh}
+{eoc}
+
+{c: BREAK}
+[E]({soh}e5{eoh})  [D](d)  [A](c#)  [D](d) Or will you walk away?
+{soh} (+piano chords){eoh}   Will you walk on by?
+                               Come on come on, call my name.
+          {soh}(d4 d d){eoh}       Will you call my name? {soh}(drum fill){eoh}  I say
+
+{c: CHORUS}
+{soc}
+[E] la,  la la la... [D] [A] [D]
+    la,  la la la la...
+{eoc}
+
+{soc}
+[E] la,  la la la... [D] [A] [D]
+    When you walk on by and you call my name.
 {eoc}
 
 {c: OUTRO}
-[E](e5)  [D](d)  [A](c#)  [D](d) Or will you walk away?
-                              Will you walk on by?
-                              Come on come on, call my name.
-            (d4 d d d) Will you call my name?  (DRUMS)  I say
-
-[E](be) la, (beg#)  la la la... [D](df#a) [A](eac#) [D](f#ad)
-        la,  la la la la...
-        la, la la la la...
-       When you walk on by and you call my name.  
-(drum fill)
-{soh}(repeat intro and end){eoh}
+{soh}(drum fill){eoh}
+[D]{soh}(in[(E)]tro){eoh} [E]Hey hey hey hey! [D][(Em)] Ooh [C] Ooh [(D)] Ooh 
+[D]Ooh [(E)]Oh! [E] [D][(Em)][C][(D)]
+[D][E](end)
