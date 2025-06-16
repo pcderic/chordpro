@@ -1,0 +1,78 @@
+{title: Walk of Life}
+{st: Dire Straits}
+{musicpath:Walk of Life (intro with metronome).m4a}
+{time: 4:06}
+{key: E}
+{tempo: 84}
+{metronome: 84}
+{midi: CC0.0@2, CC32.8@2, PC7@2, CC0.63@1, CC32.8@1, PC7@1}
+(CK:9-8, LK:Part-B, P1:Rotary, P2:Exp.)
+
+{c:Intro:}
+ [E(3)](organ RH)[B(1)]  [A(3)] [Amaj7(1)] [B(3)] [G#m(1)] [A(2)] [(Amaj7)]  [B(2)]
+ [E(3)](LH: G# G# F#-G#-[B(1)]B-G#-F#-[A(3)]E E [Amaj7(1)]F#-G#- [B(3)]B B F#-G#- [G#m(1)]B-G#-F#-[A(2)]E E [(Amaj7)]  [B(2)]F#-G#-B G#-F#-E-)
+(+accordion)
+(+beat)
+[E](same chords as above) Woo hoo! [A]Woohoo! [B] [A][(B)]
+ 
+{c:Verse 1:}
+[E]Here comes Johnny singing oldies, goldies
+BeBopALula, baby what I say.
+Here comes Johnny singing "I gotta woman"
+down in the tunnels, trying to make it pay.
+[A]He got the action, he got the motion. [E]Oh yeah, the boy can play.
+[A]Dedication, devotion, [E]turning all the night time into the day.
+ 
+ 
+{c:Chorus:}
+{soc}
+He do the [E]song about the sweet lovin' [(B)]woman.
+He do the [E]song about the [(A)]knife.
+Well, he do the [E]walk,[(B)] 
+he do the walk of [A]life. [(B)]Yeah, he do the walk of 
+[E]{soh}(riff){eoh} life. [A] [B]Woo hoo! [A] [(B)] 
+{eoc}
+ 
+{c:Verse 2:}
+[E]Here comes Johnny and he'll tell you the story.
+Hand me down my walkin' shoes.
+Here comes Johnny with the power and the glory.
+Backbeat the talkin' blues.
+[A]He got the action, he got the motion. [E]Oh yeah, the boy can play. 
+[A]Dedication, devotion, [E]turning all the night time into the day.
+ 
+ 
+{c:Chorus:}
+{soc}
+He do the [E]song about the sweet lovin' [(B)]woman
+He do the [E]song about the [(A)]knife
+Well, he do the [E]walk,[(B)] 
+he do the walk of [A]life. [(B)] Yeah, he do the walk of 
+[E]{soh}(riff){eoh} life. [A] [B] [A] [(B)] [E]{soh}(riff){eoh} [A]Woo hoo hoo! [B] [A] [(B)] 
+{eoc}
+ 
+ 
+{c:Verse 3:}
+[E]Here comes Johnny singing oldies, goldies
+BeBopALula, Baby What I Say
+Here comes Johnny singing "I gotta woman"
+down in the tunnels, trying to make it pay.
+[A]He got the action, he got the motion. [E]Oh yeah, the boy can play.
+[A]Dedication, devotion, [E]turning all the night time into the day.
+ 
+ 
+{c:Chorus:}
+{soc}
+And [E]after all the violence and [(B)]double talk,
+there's just a [E]song in all the trouble and the [(A)]strife.
+You do the [E]walk. [(B)]Yeah, you do the walk of [A]life. Hmm, [(B)]you do the walk of 
+[E]{soh}(riff){eoh} life. [A]Woo hoo! [B] [A] [(B)] 
+{eoc}
+  
+{c:Outro:}
+[E]{soh}(riff){eoh} [A] [B] [A] [(B)]Woo hoo hoo!
+[E]{soh}(riff){eoh} [A] [B] [A] [(B)]Woo hoo hoo!
+[E]{soh}(riff){eoh} [A]Woo hoo! [B] [A] [(B)]Woo hoo hoo!
+[E]{soh}(riff){eoh} [A]Yeah you do the walk of life.[B] [A] [(B)] 
+[E](END)
+
